@@ -1,0 +1,1118 @@
+Índice: 4
+Archivo interno: CoverPage.xhtml
+Título detectado: Sin título
+--------------------------------------------------
+Índice: 5
+Archivo interno: portada.html
+Título detectado: Comentarios Reales de los Incas
+--------------------------------------------------
+Índice: 6
+Archivo interno: info.html
+Título detectado: Sin título
+--------------------------------------------------
+Índice: 7
+Archivo interno: 0001.xhtml
+Título detectado: DEDICATORIA
+--------------------------------------------------
+Índice: 8
+Archivo interno: 0002.xhtml
+Título detectado: PROEMIO
+--------------------------------------------------
+Índice: 9
+Archivo interno: 0003.xhtml
+Título detectado: ADVERTENCIAS
+--------------------------------------------------
+Índice: 10
+Archivo interno: 0004.xhtml
+Título detectado: LIBRO PRIMERO
+--------------------------------------------------
+Índice: 11
+Archivo interno: 0005.xhtml
+Título detectado: Capítulo I: Si hay muchos mundos. Trata de las cinco Zonas.
+--------------------------------------------------
+Índice: 12
+Archivo interno: 0006.xhtml
+Título detectado: Capítulo II: Si hay antípodas.
+--------------------------------------------------
+Índice: 13
+Archivo interno: 0007.xhtml
+Título detectado: Capítulo III: Cómo se descubrió el Nuevo Mundo.
+--------------------------------------------------
+Índice: 14
+Archivo interno: 0008.xhtml
+Título detectado: Capítulo IV: La deducción del nombre Perú.
+--------------------------------------------------
+Índice: 15
+Archivo interno: 0009.xhtml
+Título detectado: Capítulo V: Autoridades en confirmación del nombre Perú.
+--------------------------------------------------
+Índice: 16
+Archivo interno: 0010.xhtml
+Título detectado: Capítulo VI: Lo que dice un autor acerca del nombre Perú.
+--------------------------------------------------
+Índice: 17
+Archivo interno: 0011.xhtml
+Título detectado: Capítulo VII: De otras deducciones de nombres nuevos.
+--------------------------------------------------
+Índice: 18
+Archivo interno: 0012.xhtml
+Título detectado: Capítulo VIII: La descripción del Perú.
+--------------------------------------------------
+Índice: 19
+Archivo interno: 0013.xhtml
+Título detectado: Capítulo IX: La idolatría y los dioses que adoraban antes de los Incas.
+--------------------------------------------------
+Índice: 20
+Archivo interno: 0014.xhtml
+Título detectado: Capítulo X: De otra gran variedad de dioses que tuvieron.
+--------------------------------------------------
+Índice: 21
+Archivo interno: 0015.xhtml
+Título detectado: Capítulo XI: Maneras de sacrificios que hacían.
+--------------------------------------------------
+Índice: 22
+Archivo interno: 0016.xhtml
+Título detectado: Capítulo XII: La vivienda y gobierno de los antiguos, y las cosas que comían.
+--------------------------------------------------
+Índice: 23
+Archivo interno: 0017.xhtml
+Título detectado: Capítulo XIII: Cómo se vestían en aquella antigüedad.
+--------------------------------------------------
+Índice: 24
+Archivo interno: 0018.xhtml
+Título detectado: Capítulo XIV: Diferentes casamientos y diversas lenguas. Usaban de veneno y de hechizos.
+--------------------------------------------------
+Índice: 25
+Archivo interno: 0019.xhtml
+Título detectado: Capítulo XV: El origen de los Incas Reyes del Perú.
+--------------------------------------------------
+Índice: 26
+Archivo interno: 0020.xhtml
+Título detectado: Capítulo XVI: La fundación del Cozco, ciudad imperial.
+--------------------------------------------------
+Índice: 27
+Archivo interno: 0021.xhtml
+Título detectado: Capítulo XVII: Lo que redujo el primer Inca Manco Cápac.
+--------------------------------------------------
+Índice: 28
+Archivo interno: 0022.xhtml
+Título detectado: Capítulo XVIII: De fábulas historiales del origen de los Incas.
+--------------------------------------------------
+Índice: 29
+Archivo interno: 0023.xhtml
+Título detectado: Capítulo XIX: Protestación del autor sobre la historia.
+--------------------------------------------------
+Índice: 30
+Archivo interno: 0024.xhtml
+Título detectado: Capítulo XX: Los pueblos que mandó poblar el primer Inca.
+--------------------------------------------------
+Índice: 31
+Archivo interno: 0025.xhtml
+Título detectado: Capítulo XXI: La enseñanza que el inca hacia de sus vasallos.
+--------------------------------------------------
+Índice: 32
+Archivo interno: 0026.xhtml
+Título detectado: Capítulo XXII: Las insignias favorables que el inca dio a los suyos.
+--------------------------------------------------
+Índice: 33
+Archivo interno: 0027.xhtml
+Título detectado: Capítulo XXIII: Otras insignias más favorables, con el nombre Inca.
+--------------------------------------------------
+Índice: 34
+Archivo interno: 0028.xhtml
+Título detectado: Capítulo XXIV: Nombres y renombres que los indios pusieron a su Rey.
+--------------------------------------------------
+Índice: 35
+Archivo interno: 0029.xhtml
+Título detectado: Capítulo XXV: Testamento y muerte del Inca Manco Cápac.
+--------------------------------------------------
+Índice: 36
+Archivo interno: 0030.xhtml
+Título detectado: Capítulo XXVI: Los nombres reales y la significación de ellos.
+--------------------------------------------------
+Índice: 37
+Archivo interno: 0031.xhtml
+Título detectado: LIBRO SEGUNDO
+--------------------------------------------------
+Índice: 38
+Archivo interno: 0032.xhtml
+Título detectado: Capítulo I: La idolatría de la segunda edad y su origen.
+--------------------------------------------------
+Índice: 39
+Archivo interno: 0033.xhtml
+Título detectado: Capítulo II: Rastrearon los Incas al verdadero Dios Nuestro Señor.
+--------------------------------------------------
+Índice: 40
+Archivo interno: 0034.xhtml
+Título detectado: Capítulo III: Tenían los Incas una cruz en lugar sagrado.
+--------------------------------------------------
+Índice: 41
+Archivo interno: 0035.xhtml
+Título detectado: Capítulo V: De otras muchas cosas que el nombre Huaca significa.
+--------------------------------------------------
+Índice: 42
+Archivo interno: 0036.xhtml
+Título detectado: Capítulo IV: De muchos dioses que los historiadores españoles impropiamente aplican a los indios.
+--------------------------------------------------
+Índice: 43
+Archivo interno: 0037.xhtml
+Título detectado: Capítulo VI: Lo que un autor dice de los dioses que tenían.
+--------------------------------------------------
+Índice: 44
+Archivo interno: 0038.xhtml
+Título detectado: Capítulo VII: Alcanzaron la inmortalidad del ánima y la resurrección universal.
+--------------------------------------------------
+Índice: 45
+Archivo interno: 0039.xhtml
+Título detectado: Capítulo VIII: Las cosas que sacrificaban al Sol.
+--------------------------------------------------
+Índice: 46
+Archivo interno: 0040.xhtml
+Título detectado: Capítulo IX: Los sacerdotes, ritos y ceremonias y sus leyes atribuyen al primer Inca.
+--------------------------------------------------
+Índice: 47
+Archivo interno: 0041.xhtml
+Título detectado: Capítulo X: Comprueba el autor lo que ha dicho con los historiadores españoles.
+--------------------------------------------------
+Índice: 48
+Archivo interno: 0042.xhtml
+Título detectado: Capítulo XI: Dividieron el Imperio en cuatro distritos. Registraban los vasallos.
+--------------------------------------------------
+Índice: 49
+Archivo interno: 0043.xhtml
+Título detectado: Capítulo XII: Dos oficios que los decuriones tenían.
+--------------------------------------------------
+Índice: 50
+Archivo interno: 0044.xhtml
+Título detectado: Capítulo XIII: De algunas leyes que los Incas tuvieron en su gobierno.
+--------------------------------------------------
+Índice: 51
+Archivo interno: 0045.xhtml
+Título detectado: Capítulo XIV: Los decuriones daban cuenta de los que nacían y morían.
+--------------------------------------------------
+Índice: 52
+Archivo interno: 0046.xhtml
+Título detectado: Capítulo XV: Niegan los indios haber hecho delito ningún Inca de la sangre real
+--------------------------------------------------
+Índice: 53
+Archivo interno: 0047.xhtml
+Título detectado: Capítulo XVI: La vida y hechos de Sinchi Roca, segundo Rey de los Incas.
+--------------------------------------------------
+Índice: 54
+Archivo interno: 0048.xhtml
+Título detectado: Capítulo XVII: Lloque Yupanqui, Rey tercero, y la significación de su nombre.
+--------------------------------------------------
+Índice: 55
+Archivo interno: 0049.xhtml
+Título detectado: Capítulo XVIII: Dos conquistas que hizo el Inca Lloque Yupanqui.
+--------------------------------------------------
+Índice: 56
+Archivo interno: 0050.xhtml
+Título detectado: Capítulo XIX: La conquista de Hatun Colla y los blasones de los Collas.
+--------------------------------------------------
+Índice: 57
+Archivo interno: 0051.xhtml
+Título detectado: Capítulo XX: La gran provincia Chucuitu se reduce de paz. Hacen lo mismo otras muchas provincias.
+--------------------------------------------------
+Índice: 58
+Archivo interno: 0052.xhtml
+Título detectado: Capítulo XXI: Las ciencias que los Incas alcanzaron, tratase primero de la astrología.
+--------------------------------------------------
+Índice: 59
+Archivo interno: 0053.xhtml
+Título detectado: Capítulo XXII: Alcanzaron la cuenta del año y los solsticios y equinoccios.
+--------------------------------------------------
+Índice: 60
+Archivo interno: 0054.xhtml
+Título detectado: Capítulo XXIII: Tuvieron cuenta con los eclipses del Sol, y lo que hacían con los de la Luna.
+--------------------------------------------------
+Índice: 61
+Archivo interno: 0055.xhtml
+Título detectado: Capítulo XXIV: La medicina que alcanzaron y la manera de curarse.
+--------------------------------------------------
+Índice: 62
+Archivo interno: 0056.xhtml
+Título detectado: Capítulo XXV: Las yerbas medicinales que alcanzaron.
+--------------------------------------------------
+Índice: 63
+Archivo interno: 0057.xhtml
+Título detectado: Capítulo XXVI: De la Geometría, Geografía, Aritmética y Música que alcanzaron.
+--------------------------------------------------
+Índice: 64
+Archivo interno: 0058.xhtml
+Título detectado: Capítulo XXVII: La poesia de los incas amantas, que son filosofos, y harauicus, que son poetas.
+--------------------------------------------------
+Índice: 65
+Archivo interno: 0059.xhtml
+Título detectado: Capítulo XXVIII: Los pocos instrumentos que los indios alcanzaron para sus oficios.
+--------------------------------------------------
+Índice: 66
+Archivo interno: 0060.xhtml
+Título detectado: LIBRO TERCERO
+--------------------------------------------------
+Índice: 67
+Archivo interno: 0061.xhtml
+Título detectado: Capítulo I: Mayta Cápac, cuarto Inca, gana a Tiahuanacu, y los edificios que allí hay.
+--------------------------------------------------
+Índice: 68
+Archivo interno: 0062.xhtml
+Título detectado: Capítulo II: Redúcese Hatunpacassa y conquistan a Cac-yauiri.
+--------------------------------------------------
+Índice: 69
+Archivo interno: 0063.xhtml
+Título detectado: Capítulo III: Perdonan los rendidos y declárase la fábula.
+--------------------------------------------------
+Índice: 70
+Archivo interno: 0064.xhtml
+Título detectado: Capítulo IV: Redúcense tres provincias, conquístanse otras, llevan colonias, castigan a los que usan de veneno.
+--------------------------------------------------
+Índice: 71
+Archivo interno: 0065.xhtml
+Título detectado: Capítulo V: Gana el Inca tres provincias, vence una batalla muy reñida.
+--------------------------------------------------
+Índice: 72
+Archivo interno: 0066.xhtml
+Título detectado: Capítulo VI: Ríndense los de Huaychu; perdónanlos afablemente.
+--------------------------------------------------
+Índice: 73
+Archivo interno: 0067.xhtml
+Título detectado: Capítulo VII: Redúcense muchos pueblos; el Inca manda hacer una puente de mimbre.
+--------------------------------------------------
+Índice: 74
+Archivo interno: 0068.xhtml
+Título detectado: Capítulo VIII: Con la fama de la puente se reducen muchas naciones de su grado.
+--------------------------------------------------
+Índice: 75
+Archivo interno: 0069.xhtml
+Título detectado: Capítulo IX: Gana el Inca otras muchas y grandes provincias y muere pacífico.
+--------------------------------------------------
+Índice: 76
+Archivo interno: 0070.xhtml
+Título detectado: Capítulo X: Cápac Yupanqui, Rey quinto, gana muchas provincias en Cuntisuyu.
+--------------------------------------------------
+Índice: 77
+Archivo interno: 0071.xhtml
+Título detectado: Capítulo XI: La conquista de los Aymaras; perdonan a los curacas. Ponen mojoneras en sus términos.
+--------------------------------------------------
+Índice: 78
+Archivo interno: 0072.xhtml
+Título detectado: Capítulo XII: Envia el Inca a conquistar los Quechuas. Ellos se reducen de su grado.
+--------------------------------------------------
+Índice: 79
+Archivo interno: 0073.xhtml
+Título detectado: Capítulo XIII: Por la costa de la mar reducen muchos valles, castigan los sodomitas.
+--------------------------------------------------
+Índice: 80
+Archivo interno: 0074.xhtml
+Título detectado: Capítulo XIV: Dos grandes curacas comprometen sus diferencias en el Inca y se hacen vasallos suyos.
+--------------------------------------------------
+Índice: 81
+Archivo interno: 0075.xhtml
+Título detectado: Capítulo XV: Hacen un puente de paja, enea y juncia en el Desaguadero. Redúcese Chayanta.
+--------------------------------------------------
+Índice: 82
+Archivo interno: 0076.xhtml
+Título detectado: Capítulo XVI: Diversos ingenios que tuvieron los indios para pasar los ríos y para sus pesquerías.
+--------------------------------------------------
+Índice: 83
+Archivo interno: 0077.xhtml
+Título detectado: Capítulo XVII: De la reducción de cinco provincias grandes, sin otras menores.
+--------------------------------------------------
+Índice: 84
+Archivo interno: 0078.xhtml
+Título detectado: Capítulo XVIII: El Principe Inca Roca reduce muchas y grandes provincias mediterráneas y marítimas.
+--------------------------------------------------
+Índice: 85
+Archivo interno: 0079.xhtml
+Título detectado: Capítulo XIX: Sacan indios de la costa para colonizar la tierra adentro. Muere el Inca Cápac Yupanqui.
+--------------------------------------------------
+Índice: 86
+Archivo interno: 0080.xhtml
+Título detectado: Capítulo XX: La descripción del Templo del Sol y sus grandes riquezas.
+--------------------------------------------------
+Índice: 87
+Archivo interno: 0081.xhtml
+Título detectado: Capítulo XXI: Del claustro del Templo y de los aposentos de la Luna y estrellas, trueno y relámpago y arco del cielo.
+--------------------------------------------------
+Índice: 88
+Archivo interno: 0082.xhtml
+Título detectado: Capítulo XXII: Nombre del Sumo Sacerdote, y otras partes de la Casa.
+--------------------------------------------------
+Índice: 89
+Archivo interno: 0083.xhtml
+Título detectado: Capítulo XXIII: Los sitios para los sacrificios y el término donde se descalzaban para ir al Templo, las fuentes que tenían.
+--------------------------------------------------
+Índice: 90
+Archivo interno: 0084.xhtml
+Título detectado: Capítulo XXIV: Del jardín de oro y otras riquezas del Templo, a cuya semejanza había otros muchos en aquel Imperio.
+--------------------------------------------------
+Índice: 91
+Archivo interno: 0085.xhtml
+Título detectado: Capítulo XXV: Del famoso Templo de Titicaca y de sus fábulas y alegorías.
+--------------------------------------------------
+Índice: 92
+Archivo interno: 0086.xhtml
+Título detectado: LIBRO CUARTO
+--------------------------------------------------
+Índice: 93
+Archivo interno: 0087.xhtml
+Título detectado: Capítulo I: La casa de las vírgenes dedicadas al Sol.
+--------------------------------------------------
+Índice: 94
+Archivo interno: 0088.xhtml
+Título detectado: Capítulo II: Los estatutos y ejercicios de las vírgenes escogidas.
+--------------------------------------------------
+Índice: 95
+Archivo interno: 0089.xhtml
+Título detectado: Capítulo III: La veneración en que tenían las cosas que hacían las escogidas, y la ley contra los que las violasen.
+--------------------------------------------------
+Índice: 96
+Archivo interno: 0090.xhtml
+Título detectado: Capítulo IV: Que había otras muchas casas de escogidas. Compruébase la ley rigurosa.
+--------------------------------------------------
+Índice: 97
+Archivo interno: 0091.xhtml
+Título detectado: Capítulo V: El servicio y ornamento de las escogidas y que no las daban por mujeres a nadie.
+--------------------------------------------------
+Índice: 98
+Archivo interno: 0092.xhtml
+Título detectado: Capítulo VI: De cuáles mujeres hacia merced el Inca.
+--------------------------------------------------
+Índice: 99
+Archivo interno: 0093.xhtml
+Título detectado: Capítulo VII: De otras mujeres que guardaban virginidad y de las viudas.
+--------------------------------------------------
+Índice: 100
+Archivo interno: 0094.xhtml
+Título detectado: Capítulo VIII: Cómo casaban en común y cómo asentaban la casa.
+--------------------------------------------------
+Índice: 101
+Archivo interno: 0095.xhtml
+Título detectado: Capítulo IX: Casaban al Príncipe heredero con su propia hermana, y las razones que para ello daban.
+--------------------------------------------------
+Índice: 102
+Archivo interno: 0096.xhtml
+Título detectado: Capítulo X: Diferentes maneras de heredar los estados.
+--------------------------------------------------
+Índice: 103
+Archivo interno: 0097.xhtml
+Título detectado: Capítulo XI: El destetar, trasquilar y poner nombre a los niños.
+--------------------------------------------------
+Índice: 104
+Archivo interno: 0098.xhtml
+Título detectado: Capítulo XII: Criaban los hijos sin regalo ninguno.
+--------------------------------------------------
+Índice: 105
+Archivo interno: 0099.xhtml
+Título detectado: Capítulo XIII: Vida y ejercicio de las mujeres casadas.
+--------------------------------------------------
+Índice: 106
+Archivo interno: 0100.xhtml
+Título detectado: Capítulo XIV: Cómo se visitaban las mujeres, como trataban su ropa, y que las había públicas.
+--------------------------------------------------
+Índice: 107
+Archivo interno: 0101.xhtml
+Título detectado: Capítulo XV: Inca Roca, sexto Rey, conquista muchas naciones y entre ellas los Chancas y HancohuaNu.
+--------------------------------------------------
+Índice: 108
+Archivo interno: 0102.xhtml
+Título detectado: Capítulo XVI: El Príncipe Yáhuar Huácac y la interpretación de su nombre.
+--------------------------------------------------
+Índice: 109
+Archivo interno: 0103.xhtml
+Título detectado: Capítulo XVII: Los ídolos de los indios Antis y la conquista de los Charcas.
+--------------------------------------------------
+Índice: 110
+Archivo interno: 0104.xhtml
+Título detectado: Capítulo XVIII: El razonamiento de los viejos y cómo reciben al Inca.
+--------------------------------------------------
+Índice: 111
+Archivo interno: 0105.xhtml
+Título detectado: Capítulo XIX: De algunas leyes que el Rey Inca Roca hizo y las escuelas que fundó en el Cozco, y de algunos dichos que dijo.
+--------------------------------------------------
+Índice: 112
+Archivo interno: 0106.xhtml
+Título detectado: Capítulo XX: El Inca llora sangre, sétimo rey, y sus miedos y conquistas, y el disfavor del Principe.
+--------------------------------------------------
+Índice: 113
+Archivo interno: 0107.xhtml
+Título detectado: Capítulo XXI: De un aviso que una fantasma dio al Príncipe para que lo lleve a su padre.
+--------------------------------------------------
+Índice: 114
+Archivo interno: 0108.xhtml
+Título detectado: Capítulo XXII: Las consultas de los Incas sobre el recaudo de la fantasma.
+--------------------------------------------------
+Índice: 115
+Archivo interno: 0109.xhtml
+Título detectado: Capítulo XXIII: La rebelión de los Chancas y sus antiguas hazañas.
+--------------------------------------------------
+Índice: 116
+Archivo interno: 0110.xhtml
+Título detectado: Capítulo XXIV: El Inca desampara la ciudad y el Príncipe la socorre.
+--------------------------------------------------
+Índice: 117
+Archivo interno: 0111.xhtml
+Título detectado: LIBRO QUINTO
+--------------------------------------------------
+Índice: 118
+Archivo interno: 0112.xhtml
+Título detectado: Capítulo I: Cómo acrecentaban y repartían las tierras a los vasallos.
+--------------------------------------------------
+Índice: 119
+Archivo interno: 0113.xhtml
+Título detectado: Capítulo II: El orden que tenían en labrar las tierras; la fiesta con que labraban las del Inca y las del Sol.
+--------------------------------------------------
+Índice: 120
+Archivo interno: 0114.xhtml
+Título detectado: Capítulo III: La cantidad de tierra que daban a cada indio, y cómo la beneficiaban.
+--------------------------------------------------
+Índice: 121
+Archivo interno: 0115.xhtml
+Título detectado: Capítulo IV: Cómo repartían el agua para regar. Castigaban a los flojos y descuidados.
+--------------------------------------------------
+Índice: 122
+Archivo interno: 0116.xhtml
+Título detectado: Capítulo V: El tributo que daban al Inca y la cuenta de los orones.
+--------------------------------------------------
+Índice: 123
+Archivo interno: 0117.xhtml
+Título detectado: Capítulo VI: Hacían de vestir, armas y calzado para la gente de guerra.
+--------------------------------------------------
+Índice: 124
+Archivo interno: 0118.xhtml
+Título detectado: Capítulo VII: El oro y plata y otras cosas de estima no eran de tributo, sino presentadas.
+--------------------------------------------------
+Índice: 125
+Archivo interno: 0119.xhtml
+Título detectado: Capítulo VIII: La guarda y el gasto de los bastimentos.
+--------------------------------------------------
+Índice: 126
+Archivo interno: 0120.xhtml
+Título detectado: Capítulo IX: Daban de vestir a los vasallos. No hubo pobres mendigantes.
+--------------------------------------------------
+Índice: 127
+Archivo interno: 0121.xhtml
+Título detectado: Capítulo X: El orden y división del ganado, y de los animales extraños.
+--------------------------------------------------
+Índice: 128
+Archivo interno: 0122.xhtml
+Título detectado: Capítulo XI: Leyes y ordenanzas de los Incas para el beneficio de los vasallos.
+--------------------------------------------------
+Índice: 129
+Archivo interno: 0123.xhtml
+Título detectado: Capítulo XII: Cómo conquistaban y domesticaban los nuevos vasallos.
+--------------------------------------------------
+Índice: 130
+Archivo interno: 0124.xhtml
+Título detectado: Capítulo XIII: Cómo proveían los ministros para todos oficios.
+--------------------------------------------------
+Índice: 131
+Archivo interno: 0125.xhtml
+Título detectado: Capítulo XIV: La razón y cuenta que había en los bienes comunes y particulares.
+--------------------------------------------------
+Índice: 132
+Archivo interno: 0126.xhtml
+Título detectado: Capítulo XV: En qué pagaban el tributo, la cantidad de él y las leyes acerca de él.
+--------------------------------------------------
+Índice: 133
+Archivo interno: 0127.xhtml
+Título detectado: Capítulo XVI: Orden y razón para cobrar los tributos. El Inca
+
+hacía merced a los curacas de las cosas preciadas que le presentaban.
+--------------------------------------------------
+Índice: 134
+Archivo interno: 0128.xhtml
+Título detectado: Capítulo XVII: El Inca Viracocha tiene nueva de los enemigos y de un socorro que le viene.
+--------------------------------------------------
+Índice: 135
+Archivo interno: 0129.xhtml
+Título detectado: Capítulo XVIII: Batalla muy sangrienta, y el ardid con que se venció.
+--------------------------------------------------
+Índice: 136
+Archivo interno: 0130.xhtml
+Título detectado: Capítulo XIX: Generosidades del Príncipe Inca Viracocha después de la victoria.
+--------------------------------------------------
+Índice: 137
+Archivo interno: 0131.xhtml
+Título detectado: Capítulo XX: El Príncipe sigue el alcance, vuelve al Cozco, vése con su padre, desposéele del Imperio
+--------------------------------------------------
+Índice: 138
+Archivo interno: 0132.xhtml
+Título detectado: Capítulo XXI: Del nombre Viracocha, y por qué se lo dieron a los españoles.
+--------------------------------------------------
+Índice: 139
+Archivo interno: 0133.xhtml
+Título detectado: Capítulo XXII: El Inca Viracocha manda labrar un templo en memoria de su tío, la fantasma.
+--------------------------------------------------
+Índice: 140
+Archivo interno: 0134.xhtml
+Título detectado: Capítulo XXIII: Pintura famosa; y la gratificación a los del socorro.
+--------------------------------------------------
+Índice: 141
+Archivo interno: 0135.xhtml
+Título detectado: Capítulo XXIV: Nuevas provincias que el Inca sujeta, y una acequia para regar los pastos.
+--------------------------------------------------
+Índice: 142
+Archivo interno: 0136.xhtml
+Título detectado: Capítulo XXV: El Inca visita su Imperio. Vienen embajadores ofreciendo vasallaje.
+--------------------------------------------------
+Índice: 143
+Archivo interno: 0137.xhtml
+Título detectado: Capítulo XXVI: La huida del bravo Hancohuallu del Imperio de los Incas.
+--------------------------------------------------
+Índice: 144
+Archivo interno: 0138.xhtml
+Título detectado: Capítulo XXVII: Colonias en las tierras de Hancohuallu; el valle de Yúcay ilustrado.
+--------------------------------------------------
+Índice: 145
+Archivo interno: 0139.xhtml
+Título detectado: Capítulo XXVIII: Dió nombre al primogénito, hizo pronóstico de la ida de los españoles.
+--------------------------------------------------
+Índice: 146
+Archivo interno: 0140.xhtml
+Título detectado: Capítulo XXIX: La muerte del Inca Viracocha. El autor vio su cuerpo.
+--------------------------------------------------
+Índice: 147
+Archivo interno: 0141.xhtml
+Título detectado: LIBRO SEXTO
+--------------------------------------------------
+Índice: 148
+Archivo interno: 0142.xhtml
+Título detectado: Capítulo I: La fábrica y ornamento de las casas reales.
+--------------------------------------------------
+Índice: 149
+Archivo interno: 0143.xhtml
+Título detectado: Capítulo II: Contrahacían de oro y plata cuanto había, para adornar las casas reales.
+--------------------------------------------------
+Índice: 150
+Archivo interno: 0144.xhtml
+Título detectado: Capítulo III: Los criados de la casa real y los que traían las andas del Rey.
+--------------------------------------------------
+Índice: 151
+Archivo interno: 0145.xhtml
+Título detectado: Capítulo IV: Salas que servían de plaza y otras cosas de las casas reales.
+--------------------------------------------------
+Índice: 152
+Archivo interno: 0146.xhtml
+Título detectado: Capítulo V: Cómo enterraban los Reyes. Duraban las obsequias un año.
+--------------------------------------------------
+Índice: 153
+Archivo interno: 0147.xhtml
+Título detectado: Capítulo VI: Cacería solemne que los Reyes hacían en todo el Reino.
+--------------------------------------------------
+Índice: 154
+Archivo interno: 0148.xhtml
+Título detectado: Capítulo VII: Postas y correos, y los despachos que llevaban.
+--------------------------------------------------
+Índice: 155
+Archivo interno: 0149.xhtml
+Título detectado: Capítulo VIII: Contaban por hilos y nudos; había gran fidelidad en los contadores.
+--------------------------------------------------
+Índice: 156
+Archivo interno: 0150.xhtml
+Título detectado: Capítulo IX: Lo que asentaban en sus cuentas, y cómo se entendían.
+--------------------------------------------------
+Índice: 157
+Archivo interno: 0151.xhtml
+Título detectado: Capítulo X: El Inca Pachacútec visita su Imperio; conquista la nación Huanca.
+--------------------------------------------------
+Índice: 158
+Archivo interno: 0152.xhtml
+Título detectado: Capítulo XI: De otras provincias que gano el Inca, y de las costumbres de ellas y castigo de la sodomía.
+--------------------------------------------------
+Índice: 159
+Archivo interno: 0153.xhtml
+Título detectado: Capítulo XII: Edificios y leyes y nuevas conquistas que el Inca Pachacútec hizo.
+--------------------------------------------------
+Índice: 160
+Archivo interno: 0154.xhtml
+Título detectado: Capítulo XIII: Gana el Inca las provincias rebeldes, con hambre y astucia militar.
+--------------------------------------------------
+Índice: 161
+Archivo interno: 0155.xhtml
+Título detectado: Capítulo XIV: Del buen curaca Huamachucu y cómo se redujo.
+--------------------------------------------------
+Índice: 162
+Archivo interno: 0156.xhtml
+Título detectado: Capítulo XV: Resisten los de Cassamarca y al fin se rinden.
+--------------------------------------------------
+Índice: 163
+Archivo interno: 0157.xhtml
+Título detectado: Capítulo XVI: La conquista de Yauyu y el triunfo de los Incas, tío y sobrino.
+--------------------------------------------------
+Índice: 164
+Archivo interno: 0158.xhtml
+Título detectado: Capítulo XVII: Redúcense dos valles, y Chincha responde con soberbia.
+--------------------------------------------------
+Índice: 165
+Archivo interno: 0159.xhtml
+Título detectado: Capítulo XVIII: La pertinacia de Chincha y cómo al fin se reduce.
+--------------------------------------------------
+Índice: 166
+Archivo interno: 0160.xhtml
+Título detectado: Capítulo XIX: Conquistas antiguas y jactancias falsas de los Chinchas.
+--------------------------------------------------
+Índice: 167
+Archivo interno: 0161.xhtml
+Título detectado: Capítulo XX: La fiesta principal del Sol y cómo se preparaban para ella.
+--------------------------------------------------
+Índice: 168
+Archivo interno: 0162.xhtml
+Título detectado: Capítulo XXI: Adoraban al Sol, iban a su casa, sacrificaban un cordero.
+--------------------------------------------------
+Índice: 169
+Archivo interno: 0163.xhtml
+Título detectado: Capítulo XXII: Los agüeros de sus sacrificios, y fuego para ellos.
+--------------------------------------------------
+Índice: 170
+Archivo interno: 0164.xhtml
+Título detectado: Capítulo XXIII: Brindanse unos a otros, y con qué orden.
+--------------------------------------------------
+Índice: 171
+Archivo interno: 0165.xhtml
+Título detectado: Capítulo XXIV: Armaban caballeros a los Incas, y cómo los examinaban
+--------------------------------------------------
+Índice: 172
+Archivo interno: 0166.xhtml
+Título detectado: Capítulo XXV: Habían de saber hacer sus armas y el calzado
+--------------------------------------------------
+Índice: 173
+Archivo interno: 0167.xhtml
+Título detectado: Capítulo XXVI: Entraba el Príncipe en la aprobación; tratábanle con más rigor que a los demás.
+--------------------------------------------------
+Índice: 174
+Archivo interno: 0168.xhtml
+Título detectado: Capítulo XXVII: El Inca daba la principal insignia y un pariente las demás.
+--------------------------------------------------
+Índice: 175
+Archivo interno: 0169.xhtml
+Título detectado: Capítulo XXVIII: Divisas de los Reyes y de los demás Incas, y los maestros de los noveles.
+--------------------------------------------------
+Índice: 176
+Archivo interno: 0170.xhtml
+Título detectado: Capítulo XXIX: Ríndese Chuquimancu, Señor de cuatro valles.
+--------------------------------------------------
+Índice: 177
+Archivo interno: 0171.xhtml
+Título detectado: Capítulo XXX: Los valles de Pachacámac y Rímac y sus ídolos.
+--------------------------------------------------
+Índice: 178
+Archivo interno: 0172.xhtml
+Título detectado: Capítulo XXXI: Requieren a Cuismancu; su respuesta y capitulaciones.
+--------------------------------------------------
+Índice: 179
+Archivo interno: 0173.xhtml
+Título detectado: Capítulo XXXII: Van a conquistar al Rey Chimu, y la guerra cruel que se hacen.
+--------------------------------------------------
+Índice: 180
+Archivo interno: 0174.xhtml
+Título detectado: Capítulo XXXIII: Pertinacia y aflicciones del Gran Chimu, y cómo se rinde.
+--------------------------------------------------
+Índice: 181
+Archivo interno: 0175.xhtml
+Título detectado: Capítulo XXXIV: Ilustra el Inca su Imperio, y sus ejercicios hasta su muerte.
+--------------------------------------------------
+Índice: 182
+Archivo interno: 0176.xhtml
+Título detectado: Capítulo XXXV: Aumentó las escuelas, hizo leyes para el buen gobierno.
+--------------------------------------------------
+Índice: 183
+Archivo interno: 0177.xhtml
+Título detectado: Capítulo XXXVI: Otras muchas leyes del Inca Pachacútec, y sus dichos sentenciosos.
+--------------------------------------------------
+Índice: 184
+Archivo interno: 0178.xhtml
+Título detectado: LIBRO SÉPTIMO
+--------------------------------------------------
+Índice: 185
+Archivo interno: 0179.xhtml
+Título detectado: Capítulo I: Los Incas hacían colonias; tuvieron dos lenguajes.
+--------------------------------------------------
+Índice: 186
+Archivo interno: 0180.xhtml
+Título detectado: Capítulo II: Los herederos de los Señores se criaban en la corte, y las causas por qué.
+--------------------------------------------------
+Índice: 187
+Archivo interno: 0181.xhtml
+Título detectado: Capítulo III: De la lengua cortesana.
+--------------------------------------------------
+Índice: 188
+Archivo interno: 0182.xhtml
+Título detectado: Capítulo IV: De la utilidad de la lengua cortesana.
+--------------------------------------------------
+Índice: 189
+Archivo interno: 0183.xhtml
+Título detectado: Capítulo V: Tercera fiesta solemne que hacían al Sol.
+--------------------------------------------------
+Índice: 190
+Archivo interno: 0184.xhtml
+Título detectado: Capítulo VI: Cuarta fiesta; sus ayunos, y el limpiarse de sus males.
+--------------------------------------------------
+Índice: 191
+Archivo interno: 0185.xhtml
+Título detectado: Capítulo VII: Fiesta nocturna para desterrar los males de la ciudad.
+--------------------------------------------------
+Índice: 192
+Archivo interno: 0186.xhtml
+Título detectado: Capítulo VIII: La descripción de la imperial ciudad del Cozco.
+--------------------------------------------------
+Índice: 193
+Archivo interno: 0187.xhtml
+Título detectado: Capítulo IX: La ciudad contenía la descripción de todo el Imperio.
+--------------------------------------------------
+Índice: 194
+Archivo interno: 0188.xhtml
+Título detectado: Capítulo X: El sitio de las escuelas y el de tres casas reales y el de las escogidas.
+--------------------------------------------------
+Índice: 195
+Archivo interno: 0189.xhtml
+Título detectado: Capítulo XI: Los barrios y casas que hay al poniente del arroyo.
+--------------------------------------------------
+Índice: 196
+Archivo interno: 0190.xhtml
+Título detectado: Capítulo XII: Dos limosnas que la ciudad hizo para obras pías.
+--------------------------------------------------
+Índice: 197
+Archivo interno: 0191.xhtml
+Título detectado: Capítulo XIII: Nueva conquista que el Rey Inca Yupanqui pretende hacer.
+--------------------------------------------------
+Índice: 198
+Archivo interno: 0192.xhtml
+Título detectado: Capítulo XIV: Los sucesos de la jornada de Musu, hasta el fin de ella.
+--------------------------------------------------
+Índice: 199
+Archivo interno: 0193.xhtml
+Título detectado: Capítulo XV: Rastros que de aquella jornada se han hallado.
+--------------------------------------------------
+Índice: 200
+Archivo interno: 0194.xhtml
+Título detectado: Capítulo XVI: De otros sucesos infelices que en aquella provincia han pasado.
+--------------------------------------------------
+Índice: 201
+Archivo interno: 0195.xhtml
+Título detectado: Capítulo XVII: La nación Chirihuana y su vida y costumbres.
+--------------------------------------------------
+Índice: 202
+Archivo interno: 0196.xhtml
+Título detectado: Capítulo XVIII: Prevenciones para la conquista de Chili.
+--------------------------------------------------
+Índice: 203
+Archivo interno: 0197.xhtml
+Título detectado: Capítulo XIX: Ganan los Incas hasta el valle que llaman Chili, y los mensajes y respuestas que tienen con otras nuevas naciones.
+--------------------------------------------------
+Índice: 204
+Archivo interno: 0198.xhtml
+Título detectado: Capítulo XX: Batalla cruel entre los Incas y otras diversas naciones, y el primer español que descubrio a Chili.
+--------------------------------------------------
+Índice: 205
+Archivo interno: 0199.xhtml
+Título detectado: Capítulo XXI: Rebelión de Chili contra el Gobernador Valdivia.
+--------------------------------------------------
+Índice: 206
+Archivo interno: 0200.xhtml
+Título detectado: Capítulo XXII: Batalla con nueva orden y ardid de guerra de un indio, Capitán viejo
+--------------------------------------------------
+Índice: 207
+Archivo interno: 0201.xhtml
+Título detectado: Capítulo XXIII: Vencen los indios por el aviso y traición de uno de ellos
+--------------------------------------------------
+Índice: 208
+Archivo interno: 0202.xhtml
+Título detectado: Capítulo XXIV: Matan a Valdivia; ha cincuenta años que sustentan la guerra
+--------------------------------------------------
+Índice: 209
+Archivo interno: 0203.xhtml
+Título detectado: Capítulo XXV: Nuevos sucesos desgraciados del Reino de Chili
+--------------------------------------------------
+Índice: 210
+Archivo interno: 0204.xhtml
+Título detectado: Capítulo XXVI: Vida quieta y ejercicios del Rey Inca Yupanqui hasta su muerte
+--------------------------------------------------
+Índice: 211
+Archivo interno: 0205.xhtml
+Título detectado: Capítulo XXVII: La fortaleza del Cozco; el grandor de sus piedras
+--------------------------------------------------
+Índice: 212
+Archivo interno: 0206.xhtml
+Título detectado: Capítulo XXVIII: Tres muros de la cerca, lo más admirable de la obra
+--------------------------------------------------
+Índice: 213
+Archivo interno: 0207.xhtml
+Título detectado: Capítulo XXIX: Tres torreones, los maestros mayores y la piedra cansada
+--------------------------------------------------
+Índice: 214
+Archivo interno: 0208.xhtml
+Título detectado: LIBRO OCTAVO
+--------------------------------------------------
+Índice: 215
+Archivo interno: 0209.xhtml
+Título detectado: Capítulo I: La conquista de la provincia Huacrachucu, y su nombre
+--------------------------------------------------
+Índice: 216
+Archivo interno: 0210.xhtml
+Título detectado: Capítulo II: La conquista de los primeros pueblos de la provincia Chachapuya
+--------------------------------------------------
+Índice: 217
+Archivo interno: 0211.xhtml
+Título detectado: Capítulo III: La conquista de otros pueblos y otras naciones bárbaras
+--------------------------------------------------
+Índice: 218
+Archivo interno: 0212.xhtml
+Título detectado: Capítulo IV: La conquista de tres grandes provincias belicosas y muy pertinaces
+--------------------------------------------------
+Índice: 219
+Archivo interno: 0213.xhtml
+Título detectado: Capítulo V: La conquista de la provincia Cañari, sus riquezas y templo
+--------------------------------------------------
+Índice: 220
+Archivo interno: 0214.xhtml
+Título detectado: Capítulo VI: La conquista de otras muchas y grandes provincias, hasta los términos de Quitu
+--------------------------------------------------
+Índice: 221
+Archivo interno: 0215.xhtml
+Título detectado: Capítulo VII: Hace el Inca la conquista de Quitu; hállase en ella el Príncipe Huayna Cápac
+--------------------------------------------------
+Índice: 222
+Archivo interno: 0216.xhtml
+Título detectado: Capítulo VIII: Tres casamientos de Huayna Cápac; la muerte de su padre y sus dichos
+--------------------------------------------------
+Índice: 223
+Archivo interno: 0217.xhtml
+Título detectado: Capítulo IX: Del maíz y lo que llaman arroz, y de otras semillas
+--------------------------------------------------
+Índice: 224
+Archivo interno: 0218.xhtml
+Título detectado: Capítulo X: De las legumbres que se crían debajo de la tierra
+--------------------------------------------------
+Índice: 225
+Archivo interno: 0219.xhtml
+Título detectado: Capítulo XI: De las frutas de árboles mayores
+--------------------------------------------------
+Índice: 226
+Archivo interno: 0220.xhtml
+Título detectado: Capítulo XII: Del arbol mullí y del pimiento
+--------------------------------------------------
+Índice: 227
+Archivo interno: 0221.xhtml
+Título detectado: Capítulo XIII: Del árbol maguey y de sus provechos
+--------------------------------------------------
+Índice: 228
+Archivo interno: 0222.xhtml
+Título detectado: Capítulo XIV: Del plátano, piña y otras frutas
+--------------------------------------------------
+Índice: 229
+Archivo interno: 0223.xhtml
+Título detectado: Capítulo XV: De la preciada hoja llamada cuca y del tabaco
+--------------------------------------------------
+Índice: 230
+Archivo interno: 0224.xhtml
+Título detectado: Capítulo XVI: Del ganado manso y las recuas que de él habia
+--------------------------------------------------
+Índice: 231
+Archivo interno: 0225.xhtml
+Título detectado: Capítulo XVII: Del ganado bravo y de otras sabandijas
+--------------------------------------------------
+Índice: 232
+Archivo interno: 0226.xhtml
+Título detectado: Capítulo XVIII: Leones, osos, tigres, micos y monas
+--------------------------------------------------
+Índice: 233
+Archivo interno: 0227.xhtml
+Título detectado: Capítulo XIX: De las aves mansas y bravas de tierra y de agua
+--------------------------------------------------
+Índice: 234
+Archivo interno: 0228.xhtml
+Título detectado: Capítulo XX: De las perdices, palomas y otras aves menores
+--------------------------------------------------
+Índice: 235
+Archivo interno: 0229.xhtml
+Título detectado: Capítulo XXI: Diferencias de papagayos, y su mucho hablar
+--------------------------------------------------
+Índice: 236
+Archivo interno: 0230.xhtml
+Título detectado: Capítulo XXII: De cuatro ríos famosos y del pescado que en los del Perú se cría
+--------------------------------------------------
+Índice: 237
+Archivo interno: 0231.xhtml
+Título detectado: Capítulo XXIII: De las esmeraldas, turquesas y perlas
+--------------------------------------------------
+Índice: 238
+Archivo interno: 0232.xhtml
+Título detectado: Capítulo XXIV: Del oro y plata
+--------------------------------------------------
+Índice: 239
+Archivo interno: 0233.xhtml
+Título detectado: Capítulo XXV: Del azogue, y cómo fundían el metal antes de él
+--------------------------------------------------
+Índice: 240
+Archivo interno: 0234.xhtml
+Título detectado: LIBRO NOVENO
+--------------------------------------------------
+Índice: 241
+Archivo interno: 0235.xhtml
+Título detectado: Capítulo I: Huayna Cápac manda hacer una maroma de oro; por qué y para qué.
+--------------------------------------------------
+Índice: 242
+Archivo interno: 0236.xhtml
+Título detectado: Capítulo II: Redúcense de su grado diez valles de la costa, y Túmpiz se rinde
+--------------------------------------------------
+Índice: 243
+Archivo interno: 0237.xhtml
+Título detectado: Capítulo III: El castigo de los que mataron los ministros de Túpac Inca Yupanqui
+--------------------------------------------------
+Índice: 244
+Archivo interno: 0238.xhtml
+Título detectado: Capítulo IV: Visita el Inca su Imperio, consulta los oráculos, gana la isla Puna
+--------------------------------------------------
+Índice: 245
+Archivo interno: 0239.xhtml
+Título detectado: Capítulo V: Matan los de Puna a los capitanes de Huayna Cápac
+--------------------------------------------------
+Índice: 246
+Archivo interno: 0240.xhtml
+Título detectado: Capítulo VI: El castigo que se hizo en los rebelados
+--------------------------------------------------
+Índice: 247
+Archivo interno: 0241.xhtml
+Título detectado: Capítulo VII: Motín de los Chachapuyas y la magnanimidad de Huayna Cápac
+--------------------------------------------------
+Índice: 248
+Archivo interno: 0242.xhtml
+Título detectado: Capítulo VIII: Dioses y costumbres de la nación Manta, y su reducción; y la de otras muy barbaras
+--------------------------------------------------
+Índice: 249
+Archivo interno: 0243.xhtml
+Título detectado: Capítulo IX: De los gigantes que hubo en aquella región y la muerte de ellos
+--------------------------------------------------
+Índice: 250
+Archivo interno: 0244.xhtml
+Título detectado: Capítulo X: Lo Que Huayna Cápac dijo acerca del Sol
+--------------------------------------------------
+Índice: 251
+Archivo interno: 0245.xhtml
+Título detectado: Capítulo XI: Rebelión de los Caranques y su castigo
+--------------------------------------------------
+Índice: 252
+Archivo interno: 0246.xhtml
+Título detectado: Capítulo XII: Huayna Cápac hace Rey de Quitu a su hijo Atahuallpa
+--------------------------------------------------
+Índice: 253
+Archivo interno: 0247.xhtml
+Título detectado: Capítulo XIII: Dos caminos famosos que hubo en el Perú
+--------------------------------------------------
+Índice: 254
+Archivo interno: 0248.xhtml
+Título detectado: Capítulo XIV: Tuvo nuevas Huayna Cápac de los españoles que andaban en la costa
+--------------------------------------------------
+Índice: 255
+Archivo interno: 0249.xhtml
+Título detectado: Capítulo XV: Testamento y muerte de Huayna Cápac, y el pronóstico de la ida de los españoles
+--------------------------------------------------
+Índice: 256
+Archivo interno: 0250.xhtml
+Título detectado: Capítulo XVI: De las yeguas y caballos, y cómo los criaban a los principios, y lo mucho que valían
+--------------------------------------------------
+Índice: 257
+Archivo interno: 0251.xhtml
+Título detectado: Capítulo XVII: De las vacas y bueyes, y sus precios altos y bajos
+--------------------------------------------------
+Índice: 258
+Archivo interno: 0252.xhtml
+Título detectado: Capítulo XVIII: De los camellos, asnos y cabras, y sus precios y mucha cría.
+--------------------------------------------------
+Índice: 259
+Archivo interno: 0253.xhtml
+Título detectado: Capítulo XIX: De las puercas, y su mucha fertilidad.
+--------------------------------------------------
+Índice: 260
+Archivo interno: 0254.xhtml
+Título detectado: Capítulo XX: De las ovejas y gatos caseros
+--------------------------------------------------
+Índice: 261
+Archivo interno: 0255.xhtml
+Título detectado: Capítulo XXI: Conejos y perros castizos.
+--------------------------------------------------
+Índice: 262
+Archivo interno: 0256.xhtml
+Título detectado: Capítulo XXII: De las ratas y la multitud de ellas.
+--------------------------------------------------
+Índice: 263
+Archivo interno: 0257.xhtml
+Título detectado: Capítulo XXIII: De las gallinas y palomas.
+--------------------------------------------------
+Índice: 264
+Archivo interno: 0258.xhtml
+Título detectado: Capítulo XXIV: Del trigo.
+--------------------------------------------------
+Índice: 265
+Archivo interno: 0259.xhtml
+Título detectado: Capítulo XXV: De la vid, y del primero que metió uvas en el Cozco.
+--------------------------------------------------
+Índice: 266
+Archivo interno: 0260.xhtml
+Título detectado: Capítulo XXVI: Del vino y del primero que hizo vino en el Cozco, y de sus precios
+--------------------------------------------------
+Índice: 267
+Archivo interno: 0261.xhtml
+Título detectado: Capítulo XXVII: Del olivo y quién lo llevo al Perú
+--------------------------------------------------
+Índice: 268
+Archivo interno: 0262.xhtml
+Título detectado: Capítulo XXVIII: De las frutas de España y cañas de azúcar.
+--------------------------------------------------
+Índice: 269
+Archivo interno: 0263.xhtml
+Título detectado: Capítulo XXIX: De la hortaliza y yerbas, y de la grandeza de ellas.
+--------------------------------------------------
+Índice: 270
+Archivo interno: 0264.xhtml
+Título detectado: Capítulo XXX: Del lino, espárragos, biznagas y anís.
+--------------------------------------------------
+Índice: 271
+Archivo interno: 0265.xhtml
+Título detectado: Capítulo XXXI: Nombres nuevos para nombrar diversas generaciones.
+--------------------------------------------------
+Índice: 272
+Archivo interno: 0266.xhtml
+Título detectado: Capítulo XXXII: Huáscar Inca pide reconocimiento de vasallaje a su hermano Atahuallpa.
+--------------------------------------------------
+Índice: 273
+Archivo interno: 0267.xhtml
+Título detectado: Capítulo XXXIII: Astucias de Atahuallpa para descuidar al hermano.
+--------------------------------------------------
+Índice: 274
+Archivo interno: 0268.xhtml
+Título detectado: Capítulo XXXIV: Avisan a Huáscar, el cual hace llamamiento de gente.
+--------------------------------------------------
+Índice: 275
+Archivo interno: 0269.xhtml
+Título detectado: Capítulo XXXV: Batalla de los Incas; victoria de Atahuallpa, y sus crueldades.
+--------------------------------------------------
+Índice: 276
+Archivo interno: 0270.xhtml
+Título detectado: Capítulo XXXVI: Causas de las crueldades de Atahuallpa y sus efectos cruelísimos.
+--------------------------------------------------
+Índice: 277
+Archivo interno: 0271.xhtml
+Título detectado: Capítulo XXXVII: Pasa la crueldad a las mujeres y niños de la casa real.
+--------------------------------------------------
+Índice: 278
+Archivo interno: 0272.xhtml
+Título detectado: Capítulo XXXVIII: Algunos de la sangre real escaparon de la crueldad de Atahuallpa.
+--------------------------------------------------
+Índice: 279
+Archivo interno: 0273.xhtml
+Título detectado: Capítulo XXXIX: Pasa la crueldad a los criados de la casa real.
+--------------------------------------------------
+Índice: 280
+Archivo interno: 0274.xhtml
+Título detectado: Capítulo XL: La descendencia que ha quedado de la sangre real de los Incas.
+--------------------------------------------------
+Índice: 281
+Archivo interno: otros.html
+Título detectado: Otros textos de Inca Garcilaso de la Vega
+--------------------------------------------------
+Índice: 282
+Archivo interno: indice.xhtml
+Título detectado: Índice
+--------------------------------------------------
