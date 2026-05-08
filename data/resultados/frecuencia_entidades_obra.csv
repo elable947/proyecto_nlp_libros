@@ -1,0 +1,3096 @@
+﻿obra,entidad_norm,tipo,frecuencia
+CELC_MVLL,ambrosio,PER,798
+CELC_MVLL,santiago,PER,776
+CELC_MVLL,amalia,PER,621
+CELC_MVLL,queta,PER,407
+CELC_MVLL,zavalita,PER,376
+CELC_MVLL,cayo,PER,336
+CELC_MVLL,ludovico,PER,321
+CELC_MVLL,fermín,PER,285
+CELC_MVLL,carlitos,PER,271
+CELC_MVLL,chispas,PER,234
+CELC_MVLL,bermúdez,PER,227
+CELC_MVLL,lozano,PER,197
+CELC_MVLL,don,PER,196
+CELC_MVLL,teté,PER,174
+CELC_MVLL,trifulcio,PER,173
+CELC_MVLL,popeye,PER,172
+CELC_MVLL,aída,PER,149
+CELC_MVLL,becerrita,PER,130
+CELC_MVLL,ana,PER,127
+CELC_MVLL,hipólito,PER,124
+CELC_MVLL,espina,PER,111
+CELC_MVLL,jacobo,PER,108
+CELC_MVLL,lima,LOC,107
+CELC_MVLL,hortensia,PER,106
+CELC_MVLL,landa,PER,106
+CELC_MVLL,odría,PER,101
+CELC_MVLL,presidente,PER,100
+CELC_MVLL,paredes,PER,93
+CELC_MVLL,trinidad,PER,91
+CELC_MVLL,washington,PER,79
+CELC_MVLL,carlota,PER,77
+CELC_MVLL,zoila,PER,73
+CELC_MVLL,ivonne,PER,69
+CELC_MVLL,molina,PER,69
+CELC_MVLL,periquito,PER,66
+CELC_MVLL,robertito,PER,64
+CELC_MVLL,cayo bermúdez,PER,59
+CELC_MVLL,arequipa,LOC,58
+CELC_MVLL,gertrudis,PER,57
+CELC_MVLL,quetita,PER,57
+CELC_MVLL,alcibíades,PER,52
+CELC_MVLL,téllez,PER,50
+CELC_MVLL,perú,LOC,49
+CELC_MVLL,pucallpa,LOC,49
+CELC_MVLL,símula,PER,48
+CELC_MVLL,héctor,PER,47
+CELC_MVLL,hilario,PER,46
+CELC_MVLL,norwin,PER,46
+CELC_MVLL,san marcos,LOC,46
+CELC_MVLL,arispe,PER,45
+CELC_MVLL,solórzano,PER,45
+CELC_MVLL,don fermín,PER,44
+CELC_MVLL,la crónica,ORG,44
+CELC_MVLL,teniente,PER,41
+CELC_MVLL,arévalo,PER,39
+CELC_MVLL,coalición,ORG,39
+CELC_MVLL,serrano,PER,39
+CELC_MVLL,arbeláez,PER,38
+CELC_MVLL,llerena,PER,38
+CELC_MVLL,malvina,PER,38
+CELC_MVLL,urondo,PER,38
+CELC_MVLL,chincha,LOC,37
+CELC_MVLL,musa,PER,37
+CELC_MVLL,doña lupe,PER,36
+CELC_MVLL,general,PER,36
+CELC_MVLL,martínez,PER,36
+CELC_MVLL,buitre,PER,34
+CELC_MVLL,emilio,PER,32
+CELC_MVLL,tío clodomiro,PER,32
+CELC_MVLL,amalita hortensia,PER,29
+CELC_MVLL,cayo mierda,PER,28
+CELC_MVLL,prefecto,PER,28
+CELC_MVLL,don hilario,PER,27
+CELC_MVLL,ejército,ORG,27
+CELC_MVLL,llaque,PER,27
+CELC_MVLL,san miguel,LOC,27
+CELC_MVLL,clodomiro,PER,26
+CELC_MVLL,lama,PER,26
+CELC_MVLL,ministerio,ORG,26
+CELC_MVLL,ministro,PER,26
+CELC_MVLL,miraflores,LOC,26
+CELC_MVLL,rosa,PER,26
+CELC_MVLL,zavala,PER,26
+CELC_MVLL,ferro,PER,25
+CELC_MVLL,rosario,PER,25
+CELC_MVLL,ancón,LOC,24
+CELC_MVLL,dios,MISC,24
+CELC_MVLL,universidad,ORG,24
+CELC_MVLL,apra,ORG,23
+CELC_MVLL,batuque,PER,23
+CELC_MVLL,ica,LOC,23
+CELC_MVLL,vallejo,PER,23
+CELC_MVLL,cary,PER,22
+CELC_MVLL,emilio arévalo,PER,22
+CELC_MVLL,lucía,PER,22
+CELC_MVLL,bola de oro,PER,21
+CELC_MVLL,darío,PER,21
+CELC_MVLL,lucas,PER,21
+CELC_MVLL,calancha,PER,20
+CELC_MVLL,federación,ORG,20
+CELC_MVLL,paqueta,PER,20
+CELC_MVLL,partido,ORG,20
+CELC_MVLL,plaza,LOC,20
+CELC_MVLL,prefectura,ORG,20
+CELC_MVLL,ruperto,PER,20
+CELC_MVLL,melquíades,PER,19
+CELC_MVLL,tomasa,PER,19
+CELC_MVLL,túmula,PER,19
+CELC_MVLL,palacio,LOC,18
+CELC_MVLL,plaza de armas,LOC,18
+CELC_MVLL,china,PER,17
+CELC_MVLL,doctor,PER,17
+CELC_MVLL,tallio,PER,17
+CELC_MVLL,colmena,LOC,16
+CELC_MVLL,fracción,ORG,16
+CELC_MVLL,tingo maría,LOC,16
+CELC_MVLL,cajamarca,LOC,15
+CELC_MVLL,chamorro,PER,15
+CELC_MVLL,la crónica,LOC,15
+CELC_MVLL,madama,PER,15
+CELC_MVLL,san marcos,MISC,15
+CELC_MVLL,don cayo,PER,14
+CELC_MVLL,lora,PER,14
+CELC_MVLL,lupe,PER,14
+CELC_MVLL,mirones,LOC,14
+CELC_MVLL,montagne,PER,14
+CELC_MVLL,pantaleón,PER,14
+CELC_MVLL,plaza san martín,LOC,14
+CELC_MVLL,anita,PER,13
+CELC_MVLL,bustamante,PER,13
+CELC_MVLL,derecho,MISC,13
+CELC_MVLL,lucy,PER,13
+CELC_MVLL,mayor,PER,13
+CELC_MVLL,méxico,LOC,13
+CELC_MVLL,pancras,PER,13
+CELC_MVLL,saldívar,PER,13
+CELC_MVLL,heredia,PER,12
+CELC_MVLL,la prensa,ORG,12
+CELC_MVLL,pereda,PER,12
+CELC_MVLL,rita,PER,12
+CELC_MVLL,ada rosa,PER,11
+CELC_MVLL,ansa,ORG,11
+CELC_MVLL,barranco,LOC,11
+CELC_MVLL,católica,ORG,11
+CELC_MVLL,china,ORG,11
+CELC_MVLL,gertrudis lama,PER,11
+CELC_MVLL,ministro,MISC,11
+CELC_MVLL,remigio saldívar,PER,11
+CELC_MVLL,rímac,LOC,11
+CELC_MVLL,trinidad lópez,PER,11
+CELC_MVLL,trujillo,LOC,11
+CELC_MVLL,amalita,PER,10
+CELC_MVLL,bim bam búm,MISC,10
+CELC_MVLL,cahuide,PER,10
+CELC_MVLL,embajador,PER,10
+CELC_MVLL,ferrito,PER,10
+CELC_MVLL,gobierno,ORG,10
+CELC_MVLL,la catedral,LOC,10
+CELC_MVLL,richard,PER,10
+CELC_MVLL,san marcos,ORG,10
+CELC_MVLL,alvarado,PER,9
+CELC_MVLL,becerra,PER,9
+CELC_MVLL,casita de san miguel,LOC,9
+CELC_MVLL,chaclacayo,LOC,9
+CELC_MVLL,leoncio paniagua,PER,9
+CELC_MVLL,limoncillo,LOC,9
+CELC_MVLL,ludovico pantoja,PER,9
+CELC_MVLL,mercado,LOC,9
+CELC_MVLL,parque universitario,LOC,9
+CELC_MVLL,politzer,PER,9
+CELC_MVLL,polla,MISC,9
+CELC_MVLL,ataúdes limbo,MISC,8
+CELC_MVLL,bar,LOC,8
+CELC_MVLL,cuzco,LOC,8
+CELC_MVLL,la crónica,MISC,8
+CELC_MVLL,partido restaurador,ORG,8
+CELC_MVLL,pedro flores,PER,8
+CELC_MVLL,peralta,PER,8
+CELC_MVLL,revolución,MISC,8
+CELC_MVLL,señora zoila,PER,8
+CELC_MVLL,surquillo,LOC,8
+CELC_MVLL,tijero,PER,8
+CELC_MVLL,atanasio,PER,7
+CELC_MVLL,bolivia,LOC,7
+CELC_MVLL,cahuide,LOC,7
+CELC_MVLL,chorrillos,LOC,7
+CELC_MVLL,coca-colas,MISC,7
+CELC_MVLL,comité,ORG,7
+CELC_MVLL,embajada,ORG,7
+CELC_MVLL,inocencia,PER,7
+CELC_MVLL,jesús maría,LOC,7
+CELC_MVLL,malecón,LOC,7
+CELC_MVLL,martha,PER,7
+CELC_MVLL,maternidad,MISC,7
+CELC_MVLL,ministro de guerra,PER,7
+CELC_MVLL,porvenir,MISC,7
+CELC_MVLL,tío,PER,7
+CELC_MVLL,zavalita,LOC,7
+CELC_MVLL,zoilita,PER,7
+CELC_MVLL,ave,PER,6
+CELC_MVLL,avenida brasil,LOC,6
+CELC_MVLL,batuque,MISC,6
+CELC_MVLL,cahuide,ORG,6
+CELC_MVLL,camino,PER,6
+CELC_MVLL,centros federados,ORG,6
+CELC_MVLL,chiclayo,LOC,6
+CELC_MVLL,club nacional,ORG,6
+CELC_MVLL,comité de recepción,ORG,6
+CELC_MVLL,estado,ORG,6
+CELC_MVLL,haya de la torre,PER,6
+CELC_MVLL,hinostroza,PER,6
+CELC_MVLL,libertad,MISC,6
+CELC_MVLL,matías,PER,6
+CELC_MVLL,melequías,PER,6
+CELC_MVLL,ministro de gobierno,PER,6
+CELC_MVLL,municipalidad,ORG,6
+CELC_MVLL,odría,LOC,6
+CELC_MVLL,pereira,PER,6
+CELC_MVLL,pinto,PER,6
+CELC_MVLL,prado,PER,6
+CELC_MVLL,señora rosario,PER,6
+CELC_MVLL,teté,MISC,6
+CELC_MVLL,agua dulce,LOC,5
+CELC_MVLL,ancón,PER,5
+CELC_MVLL,avenida arequipa,LOC,5
+CELC_MVLL,avenida argentina,LOC,5
+CELC_MVLL,belaúnde,PER,5
+CELC_MVLL,callao,LOC,5
+CELC_MVLL,calle comercio,LOC,5
+CELC_MVLL,castelano,PER,5
+CELC_MVLL,católica,MISC,5
+CELC_MVLL,coca-cola,MISC,5
+CELC_MVLL,comandante,PER,5
+CELC_MVLL,doña catalina,PER,5
+CELC_MVLL,doña lucía,PER,5
+CELC_MVLL,el rayo de la montaña,MISC,5
+CELC_MVLL,españa,LOC,5
+CELC_MVLL,estados unidos,ORG,5
+CELC_MVLL,forcito,ORG,5
+CELC_MVLL,grocio prado,LOC,5
+CELC_MVLL,huamán,PER,5
+CELC_MVLL,itipaya,PER,5
+CELC_MVLL,la maison de santé,LOC,5
+CELC_MVLL,larco,LOC,5
+CELC_MVLL,mercado,MISC,5
+CELC_MVLL,milton,PER,5
+CELC_MVLL,monmartre,LOC,5
+CELC_MVLL,negro-negro,MISC,5
+CELC_MVLL,ochoa,PER,5
+CELC_MVLL,paseo colón,LOC,5
+CELC_MVLL,pedrito aguirre,PER,5
+CELC_MVLL,petit thouars,LOC,5
+CELC_MVLL,poncio,PER,5
+CELC_MVLL,portal,LOC,5
+CELC_MVLL,puente del ejército,LOC,5
+CELC_MVLL,regatas,LOC,5
+CELC_MVLL,santiago,LOC,5
+CELC_MVLL,santos vivero,PER,5
+CELC_MVLL,subprefecto,PER,5
+CELC_MVLL,teatro municipal,LOC,5
+CELC_MVLL,transportes morales,ORG,5
+CELC_MVLL,tumbes,LOC,5
+CELC_MVLL,universidad,LOC,5
+CELC_MVLL,yarinacocha,LOC,5
+CELC_MVLL,última hora,ORG,5
+CELC_MVLL,alfonso ugarte,LOC,4
+CELC_MVLL,anduvia,PER,4
+CELC_MVLL,avenida tacna,LOC,4
+CELC_MVLL,bar zela,LOC,4
+CELC_MVLL,batuquito,PER,4
+CELC_MVLL,buenos aires,LOC,4
+CELC_MVLL,camaná,LOC,4
+CELC_MVLL,carmincha,PER,4
+CELC_MVLL,carrillo,PER,4
+CELC_MVLL,centros,ORG,4
+CELC_MVLL,chincha,PER,4
+CELC_MVLL,chino molina,PER,4
+CELC_MVLL,chispas,MISC,4
+CELC_MVLL,conversación en la catedral,MISC,4
+CELC_MVLL,dios,PER,4
+CELC_MVLL,dirección de gobierno,ORG,4
+CELC_MVLL,director,PER,4
+CELC_MVLL,don emilio arévalo,PER,4
+CELC_MVLL,el comercio,ORG,4
+CELC_MVLL,europa,LOC,4
+CELC_MVLL,fermín zavala,PER,4
+CELC_MVLL,guatemala,LOC,4
+CELC_MVLL,hernández,PER,4
+CELC_MVLL,hospital,LOC,4
+CELC_MVLL,huacachina,LOC,4
+CELC_MVLL,huánuco,LOC,4
+CELC_MVLL,idiáquez,PER,4
+CELC_MVLL,inca,MISC,4
+CELC_MVLL,inspector,PER,4
+CELC_MVLL,la laguna,LOC,4
+CELC_MVLL,letras,MISC,4
+CELC_MVLL,literatura,MISC,4
+CELC_MVLL,luna park,LOC,4
+CELC_MVLL,magdalena,LOC,4
+CELC_MVLL,mario vargas llosa,PER,4
+CELC_MVLL,mariátegui,PER,4
+CELC_MVLL,maría,PER,4
+CELC_MVLL,maternidad,LOC,4
+CELC_MVLL,medicina,MISC,4
+CELC_MVLL,municipal,LOC,4
+CELC_MVLL,municipal,MISC,4
+CELC_MVLL,palacio,PER,4
+CELC_MVLL,plaza bolognesi,LOC,4
+CELC_MVLL,plaza dos de mayo,LOC,4
+CELC_MVLL,plaza italia,LOC,4
+CELC_MVLL,porta,LOC,4
+CELC_MVLL,porvenir,LOC,4
+CELC_MVLL,puno,LOC,4
+CELC_MVLL,quinta,LOC,4
+CELC_MVLL,reina de la farándula,MISC,4
+CELC_MVLL,rojas,PER,4
+CELC_MVLL,rueda chicago,LOC,4
+CELC_MVLL,san martín,LOC,4
+CELC_MVLL,san miguel,MISC,4
+CELC_MVLL,señora hortensia,PER,4
+CELC_MVLL,tingo,LOC,4
+CELC_MVLL,trinidad,LOC,4
+CELC_MVLL,velarde,PER,4
+CELC_MVLL,acho,LOC,3
+CELC_MVLL,anatolia,PER,3
+CELC_MVLL,apra,MISC,3
+CELC_MVLL,azángaro,LOC,3
+CELC_MVLL,banco,ORG,3
+CELC_MVLL,banco de crédito,ORG,3
+CELC_MVLL,bar,MISC,3
+CELC_MVLL,barrios altos,LOC,3
+CELC_MVLL,bertoloto,LOC,3
+CELC_MVLL,bola de oro,MISC,3
+CELC_MVLL,brasil,LOC,3
+CELC_MVLL,cajamarca,ORG,3
+CELC_MVLL,calle chiclayo,LOC,3
+CELC_MVLL,cayo,LOC,3
+CELC_MVLL,celeste,PER,3
+CELC_MVLL,chacra colorada,LOC,3
+CELC_MVLL,chesterfield,MISC,3
+CELC_MVLL,china,LOC,3
+CELC_MVLL,china,MISC,3
+CELC_MVLL,cigüeña,PER,3
+CELC_MVLL,club,LOC,3
+CELC_MVLL,cream rica,LOC,3
+CELC_MVLL,diagonal,MISC,3
+CELC_MVLL,director de gobierno,MISC,3
+CELC_MVLL,don atanasio,PER,3
+CELC_MVLL,don emilio,PER,3
+CELC_MVLL,económicas,MISC,3
+CELC_MVLL,el palermo,LOC,3
+CELC_MVLL,eliana,PER,3
+CELC_MVLL,estadio,LOC,3
+CELC_MVLL,estados unidos,LOC,3
+CELC_MVLL,federación de san marcos,ORG,3
+CELC_MVLL,feria,MISC,3
+CELC_MVLL,fracción,MISC,3
+CELC_MVLL,fracción universitaria,ORG,3
+CELC_MVLL,frontón,ORG,3
+CELC_MVLL,general odría,PER,3
+CELC_MVLL,herradura,LOC,3
+CELC_MVLL,hilario morales,PER,3
+CELC_MVLL,historia,MISC,3
+CELC_MVLL,hospital militar,LOC,3
+CELC_MVLL,huacho,LOC,3
+CELC_MVLL,huxley,PER,3
+CELC_MVLL,iglesia,ORG,3
+CELC_MVLL,ingeniería,MISC,3
+CELC_MVLL,investigaciones,MISC,3
+CELC_MVLL,jesús maría,PER,3
+CELC_MVLL,jirón de la unión,LOC,3
+CELC_MVLL,lavalle,PER,3
+CELC_MVLL,ley de seguridad interior,MISC,3
+CELC_MVLL,li —ber —tad,MISC,3
+CELC_MVLL,maclovia,PER,3
+CELC_MVLL,marx,PER,3
+CELC_MVLL,mendizábal,PER,3
+CELC_MVLL,ministro de gobierno,MISC,3
+CELC_MVLL,ministros,PER,3
+CELC_MVLL,morgue,MISC,3
+CELC_MVLL,moscú,LOC,3
+CELC_MVLL,municipal,ORG,3
+CELC_MVLL,negro negro,LOC,3
+CELC_MVLL,nueva york,LOC,3
+CELC_MVLL,pacasmayo,LOC,3
+CELC_MVLL,padre jerónimo,LOC,3
+CELC_MVLL,palacio de justicia,LOC,3
+CELC_MVLL,panamericana,MISC,3
+CELC_MVLL,panta,PER,3
+CELC_MVLL,paqueta,MISC,3
+CELC_MVLL,paracas,LOC,3
+CELC_MVLL,parada,MISC,3
+CELC_MVLL,pasamayo,LOC,3
+CELC_MVLL,pepe yáñez,PER,3
+CELC_MVLL,perpetuo,PER,3
+CELC_MVLL,polla,PER,3
+CELC_MVLL,radio nacional,ORG,3
+CELC_MVLL,radio reloj,ORG,3
+CELC_MVLL,san juan de dios,LOC,3
+CELC_MVLL,san marcos,PER,3
+CELC_MVLL,santa beatriz,LOC,3
+CELC_MVLL,servicio de información,ORG,3
+CELC_MVLL,señor,PER,3
+CELC_MVLL,señora,PER,3
+CELC_MVLL,tacna,LOC,3
+CELC_MVLL,terrazas,LOC,3
+CELC_MVLL,trabajo,MISC,3
+CELC_MVLL,vitarte,LOC,3
+CELC_MVLL,viva el apra,MISC,3
+CELC_MVLL,viva odría,MISC,3
+CELC_MVLL,víctor raúl,PER,3
+CELC_MVLL,zavalita,ORG,3
+CELC_MVLL,a —re —qui —pa,MISC,2
+CELC_MVLL,ada rosa,MISC,2
+CELC_MVLL,administración,ORG,2
+CELC_MVLL,agricultura,MISC,2
+CELC_MVLL,alandro pozo,PER,2
+CELC_MVLL,alberto,PER,2
+CELC_MVLL,almacenes wong,MISC,2
+CELC_MVLL,amalia,LOC,2
+CELC_MVLL,amalias,PER,2
+CELC_MVLL,apra,PER,2
+CELC_MVLL,arenales,LOC,2
+CELC_MVLL,argentina,LOC,2
+CELC_MVLL,asistencia pública,ORG,2
+CELC_MVLL,associated press,ORG,2
+CELC_MVLL,avenida bolivia,LOC,2
+CELC_MVLL,avenida españa,LOC,2
+CELC_MVLL,avenida pardo,LOC,2
+CELC_MVLL,azángaro,PER,2
+CELC_MVLL,bagua,LOC,2
+CELC_MVLL,bajo el puente,LOC,2
+CELC_MVLL,benavides,LOC,2
+CELC_MVLL,benavides,PER,2
+CELC_MVLL,bransa,LOC,2
+CELC_MVLL,breña,LOC,2
+CELC_MVLL,cabrejitos,PER,2
+CELC_MVLL,canciller,PER,2
+CELC_MVLL,casa wiese,LOC,2
+CELC_MVLL,castellano,MISC,2
+CELC_MVLL,celendín,LOC,2
+CELC_MVLL,chosica,LOC,2
+CELC_MVLL,chota,PER,2
+CELC_MVLL,club,ORG,2
+CELC_MVLL,club cajamarca,LOC,2
+CELC_MVLL,clínica,MISC,2
+CELC_MVLL,clínica americana,LOC,2
+CELC_MVLL,clínica delgado,LOC,2
+CELC_MVLL,coco,PER,2
+CELC_MVLL,colegio,ORG,2
+CELC_MVLL,colina,LOC,2
+CELC_MVLL,coliseo,LOC,2
+CELC_MVLL,colombia,LOC,2
+CELC_MVLL,comandante en jefe,PER,2
+CELC_MVLL,comisarías,MISC,2
+CELC_MVLL,comisión de fomento,ORG,2
+CELC_MVLL,congreso,ORG,2
+CELC_MVLL,costanera,LOC,2
+CELC_MVLL,cristina,PER,2
+CELC_MVLL,cultura soviética,MISC,2
+CELC_MVLL,directorio,ORG,2
+CELC_MVLL,división de homicidios,MISC,2
+CELC_MVLL,doctor alcibíades,PER,2
+CELC_MVLL,doctor arbeláez,PER,2
+CELC_MVLL,don melquíades,PER,2
+CELC_MVLL,ecuador,LOC,2
+CELC_MVLL,educación,MISC,2
+CELC_MVLL,el comercio,MISC,2
+CELC_MVLL,el pingüino,LOC,2
+CELC_MVLL,el rayo de la montaña,ORG,2
+CELC_MVLL,embajada de colombia,ORG,2
+CELC_MVLL,embassy,LOC,2
+CELC_MVLL,engels,PER,2
+CELC_MVLL,escuela naval,ORG,2
+CELC_MVLL,espina,LOC,2
+CELC_MVLL,espinoza,PER,2
+CELC_MVLL,expresos,MISC,2
+CELC_MVLL,facultad,MISC,2
+CELC_MVLL,familia bermúdez,PER,2
+CELC_MVLL,faucett,PER,2
+CELC_MVLL,federación universitaria,ORG,2
+CELC_MVLL,forcito,MISC,2
+CELC_MVLL,ford,MISC,2
+CELC_MVLL,francia,LOC,2
+CELC_MVLL,francisco pizarro,LOC,2
+CELC_MVLL,franco,PER,2
+CELC_MVLL,general garzón,LOC,2
+CELC_MVLL,habana,LOC,2
+CELC_MVLL,haití,LOC,2
+CELC_MVLL,himno nacional,MISC,2
+CELC_MVLL,homicidios,MISC,2
+CELC_MVLL,hospital,MISC,2
+CELC_MVLL,hospital de policía,LOC,2
+CELC_MVLL,hospital san josé,LOC,2
+CELC_MVLL,hotel mogollón,LOC,2
+CELC_MVLL,huancayo,LOC,2
+CELC_MVLL,iglesia,LOC,2
+CELC_MVLL,institutos armados,ORG,2
+CELC_MVLL,ivonne,LOC,2
+CELC_MVLL,jesús,PER,2
+CELC_MVLL,josé pardo,ORG,2
+CELC_MVLL,juliaca,LOC,2
+CELC_MVLL,jurado electoral,ORG,2
+CELC_MVLL,la herradura,LOC,2
+CELC_MVLL,la maison de santé,MISC,2
+CELC_MVLL,la noche quedó atrás,MISC,2
+CELC_MVLL,la teté,PER,2
+CELC_MVLL,la tribuna,MISC,2
+CELC_MVLL,lanusa,PER,2
+CELC_MVLL,le —ga —li —dad,MISC,2
+CELC_MVLL,lechín,PER,2
+CELC_MVLL,los huérfanos,LOC,2
+CELC_MVLL,los misterios de lesbos,MISC,2
+CELC_MVLL,lópez,PER,2
+CELC_MVLL,lópez landa,PER,2
+CELC_MVLL,madre,MISC,2
+CELC_MVLL,magdalena vieja,LOC,2
+CELC_MVLL,maría antonieta pons,PER,2
+CELC_MVLL,maury,LOC,2
+CELC_MVLL,mayor paredes,PER,2
+CELC_MVLL,mendieta,PER,2
+CELC_MVLL,mi patria,LOC,2
+CELC_MVLL,ministro de fomento,PER,2
+CELC_MVLL,miraflores,PER,2
+CELC_MVLL,miss perú,MISC,2
+CELC_MVLL,molina,LOC,2
+CELC_MVLL,montecarlo,LOC,2
+CELC_MVLL,moquegua,LOC,2
+CELC_MVLL,morgue,LOC,2
+CELC_MVLL,negro-negro,LOC,2
+CELC_MVLL,norte,LOC,2
+CELC_MVLL,obando,PER,2
+CELC_MVLL,olave,LOC,2
+CELC_MVLL,olave,MISC,2
+CELC_MVLL,olave,PER,2
+CELC_MVLL,padre,PER,2
+CELC_MVLL,pantoja,PER,2
+CELC_MVLL,parlamento,ORG,2
+CELC_MVLL,parque de la exposición,LOC,2
+CELC_MVLL,parque necochea,LOC,2
+CELC_MVLL,parís,LOC,2
+CELC_MVLL,paseo de la república,LOC,2
+CELC_MVLL,pasteurina,MISC,2
+CELC_MVLL,pedagogía,MISC,2
+CELC_MVLL,pekín,LOC,2
+CELC_MVLL,penitenciaría,MISC,2
+CELC_MVLL,perla,LOC,2
+CELC_MVLL,popeye arévalo,PER,2
+CELC_MVLL,prefectura,MISC,2
+CELC_MVLL,presidencia,ORG,2
+CELC_MVLL,presidencia del senado,ORG,2
+CELC_MVLL,promoción,MISC,2
+CELC_MVLL,pucallpa,ORG,2
+CELC_MVLL,pulga heredia,PER,2
+CELC_MVLL,punta,LOC,2
+CELC_MVLL,quebrada,LOC,2
+CELC_MVLL,quijano,PER,2
+CELC_MVLL,quinta de los duendes,LOC,2
+CELC_MVLL,quispe,PER,2
+CELC_MVLL,qué,ORG,2
+CELC_MVLL,regatas,MISC,2
+CELC_MVLL,remigio,PER,2
+CELC_MVLL,república,LOC,2
+CELC_MVLL,restaurador,ORG,2
+CELC_MVLL,roma,LOC,2
+CELC_MVLL,rueda,MISC,2
+CELC_MVLL,salud,MISC,2
+CELC_MVLL,san isidro,LOC,2
+CELC_MVLL,santiago zavala,PER,2
+CELC_MVLL,saravia,PER,2
+CELC_MVLL,saturnina,PER,2
+CELC_MVLL,selecciones,MISC,2
+CELC_MVLL,serrano espina,PER,2
+CELC_MVLL,señorita queta,PER,2
+CELC_MVLL,solano,PER,2
+CELC_MVLL,soldevilla,PER,2
+CELC_MVLL,sunset,MISC,2
+CELC_MVLL,trujillo,PER,2
+CELC_MVLL,unidad,ORG,2
+CELC_MVLL,unidad escolar,ORG,2
+CELC_MVLL,united press,ORG,2
+CELC_MVLL,universidades,ORG,2
+CELC_MVLL,unión,LOC,2
+CELC_MVLL,urioste,PER,2
+CELC_MVLL,urquiza,PER,2
+CELC_MVLL,victoria,LOC,2
+CELC_MVLL,viva la revolución restauradora,MISC,2
+CELC_MVLL,wilson,LOC,2
+CELC_MVLL,zela,LOC,2
+CELC_MVLL,“embassy”,ORG,2
+CELC_MVLL,a las siete,MISC,1
+CELC_MVLL,abancay,LOC,1
+CELC_MVLL,abelardo oquendo,PER,1
+CELC_MVLL,academia,MISC,1
+CELC_MVLL,acción católica,MISC,1
+CELC_MVLL,adalmiro peralta,PER,1
+CELC_MVLL,adelante con belaúnde,MISC,1
+CELC_MVLL,aduana,LOC,1
+CELC_MVLL,adventistas del séptimo día,ORG,1
+CELC_MVLL,agregaduría,MISC,1
+CELC_MVLL,aida,PER,1
+CELC_MVLL,alameda ricardo palma,LOC,1
+CELC_MVLL,alandro,PER,1
+CELC_MVLL,alcalde,PER,1
+CELC_MVLL,alcalde de chincha,MISC,1
+CELC_MVLL,alcaldía,ORG,1
+CELC_MVLL,alemania,LOC,1
+CELC_MVLL,alférez,PER,1
+CELC_MVLL,aló,PER,1
+CELC_MVLL,amalia cerda,PER,1
+CELC_MVLL,amalia hortensia,PER,1
+CELC_MVLL,ambrosio pardo,PER,1
+CELC_MVLL,américa,MISC,1
+CELC_MVLL,ancón,ORG,1
+CELC_MVLL,antonio quispe bulnes,PER,1
+CELC_MVLL,arbeláéz,PER,1
+CELC_MVLL,ardilla,PER,1
+CELC_MVLL,arequipa,ORG,1
+CELC_MVLL,argüelles,PER,1
+CELC_MVLL,arispe,LOC,1
+CELC_MVLL,arquitectura,MISC,1
+CELC_MVLL,asociación de centros de agricultura,ORG,1
+CELC_MVLL,así se templó el acero,MISC,1
+CELC_MVLL,ataúdes limbou”,LOC,1
+CELC_MVLL,ave,MISC,1
+CELC_MVLL,avenida 28 de julio,LOC,1
+CELC_MVLL,avenida abancay,LOC,1
+CELC_MVLL,avenida angamos,LOC,1
+CELC_MVLL,avenida arenales,LOC,1
+CELC_MVLL,avenida iquitos,LOC,1
+CELC_MVLL,avenida larco,LOC,1
+CELC_MVLL,aviación,MISC,1
+CELC_MVLL,ayacucho,LOC,1
+CELC_MVLL,azpilcueta,PER,1
+CELC_MVLL,azpilicueta,PER,1
+CELC_MVLL,azul,LOC,1
+CELC_MVLL,azul,MISC,1
+CELC_MVLL,babilonia,LOC,1
+CELC_MVLL,bacacorzo,PER,1
+CELC_MVLL,bacocorzo,PER,1
+CELC_MVLL,balconcillo,LOC,1
+CELC_MVLL,balzac,PER,1
+CELC_MVLL,banco agropecuario,ORG,1
+CELC_MVLL,banco central,ORG,1
+CELC_MVLL,bandera roja,ORG,1
+CELC_MVLL,bar del hotel bolívar,LOC,1
+CELC_MVLL,bar zelap,LOC,1
+CELC_MVLL,barrio sur,LOC,1
+CELC_MVLL,batalla del marne,MISC,1
+CELC_MVLL,batuque,LOC,1
+CELC_MVLL,bautista,MISC,1
+CELC_MVLL,beneficencia,ORG,1
+CELC_MVLL,bermúdez,LOC,1
+CELC_MVLL,bermúdez de la prefectura,PER,1
+CELC_MVLL,biblioteca de san marcos,LOC,1
+CELC_MVLL,biblioteca nacional,LOC,1
+CELC_MVLL,bibliotecas,MISC,1
+CELC_MVLL,binbanbún,PER,1
+CELC_MVLL,bola de oro,ORG,1
+CELC_MVLL,bolognesi,LOC,1
+CELC_MVLL,bolívar,PER,1
+CELC_MVLL,bravo,PER,1
+CELC_MVLL,budapest,LOC,1
+CELC_MVLL,buick,MISC,1
+CELC_MVLL,buitre,MISC,1
+CELC_MVLL,cabaña,LOC,1
+CELC_MVLL,cabuide,MISC,1
+CELC_MVLL,cajamarca,PER,1
+CELC_MVLL,callao,MISC,1
+CELC_MVLL,calle,LOC,1
+CELC_MVLL,calle capón,LOC,1
+CELC_MVLL,calle de padre jerónimo,LOC,1
+CELC_MVLL,calle pando,LOC,1
+CELC_MVLL,calle porta,LOC,1
+CELC_MVLL,calle shell,LOC,1
+CELC_MVLL,callejón de mirones,LOC,1
+CELC_MVLL,calló,PER,1
+CELC_MVLL,caminito,MISC,1
+CELC_MVLL,campeonato sudamericano de fútbol,MISC,1
+CELC_MVLL,campo de marte,LOC,1
+CELC_MVLL,carabaya,MISC,1
+CELC_MVLL,carlitos,LOC,1
+CELC_MVLL,carlomagno,PER,1
+CELC_MVLL,carlota corday,PER,1
+CELC_MVLL,carnaval,MISC,1
+CELC_MVLL,carreño,PER,1
+CELC_MVLL,caruso,PER,1
+CELC_MVLL,cary,MISC,1
+CELC_MVLL,casa nelson,LOC,1
+CELC_MVLL,catedral,LOC,1
+CELC_MVLL,católica,LOC,1
+CELC_MVLL,católica,PER,1
+CELC_MVLL,cayo bermúdez,LOC,1
+CELC_MVLL,cayo mierda,LOC,1
+CELC_MVLL,celeste,MISC,1
+CELC_MVLL,centro,ORG,1
+CELC_MVLL,centros,MISC,1
+CELC_MVLL,cerro,ORG,1
+CELC_MVLL,cerro de pasco,LOC,1
+CELC_MVLL,chaclacayo,PER,1
+CELC_MVLL,chala,PER,1
+CELC_MVLL,chancay,LOC,1
+CELC_MVLL,chevrolet,MISC,1
+CELC_MVLL,chiclacayo,LOC,1
+CELC_MVLL,chiclayo,PER,1
+CELC_MVLL,chimbote,LOC,1
+CELC_MVLL,chinchano,LOC,1
+CELC_MVLL,chino,PER,1
+CELC_MVLL,chispas,LOC,1
+CELC_MVLL,cielito lindo,LOC,1
+CELC_MVLL,ciencias económicas,MISC,1
+CELC_MVLL,cine beverly,LOC,1
+CELC_MVLL,cine miraflores,LOC,1
+CELC_MVLL,cine roxy,LOC,1
+CELC_MVLL,cine san martín,LOC,1
+CELC_MVLL,circo cairoli,LOC,1
+CELC_MVLL,club,MISC,1
+CELC_MVLL,club de la unión,ORG,1
+CELC_MVLL,clínica,LOC,1
+CELC_MVLL,clínica,ORG,1
+CELC_MVLL,clínica delgado,ORG,1
+CELC_MVLL,coalición nacional,ORG,1
+CELC_MVLL,coco becerra,PER,1
+CELC_MVLL,cohete,MISC,1
+CELC_MVLL,colegio,MISC,1
+CELC_MVLL,colegio de las canonesas,LOC,1
+CELC_MVLL,colegio josé pardo,LOC,1
+CELC_MVLL,colegio josé pardo,ORG,1
+CELC_MVLL,colegio nacional,ORG,1
+CELC_MVLL,colegio raimondi,LOC,1
+CELC_MVLL,colegio salesiano,LOC,1
+CELC_MVLL,colegios nacionales,ORG,1
+CELC_MVLL,colina,MISC,1
+CELC_MVLL,colinita,LOC,1
+CELC_MVLL,colmena,MISC,1
+CELC_MVLL,columba domínguez,PER,1
+CELC_MVLL,comandancia,ORG,1
+CELC_MVLL,comandante,MISC,1
+CELC_MVLL,comisaría,LOC,1
+CELC_MVLL,comisaría,MISC,1
+CELC_MVLL,comisaría,ORG,1
+CELC_MVLL,comisión,ORG,1
+CELC_MVLL,comité central,ORG,1
+CELC_MVLL,comité departamental de acción popular,ORG,1
+CELC_MVLL,compañía,ORG,1
+CELC_MVLL,compañía de las bim bam búm,ORG,1
+CELC_MVLL,compañía de transportes morales,ORG,1
+CELC_MVLL,con odría las barriadas,MISC,1
+CELC_MVLL,congresos de la juventud,MISC,1
+CELC_MVLL,consejo de guerra,ORG,1
+CELC_MVLL,constitución,MISC,1
+CELC_MVLL,construcción civil,ORG,1
+CELC_MVLL,constructora,ORG,1
+CELC_MVLL,contrapunto,MISC,1
+CELC_MVLL,convéncete,PER,1
+CELC_MVLL,corazón de jesús,MISC,1
+CELC_MVLL,country,MISC,1
+CELC_MVLL,cream rica de larco,LOC,1
+CELC_MVLL,cristal,MISC,1
+CELC_MVLL,cristales,MISC,1
+CELC_MVLL,cronwell,PER,1
+CELC_MVLL,cruz,ORG,1
+CELC_MVLL,cruz roja,ORG,1
+CELC_MVLL,crónica,MISC,1
+CELC_MVLL,cuartito de ludovico,LOC,1
+CELC_MVLL,cuartito de ludovico,MISC,1
+CELC_MVLL,cuatro i,MISC,1
+CELC_MVLL,cuba,LOC,1
+CELC_MVLL,cusco,LOC,1
+CELC_MVLL,cuzco,PER,1
+CELC_MVLL,cámaras,ORG,1
+CELC_MVLL,céspedes,PER,1
+CELC_MVLL,círculo militar,LOC,1
+CELC_MVLL,círculo militar,ORG,1
+CELC_MVLL,d'onofrio,PER,1
+CELC_MVLL,danton,PER,1
+CELC_MVLL,de la farándula,PER,1
+CELC_MVLL,de la junta,PER,1
+CELC_MVLL,de la plaza,PER,1
+CELC_MVLL,del partido comunista peruano,ORG,1
+CELC_MVLL,delfín,PER,1
+CELC_MVLL,depósito municipal de perros,LOC,1
+CELC_MVLL,desamparados,LOC,1
+CELC_MVLL,desamparados,MISC,1
+CELC_MVLL,diario,ORG,1
+CELC_MVLL,dictador,MISC,1
+CELC_MVLL,dictadura,MISC,1
+CELC_MVLL,diderot,PER,1
+CELC_MVLL,dios niño,MISC,1
+CELC_MVLL,dirección,MISC,1
+CELC_MVLL,dirección,ORG,1
+CELC_MVLL,director de aduana,PER,1
+CELC_MVLL,director de gobierno,ORG,1
+CELC_MVLL,director de gobierno,PER,1
+CELC_MVLL,director de turismo,PER,1
+CELC_MVLL,doctor ferro,PER,1
+CELC_MVLL,don bruno bauer,PER,1
+CELC_MVLL,don calixto,PER,1
+CELC_MVLL,don hilario morales,PER,1
+CELC_MVLL,don rómulo,PER,1
+CELC_MVLL,dos de,MISC,1
+CELC_MVLL,doña,PER,1
+CELC_MVLL,doña carmen,PER,1
+CELC_MVLL,doña símula,PER,1
+CELC_MVLL,economía,MISC,1
+CELC_MVLL,el castillo,MISC,1
+CELC_MVLL,el gallo de oro,LOC,1
+CELC_MVLL,el hablador,MISC,1
+CELC_MVLL,el loco de los balcones,MISC,1
+CELC_MVLL,el nacional,ORG,1
+CELC_MVLL,el origen de,MISC,1
+CELC_MVLL,el paraíso en la otra esquina,MISC,1
+CELC_MVLL,el patio,LOC,1
+CELC_MVLL,el pez en el agua,MISC,1
+CELC_MVLL,el rinconcito cajamarquino,LOC,1
+CELC_MVLL,el supermán de las pistas,MISC,1
+CELC_MVLL,el triunfo,LOC,1
+CELC_MVLL,elogio de la madrastra,MISC,1
+CELC_MVLL,embajada,MISC,1
+CELC_MVLL,embajadas,ORG,1
+CELC_MVLL,embajador del brasil,PER,1
+CELC_MVLL,embassy,ORG,1
+CELC_MVLL,embassy”,LOC,1
+CELC_MVLL,"empresa morales de transportes, s. a",ORG,1
+CELC_MVLL,enciclopedia,MISC,1
+CELC_MVLL,encuentros de periodistas,MISC,1
+CELC_MVLL,erikelsueco,MISC,1
+CELC_MVLL,ermita de la beata,LOC,1
+CELC_MVLL,escuela,MISC,1
+CELC_MVLL,escuela de policía,LOC,1
+CELC_MVLL,escuela en enfermeras,MISC,1
+CELC_MVLL,escuela normal,ORG,1
+CELC_MVLL,espina aló,PER,1
+CELC_MVLL,esso,MISC,1
+CELC_MVLL,estamos de duelo por la libertad,MISC,1
+CELC_MVLL,estrella,MISC,1
+CELC_MVLL,etnología,MISC,1
+CELC_MVLL,evangelista,MISC,1
+CELC_MVLL,excélsior,LOC,1
+CELC_MVLL,expreso,LOC,1
+CELC_MVLL,expreso,MISC,1
+CELC_MVLL,facultad de letras,LOC,1
+CELC_MVLL,facultades,MISC,1
+CELC_MVLL,farándula,MISC,1
+CELC_MVLL,felipe pinglo,PER,1
+CELC_MVLL,ferrocarril central,MISC,1
+CELC_MVLL,fiesta de amancaes,MISC,1
+CELC_MVLL,fiestas patrias,MISC,1
+CELC_MVLL,filosofía,MISC,1
+CELC_MVLL,flaco,PER,1
+CELC_MVLL,flor,ORG,1
+CELC_MVLL,flora,PER,1
+CELC_MVLL,fracción obrera,ORG,1
+CELC_MVLL,fracción obrera de cahuide,ORG,1
+CELC_MVLL,france presse,ORG,1
+CELC_MVLL,fray martín de porres,LOC,1
+CELC_MVLL,frente patriótico nacional,ORG,1
+CELC_MVLL,freud,PER,1
+CELC_MVLL,fuerzas armadas,ORG,1
+CELC_MVLL,gardel,PER,1
+CELC_MVLL,general garzón 311,MISC,1
+CELC_MVLL,general manuel obando coloma,PER,1
+CELC_MVLL,georges politzer,PER,1
+CELC_MVLL,ginger,MISC,1
+CELC_MVLL,gonzáles prada,PER,1
+CELC_MVLL,grill del bolívar,LOC,1
+CELC_MVLL,grinzane cavour,MISC,1
+CELC_MVLL,guadalupe,ORG,1
+CELC_MVLL,guarnición,ORG,1
+CELC_MVLL,gumucio,PER,1
+CELC_MVLL,hacienda,MISC,1
+CELC_MVLL,hacienda,ORG,1
+CELC_MVLL,hawai,LOC,1
+CELC_MVLL,hegel,PER,1
+CELC_MVLL,heladería wong,LOC,1
+CELC_MVLL,henri barbusse,PER,1
+CELC_MVLL,hernando de magalhaes,PER,1
+CELC_MVLL,hinostroza,MISC,1
+CELC_MVLL,historia de mayta,MISC,1
+CELC_MVLL,historia universal,MISC,1
+CELC_MVLL,hortensia,LOC,1
+CELC_MVLL,hospital loayza,LOC,1
+CELC_MVLL,hospital obrero,LOC,1
+CELC_MVLL,hospital obrero,ORG,1
+CELC_MVLL,hospital obrero de ica,LOC,1
+CELC_MVLL,hotel bolívar,LOC,1
+CELC_MVLL,hotel crillón,LOC,1
+CELC_MVLL,hotel de huacachina,ORG,1
+CELC_MVLL,hotel de turistas,LOC,1
+CELC_MVLL,hotel maury,LOC,1
+CELC_MVLL,huatica,LOC,1
+CELC_MVLL,husserl,PER,1
+CELC_MVLL,ica,ORG,1
+CELC_MVLL,iglesia,MISC,1
+CELC_MVLL,iglesias,PER,1
+CELC_MVLL,inca cola,MISC,1
+CELC_MVLL,incas,MISC,1
+CELC_MVLL,indias,ORG,1
+CELC_MVLL,inocencia,MISC,1
+CELC_MVLL,inspector,MISC,1
+CELC_MVLL,inspector molina,PER,1
+CELC_MVLL,inspector peralta,PER,1
+CELC_MVLL,internacional,MISC,1
+CELC_MVLL,international,ORG,1
+CELC_MVLL,international petroleum,ORG,1
+CELC_MVLL,interpol,ORG,1
+CELC_MVLL,iquitos,LOC,1
+CELC_MVLL,iquitos,ORG,1
+CELC_MVLL,israel,LOC,1
+CELC_MVLL,italia,LOC,1
+CELC_MVLL,itipaya,LOC,1
+CELC_MVLL,ivonne,ORG,1
+CELC_MVLL,jacobo de la fracción,PER,1
+CELC_MVLL,jaialai,MISC,1
+CELC_MVLL,jardín el paraíso,LOC,1
+CELC_MVLL,javier prado,LOC,1
+CELC_MVLL,jefe de estado mayor,PER,1
+CELC_MVLL,jesús,MISC,1
+CELC_MVLL,jesús maría,MISC,1
+CELC_MVLL,jesús vásquez,PER,1
+CELC_MVLL,jirón puno,LOC,1
+CELC_MVLL,jockey club,ORG,1
+CELC_MVLL,josé carlos mariátegui,PER,1
+CELC_MVLL,josé pardo,PER,1
+CELC_MVLL,julián,PER,1
+CELC_MVLL,jurado departamental,ORG,1
+CELC_MVLL,kafka,PER,1
+CELC_MVLL,kathie y el hipopótamo,MISC,1
+CELC_MVLL,kolynos pregunta,MISC,1
+CELC_MVLL,la casa verde,MISC,1
+CELC_MVLL,la católica,ORG,1
+CELC_MVLL,la china,PER,1
+CELC_MVLL,la chunga,MISC,1
+CELC_MVLL,la ciudad y los perros,MISC,1
+CELC_MVLL,la condición humana,MISC,1
+CELC_MVLL,la fiesta del chivo,MISC,1
+CELC_MVLL,la flor,PER,1
+CELC_MVLL,la guerra del fin del mundo,MISC,1
+CELC_MVLL,la luz del día,LOC,1
+CELC_MVLL,la maison,ORG,1
+CELC_MVLL,la modelo,MISC,1
+CELC_MVLL,la noche de los cuchillos largos,MISC,1
+CELC_MVLL,la orgia perpetua,MISC,1
+CELC_MVLL,la paz,LOC,1
+CELC_MVLL,la señorita de tacna,MISC,1
+CELC_MVLL,la tentación de lo imposible,MISC,1
+CELC_MVLL,la tia julia y el escribidor,MISC,1
+CELC_MVLL,la tiendecita blanca,LOC,1
+CELC_MVLL,la tribuna,ORG,1
+CELC_MVLL,la tribuna clandestina,MISC,1
+CELC_MVLL,la verdad de las mentiras,MISC,1
+CELC_MVLL,la voz de chincha,ORG,1
+CELC_MVLL,lalo,MISC,1
+CELC_MVLL,lalo,PER,1
+CELC_MVLL,lanza,PER,1
+CELC_MVLL,larco y josé gonzáles,LOC,1
+CELC_MVLL,lautaro,PER,1
+CELC_MVLL,legalidad,MISC,1
+CELC_MVLL,lenin,PER,1
+CELC_MVLL,leo marini,PER,1
+CELC_MVLL,leuro,LOC,1
+CELC_MVLL,libertad lamarque,MISC,1
+CELC_MVLL,libertad lamarque,PER,1
+CELC_MVLL,lima,ORG,1
+CELC_MVLL,limbo,LOC,1
+CELC_MVLL,limbo,MISC,1
+CELC_MVLL,limoncillo,PER,1
+CELC_MVLL,lituma en los andes,MISC,1
+CELC_MVLL,londres,LOC,1
+CELC_MVLL,los cachorros,MISC,1
+CELC_MVLL,los claveles,LOC,1
+CELC_MVLL,los cuadernos de don rigoberto,MISC,1
+CELC_MVLL,los jefes,MISC,1
+CELC_MVLL,luis loayza,PER,1
+CELC_MVLL,lula,PER,1
+CELC_MVLL,lupe,LOC,1
+CELC_MVLL,lurín,PER,1
+CELC_MVLL,madrecita,MISC,1
+CELC_MVLL,magdalena nueva,LOC,1
+CELC_MVLL,maiakovsky,PER,1
+CELC_MVLL,mala,LOC,1
+CELC_MVLL,maldonado,PER,1
+CELC_MVLL,malecones,LOC,1
+CELC_MVLL,malvina,LOC,1
+CELC_MVLL,malvina,MISC,1
+CELC_MVLL,manifiesto comunista,MISC,1
+CELC_MVLL,manuel a. odría,PER,1
+CELC_MVLL,manuel prado,PER,1
+CELC_MVLL,margot,PER,1
+CELC_MVLL,marina,ORG,1
+CELC_MVLL,mariposa nocturna,MISC,1
+CELC_MVLL,mariposa nocturna,PER,1
+CELC_MVLL,mariposa nocturna chaveteada,MISC,1
+CELC_MVLL,marlon brando,PER,1
+CELC_MVLL,marsano,LOC,1
+CELC_MVLL,marxismo,MISC,1
+CELC_MVLL,maría félix,PER,1
+CELC_MVLL,maría parado de bellido,ORG,1
+CELC_MVLL,mascaró,PER,1
+CELC_MVLL,mascota,PER,1
+CELC_MVLL,maternidad de lima,ORG,1
+CELC_MVLL,matías,LOC,1
+CELC_MVLL,matías piensa,PER,1
+CELC_MVLL,mauro cruz,PER,1
+CELC_MVLL,mayor de policía,PER,1
+CELC_MVLL,melchorita,PER,1
+CELC_MVLL,mercadito,MISC,1
+CELC_MVLL,milagro de milán,MISC,1
+CELC_MVLL,ministerio,LOC,1
+CELC_MVLL,ministerio de gobierno,ORG,1
+CELC_MVLL,ministerio de guerra ambrosio,ORG,1
+CELC_MVLL,ministerio de relaciones exteriores,ORG,1
+CELC_MVLL,ministerio de trabajo,ORG,1
+CELC_MVLL,ministerios,ORG,1
+CELC_MVLL,ministro bermúdez,PER,1
+CELC_MVLL,ministro de agricultura,PER,1
+CELC_MVLL,ministro de bustamante,PER,1
+CELC_MVLL,ministro de gobierno,ORG,1
+CELC_MVLL,ministro de hacienda,PER,1
+CELC_MVLL,ministro de trabajo,PER,1
+CELC_MVLL,ministros,MISC,1
+CELC_MVLL,ministros,ORG,1
+CELC_MVLL,molotov,MISC,1
+CELC_MVLL,mongol,PER,1
+CELC_MVLL,morales,MISC,1
+CELC_MVLL,morales,ORG,1
+CELC_MVLL,morales,PER,1
+CELC_MVLL,morris,MISC,1
+CELC_MVLL,movimiento restaurador,ORG,1
+CELC_MVLL,muelle,LOC,1
+CELC_MVLL,muelle,PER,1
+CELC_MVLL,muerte en arizona,MISC,1
+CELC_MVLL,mundial piensa,MISC,1
+CELC_MVLL,musa,MISC,1
+CELC_MVLL,musa mierda,PER,1
+CELC_MVLL,muñequita linda,MISC,1
+CELC_MVLL,médico,PER,1
+CELC_MVLL,nacional,LOC,1
+CELC_MVLL,nacional presidente,MISC,1
+CELC_MVLL,naval,ORG,1
+CELC_MVLL,navidad,MISC,1
+CELC_MVLL,nazim himet,PER,1
+CELC_MVLL,neptuno,MISC,1
+CELC_MVLL,new yorker,MISC,1
+CELC_MVLL,niño dios,MISC,1
+CELC_MVLL,noche de amor,MISC,1
+CELC_MVLL,normal,MISC,1
+CELC_MVLL,nínive,LOC,1
+CELC_MVLL,núñez,PER,1
+CELC_MVLL,ocoña,LOC,1
+CELC_MVLL,odría de presidente,PER,1
+CELC_MVLL,odría es patria,MISC,1
+CELC_MVLL,oficial,MISC,1
+CELC_MVLL,oficial de investigaciones,MISC,1
+CELC_MVLL,oficial de tercera,MISC,1
+CELC_MVLL,"ojos bonitos, cuadros feos",MISC,1
+CELC_MVLL,olave”,LOC,1
+CELC_MVLL,orgambide,PER,1
+CELC_MVLL,organización,ORG,1
+CELC_MVLL,organización cahuide,ORG,1
+CELC_MVLL,organización del partido comunista peruano,ORG,1
+CELC_MVLL,ostrovski,PER,1
+CELC_MVLL,palacio de justicia,MISC,1
+CELC_MVLL,panagra,ORG,1
+CELC_MVLL,pancras,MISC,1
+CELC_MVLL,pantaleón y las visitadoras,MISC,1
+CELC_MVLL,parada,LOC,1
+CELC_MVLL,parque,LOC,1
+CELC_MVLL,parque de la reserva,LOC,1
+CELC_MVLL,parra,PER,1
+CELC_MVLL,parral,LOC,1
+CELC_MVLL,parroquia,LOC,1
+CELC_MVLL,paseo de aguas,LOC,1
+CELC_MVLL,patio,LOC,1
+CELC_MVLL,patria,ORG,1
+CELC_MVLL,paz,MISC,1
+CELC_MVLL,pedro,PER,1
+CELC_MVLL,pedro armendáriz,PER,1
+CELC_MVLL,pedro solano,PER,1
+CELC_MVLL,pen/nabokov,MISC,1
+CELC_MVLL,penitenciaría,ORG,1
+CELC_MVLL,pentecostal,MISC,1
+CELC_MVLL,pepsi —cola,MISC,1
+CELC_MVLL,pera,PER,1
+CELC_MVLL,periódico labor,ORG,1
+CELC_MVLL,peta,PER,1
+CELC_MVLL,petites misères de la vie conjugale,MISC,1
+CELC_MVLL,pichón,PER,1
+CELC_MVLL,pingüino,MISC,1
+CELC_MVLL,piura,LOC,1
+CELC_MVLL,plaza,MISC,1
+CELC_MVLL,plaza de,LOC,1
+CELC_MVLL,plaza de acho,LOC,1
+CELC_MVLL,plaza del porvenir,LOC,1
+CELC_MVLL,policía,MISC,1
+CELC_MVLL,policía,ORG,1
+CELC_MVLL,pollo,PER,1
+CELC_MVLL,prado,ORG,1
+CELC_MVLL,pre,MISC,1
+CELC_MVLL,prefecto,MISC,1
+CELC_MVLL,prefecto,ORG,1
+CELC_MVLL,prefectura,LOC,1
+CELC_MVLL,prefecturas,MISC,1
+CELC_MVLL,premio biblioteca breve,MISC,1
+CELC_MVLL,premio cervantes,MISC,1
+CELC_MVLL,premio de la critica,MISC,1
+CELC_MVLL,premio de la crítica,MISC,1
+CELC_MVLL,premio internacional rómulo gallegos,MISC,1
+CELC_MVLL,premio leopoldo alas,MISC,1
+CELC_MVLL,prensa,ORG,1
+CELC_MVLL,presidente de la asociación,MISC,1
+CELC_MVLL,presidente del comité de recepción,PER,1
+CELC_MVLL,presupuesto,MISC,1
+CELC_MVLL,procesión,MISC,1
+CELC_MVLL,procesión del señor de los milagros,MISC,1
+CELC_MVLL,prolongación meigos,MISC,1
+CELC_MVLL,promoción,ORG,1
+CELC_MVLL,príncipe de asturias,MISC,1
+CELC_MVLL,psicología,MISC,1
+CELC_MVLL,psiquiatría,MISC,1
+CELC_MVLL,pucallpa,PER,1
+CELC_MVLL,pueblo libre,LOC,1
+CELC_MVLL,puente,LOC,1
+CELC_MVLL,puente de piedra,LOC,1
+CELC_MVLL,quebrada,MISC,1
+CELC_MVLL,quiosco de barranco,LOC,1
+CELC_MVLL,quién mató a palomino molero,MISC,1
+CELC_MVLL,quiñoncito,PER,1
+CELC_MVLL,quo vadis,MISC,1
+CELC_MVLL,qué hacer,MISC,1
+CELC_MVLL,radio el sol,ORG,1
+CELC_MVLL,rascachucha,PER,1
+CELC_MVLL,ravines,PER,1
+CELC_MVLL,rayo de la montaña,MISC,1
+CELC_MVLL,reina,PER,1
+CELC_MVLL,remington,MISC,1
+CELC_MVLL,renuncie,MISC,1
+CELC_MVLL,restauradores de arequipa,ORG,1
+CELC_MVLL,restaurant suizo de la herradura,LOC,1
+CELC_MVLL,revista amauta,ORG,1
+CELC_MVLL,revista de occidente,ORG,1
+CELC_MVLL,revolución china,MISC,1
+CELC_MVLL,revolución de odría,MISC,1
+CELC_MVLL,rialto,LOC,1
+CELC_MVLL,ricardo palma,LOC,1
+CELC_MVLL,rififí,PER,1
+CELC_MVLL,rimac,MISC,1
+CELC_MVLL,rinconcito cajamarquino,LOC,1
+CELC_MVLL,rinconcito cajamarquino,MISC,1
+CELC_MVLL,rochabús,MISC,1
+CELC_MVLL,rosa,MISC,1
+CELC_MVLL,rosas rojas para ti,MISC,1
+CELC_MVLL,rosita,PER,1
+CELC_MVLL,rueda,PER,1
+CELC_MVLL,río grande,PER,1
+CELC_MVLL,ríos,PER,1
+CELC_MVLL,sabidísimo,MISC,1
+CELC_MVLL,sala de emergencia,LOC,1
+CELC_MVLL,salud educación trabajo,MISC,1
+CELC_MVLL,san fernando,LOC,1
+CELC_MVLL,san miguel,PER,1
+CELC_MVLL,santa cruz,MISC,1
+CELC_MVLL,santa cruz,PER,1
+CELC_MVLL,santa maría,LOC,1
+CELC_MVLL,santa maría,ORG,1
+CELC_MVLL,santa rosa de lima,MISC,1
+CELC_MVLL,santo cristo,LOC,1
+CELC_MVLL,santo tomás,PER,1
+CELC_MVLL,santé”,ORG,1
+CELC_MVLL,secretaria,ORG,1
+CELC_MVLL,secretario general del partido restaurador,PER,1
+CELC_MVLL,secretaría,LOC,1
+CELC_MVLL,senado,ORG,1
+CELC_MVLL,servicio de inteligencia,ORG,1
+CELC_MVLL,señor de los milagros,MISC,1
+CELC_MVLL,señora lucía,PER,1
+CELC_MVLL,señora lupe,PER,1
+CELC_MVLL,shell,LOC,1
+CELC_MVLL,sherlok holmes,PER,1
+CELC_MVLL,siboney,LOC,1
+CELC_MVLL,siglo xx,MISC,1
+CELC_MVLL,sindicato,ORG,1
+CELC_MVLL,sociales,MISC,1
+CELC_MVLL,sociedad agraria,ORG,1
+CELC_MVLL,sociedad entre nous,ORG,1
+CELC_MVLL,sombra,LOC,1
+CELC_MVLL,suiza,LOC,1
+CELC_MVLL,sur,LOC,1
+CELC_MVLL,surco,LOC,1
+CELC_MVLL,suárez,PER,1
+CELC_MVLL,sánchez cerro,PER,1
+CELC_MVLL,síntesis de investigaciones lógicas,MISC,1
+CELC_MVLL,sólo el aprismo salvará al perú,MISC,1
+CELC_MVLL,tabarín,PER,1
+CELC_MVLL,talara,LOC,1
+CELC_MVLL,tambo,LOC,1
+CELC_MVLL,tambo,MISC,1
+CELC_MVLL,tarzán chispas,PER,1
+CELC_MVLL,te deum,MISC,1
+CELC_MVLL,teatro monumental,LOC,1
+CELC_MVLL,teniente,MISC,1
+CELC_MVLL,tercera,MISC,1
+CELC_MVLL,terreros,PER,1
+CELC_MVLL,teté,LOC,1
+CELC_MVLL,teté,ORG,1
+CELC_MVLL,the new yorker,MISC,1
+CELC_MVLL,tiabaya,LOC,1
+CELC_MVLL,tibio,PER,1
+CELC_MVLL,todos a oír a los líderes de la oposición,MISC,1
+CELC_MVLL,todos al,MISC,1
+CELC_MVLL,"todos al teatro municipal esta noche, todos con la coalición",MISC,1
+CELC_MVLL,tony,PER,1
+CELC_MVLL,tordo,MISC,1
+CELC_MVLL,toro,PER,1
+CELC_MVLL,toño,PER,1
+CELC_MVLL,transportes ambrosio pardo,ORG,1
+CELC_MVLL,transportes chincha,ORG,1
+CELC_MVLL,transportes morales,MISC,1
+CELC_MVLL,transportes pucallpa,ORG,1
+CELC_MVLL,tras las huellas de la mariposa nocturna,MISC,1
+CELC_MVLL,trastabillea,PER,1
+CELC_MVLL,travesuras de la niña mala,MISC,1
+CELC_MVLL,tribuna,MISC,1
+CELC_MVLL,tribunal,ORG,1
+CELC_MVLL,trovadores del norte,MISC,1
+CELC_MVLL,tumbes,ORG,1
+CELC_MVLL,túmula,LOC,1
+CELC_MVLL,ucayali,LOC,1
+CELC_MVLL,ultima hora,MISC,1
+CELC_MVLL,unidad escolar,LOC,1
+CELC_MVLL,unidades escolares,MISC,1
+CELC_MVLL,universidad de trujillo,ORG,1
+CELC_MVLL,unión,ORG,1
+CELC_MVLL,urbanizaciones del sur chico,MISC,1
+CELC_MVLL,"urbanización de ""los claveles”",LOC,1
+CELC_MVLL,urbanización de villacampa,LOC,1
+CELC_MVLL,urbanización las margaritas,LOC,1
+CELC_MVLL,vallarino,PER,1
+CELC_MVLL,vallerriestra,PER,1
+CELC_MVLL,valtin,PER,1
+CELC_MVLL,variedades,MISC,1
+CELC_MVLL,verdún,LOC,1
+CELC_MVLL,vicente garcía,PER,1
+CELC_MVLL,vietnam,LOC,1
+CELC_MVLL,virgen,MISC,1
+CELC_MVLL,virrey,PER,1
+CELC_MVLL,virreyes del perú,MISC,1
+CELC_MVLL,vitarte,MISC,1
+CELC_MVLL,vitarte,ORG,1
+CELC_MVLL,vitarte,PER,1
+CELC_MVLL,vittorio de sica,PER,1
+CELC_MVLL,viva el general odría,MISC,1
+CELC_MVLL,vota por,MISC,1
+CELC_MVLL,víctor raúl haya de la torre,PER,1
+CELC_MVLL,washington,MISC,1
+CELC_MVLL,washington,ORG,1
+CELC_MVLL,wilson,PER,1
+CELC_MVLL,yanahuara,LOC,1
+CELC_MVLL,yanqui,PER,1
+CELC_MVLL,yarinacocha,ORG,1
+CELC_MVLL,zavalita,MISC,1
+CELC_MVLL,zegarra,PER,1
+CELC_MVLL,última hora,MISC,1
+CELC_MVLL,ültima hora,ORG,1
+CELC_MVLL,“el pingüino”,MISC,1
+CELC_MVLL,“gambrinus”,LOC,1
+CELC_MVLL,“la catedral,LOC,1
+CELC_MVLL,“negro negro”,MISC,1
+CELC_MVLL,“negro negro”,ORG,1
+CELC_MVLL,“olave,MISC,1
+CELC_MVLL,“olave”,ORG,1
+CELC_MVLL,“transportes morales,ORG,1
+CELC_MVLL,“transportes morales”,ORG,1
+CELC_MVLL,“última hora,MISC,1
+CELC_MVLL,“última hora”,ORG,1
+CRDLI_IGDLV,inca,PER,642
+CRDLI_IGDLV,sol,MISC,467
+CRDLI_IGDLV,incas,MISC,366
+CRDLI_IGDLV,perú,LOC,363
+CRDLI_IGDLV,cozco,LOC,354
+CRDLI_IGDLV,rey,PER,235
+CRDLI_IGDLV,incas,ORG,212
+CRDLI_IGDLV,reyes,PER,189
+CRDLI_IGDLV,españa,LOC,163
+CRDLI_IGDLV,inca,MISC,158
+CRDLI_IGDLV,sol,PER,132
+CRDLI_IGDLV,imperio,ORG,121
+CRDLI_IGDLV,incas,PER,107
+CRDLI_IGDLV,huayna cápac,PER,92
+CRDLI_IGDLV,dios,MISC,91
+CRDLI_IGDLV,imperio,MISC,85
+CRDLI_IGDLV,inca,ORG,77
+CRDLI_IGDLV,atahuallpa,PER,74
+CRDLI_IGDLV,reyes incas,PER,71
+CRDLI_IGDLV,inca viracocha,PER,68
+CRDLI_IGDLV,chili,LOC,54
+CRDLI_IGDLV,padre blas valera,PER,53
+CRDLI_IGDLV,príncipe,PER,53
+CRDLI_IGDLV,quitu,LOC,53
+CRDLI_IGDLV,luna,MISC,51
+CRDLI_IGDLV,inca manco cápac,PER,36
+CRDLI_IGDLV,antis,LOC,31
+CRDLI_IGDLV,pachacámac,MISC,31
+CRDLI_IGDLV,indias,LOC,29
+CRDLI_IGDLV,túpac inca yupanqui,PER,29
+CRDLI_IGDLV,collasuyu,LOC,27
+CRDLI_IGDLV,viracocha,PER,27
+CRDLI_IGDLV,pedro de cieza,PER,26
+CRDLI_IGDLV,inca cápac yupanqui,PER,25
+CRDLI_IGDLV,huáscar inca,PER,24
+CRDLI_IGDLV,inca yupanqui,PER,24
+CRDLI_IGDLV,manco cápac,PER,24
+CRDLI_IGDLV,inca pachacútec,PER,23
+CRDLI_IGDLV,nuevo mundo,MISC,23
+CRDLI_IGDLV,chincha,LOC,22
+CRDLI_IGDLV,huáscar,PER,21
+CRDLI_IGDLV,pachacámac,LOC,21
+CRDLI_IGDLV,padre maestro acosta,PER,21
+CRDLI_IGDLV,chancas,ORG,20
+CRDLI_IGDLV,pedro de cieza de león,PER,20
+CRDLI_IGDLV,rímac,LOC,20
+CRDLI_IGDLV,chinchasuyu,LOC,19
+CRDLI_IGDLV,ciudad de los reyes,LOC,19
+CRDLI_IGDLV,imperio de los incas,MISC,18
+CRDLI_IGDLV,panamá,LOC,18
+CRDLI_IGDLV,chimu,PER,17
+CRDLI_IGDLV,cápac yupanqui,PER,17
+CRDLI_IGDLV,sevilla,LOC,17
+CRDLI_IGDLV,cuntisuyu,LOC,16
+CRDLI_IGDLV,pachacámac,PER,16
+CRDLI_IGDLV,rey inca roca,PER,16
+CRDLI_IGDLV,garcilaso de la vega,PER,15
+CRDLI_IGDLV,hancohuallu,PER,15
+CRDLI_IGDLV,raymi,MISC,15
+CRDLI_IGDLV,reyes incas,MISC,15
+CRDLI_IGDLV,viracocha,MISC,15
+CRDLI_IGDLV,arequepa,LOC,14
+CRDLI_IGDLV,dios,PER,14
+CRDLI_IGDLV,inca huayna cápac,PER,14
+CRDLI_IGDLV,padre acosta,PER,14
+CRDLI_IGDLV,pedro serrano,PER,14
+CRDLI_IGDLV,reina,PER,14
+CRDLI_IGDLV,rey,MISC,14
+CRDLI_IGDLV,agustín de zárate,PER,13
+CRDLI_IGDLV,collao,LOC,13
+CRDLI_IGDLV,consejo,ORG,13
+CRDLI_IGDLV,francisco lópez de gómara,PER,13
+CRDLI_IGDLV,imperio,LOC,13
+CRDLI_IGDLV,méxico,LOC,13
+CRDLI_IGDLV,sol,ORG,13
+CRDLI_IGDLV,gonzalo pizarro,PER,12
+CRDLI_IGDLV,pedro de valdivia,PER,12
+CRDLI_IGDLV,rey inca yupanqui,PER,12
+CRDLI_IGDLV,santo domingo,LOC,12
+CRDLI_IGDLV,su majestad,PER,12
+CRDLI_IGDLV,su paternidad,PER,12
+CRDLI_IGDLV,templo del sol,LOC,12
+CRDLI_IGDLV,trujillo,LOC,12
+CRDLI_IGDLV,antisuyu,LOC,11
+CRDLI_IGDLV,charcas,LOC,11
+CRDLI_IGDLV,francisco hernández girón,PER,11
+CRDLI_IGDLV,inca roca,PER,11
+CRDLI_IGDLV,señor,MISC,11
+CRDLI_IGDLV,viracocha inca,PER,11
+CRDLI_IGDLV,apurímac,MISC,10
+CRDLI_IGDLV,cassamarca,LOC,10
+CRDLI_IGDLV,florida,LOC,10
+CRDLI_IGDLV,inca yáhuar huácac,PER,10
+CRDLI_IGDLV,nuestro padre el sol,PER,10
+CRDLI_IGDLV,puerto viejo,LOC,10
+CRDLI_IGDLV,sol,LOC,10
+CRDLI_IGDLV,túmpiz,LOC,10
+CRDLI_IGDLV,umasuyu,LOC,10
+CRDLI_IGDLV,barlovento,LOC,9
+CRDLI_IGDLV,cañaris,LOC,9
+CRDLI_IGDLV,chile,LOC,9
+CRDLI_IGDLV,collas,PER,9
+CRDLI_IGDLV,contisuyu,LOC,9
+CRDLI_IGDLV,don francisco pizarro,PER,9
+CRDLI_IGDLV,guáscar,PER,9
+CRDLI_IGDLV,los reyes,LOC,9
+CRDLI_IGDLV,pachacútec,PER,9
+CRDLI_IGDLV,sierra nevada,LOC,9
+CRDLI_IGDLV,su paternidad,MISC,9
+CRDLI_IGDLV,titicaca,LOC,9
+CRDLI_IGDLV,tumipampa,LOC,9
+CRDLI_IGDLV,yáhuar huácac,PER,9
+CRDLI_IGDLV,casa del sol,LOC,8
+CRDLI_IGDLV,cassana,LOC,8
+CRDLI_IGDLV,chachapuya,LOC,8
+CRDLI_IGDLV,cuismancu,PER,8
+CRDLI_IGDLV,cápac,MISC,8
+CRDLI_IGDLV,muyna,LOC,8
+CRDLI_IGDLV,palla,PER,8
+CRDLI_IGDLV,pallas,PER,8
+CRDLI_IGDLV,rucana,LOC,8
+CRDLI_IGDLV,sumo sacerdote,PER,8
+CRDLI_IGDLV,astrología,MISC,7
+CRDLI_IGDLV,atacama,LOC,7
+CRDLI_IGDLV,chichas,LOC,7
+CRDLI_IGDLV,cochapampa,LOC,7
+CRDLI_IGDLV,collas,MISC,7
+CRDLI_IGDLV,collas,ORG,7
+CRDLI_IGDLV,collcampata,LOC,7
+CRDLI_IGDLV,cuzco,LOC,7
+CRDLI_IGDLV,don diego de almagro,PER,7
+CRDLI_IGDLV,huánucu,LOC,7
+CRDLI_IGDLV,inca lloque yupanqui,PER,7
+CRDLI_IGDLV,juan álvarez maldonado,PER,7
+CRDLI_IGDLV,manta,LOC,7
+CRDLI_IGDLV,nanasca,LOC,7
+CRDLI_IGDLV,padre joseph de acosta,PER,7
+CRDLI_IGDLV,paullu,PER,7
+CRDLI_IGDLV,perú,MISC,7
+CRDLI_IGDLV,príncipes,PER,7
+CRDLI_IGDLV,quechua,LOC,7
+CRDLI_IGDLV,reino,ORG,7
+CRDLI_IGDLV,rey cuismancu,PER,7
+CRDLI_IGDLV,runahuánac,LOC,7
+CRDLI_IGDLV,sacsahuana,LOC,7
+CRDLI_IGDLV,sumo sacerdote,MISC,7
+CRDLI_IGDLV,yúcay,LOC,7
+CRDLI_IGDLV,amarumayu,MISC,6
+CRDLI_IGDLV,antahuaylla,LOC,6
+CRDLI_IGDLV,atabálipa,PER,6
+CRDLI_IGDLV,cartagena,LOC,6
+CRDLI_IGDLV,cassamarquilla,LOC,6
+CRDLI_IGDLV,castilla,LOC,6
+CRDLI_IGDLV,chancas,LOC,6
+CRDLI_IGDLV,chancas,PER,6
+CRDLI_IGDLV,chayanta,LOC,6
+CRDLI_IGDLV,chirihuanas,MISC,6
+CRDLI_IGDLV,colla,LOC,6
+CRDLI_IGDLV,copayapu,LOC,6
+CRDLI_IGDLV,coya,PER,6
+CRDLI_IGDLV,cuba,LOC,6
+CRDLI_IGDLV,córdoba,LOC,6
+CRDLI_IGDLV,emperador,PER,6
+CRDLI_IGDLV,evangelio,MISC,6
+CRDLI_IGDLV,gobernador,PER,6
+CRDLI_IGDLV,guainacaba,PER,6
+CRDLI_IGDLV,gómara,PER,6
+CRDLI_IGDLV,gómez de tordoya,PER,6
+CRDLI_IGDLV,hatun colla,LOC,6
+CRDLI_IGDLV,huayna cápac,LOC,6
+CRDLI_IGDLV,inca,LOC,6
+CRDLI_IGDLV,mama ocllo,PER,6
+CRDLI_IGDLV,mayta cápac,PER,6
+CRDLI_IGDLV,palla,MISC,6
+CRDLI_IGDLV,pelú,MISC,6
+CRDLI_IGDLV,príncipe,MISC,6
+CRDLI_IGDLV,pucara,LOC,6
+CRDLI_IGDLV,reino,MISC,6
+CRDLI_IGDLV,rey atahuallpa,PER,6
+CRDLI_IGDLV,santísimo sacramento,MISC,6
+CRDLI_IGDLV,su majestad,MISC,6
+CRDLI_IGDLV,templo,LOC,6
+CRDLI_IGDLV,tiahuanacu,LOC,6
+CRDLI_IGDLV,tumpalla,PER,6
+CRDLI_IGDLV,venus,MISC,6
+CRDLI_IGDLV,zapa inca,MISC,6
+CRDLI_IGDLV,amarucancha,LOC,5
+CRDLI_IGDLV,canarias,LOC,5
+CRDLI_IGDLV,cari,PER,5
+CRDLI_IGDLV,cañari,LOC,5
+CRDLI_IGDLV,chachas,ORG,5
+CRDLI_IGDLV,chanca,LOC,5
+CRDLI_IGDLV,chancas,MISC,5
+CRDLI_IGDLV,chimu,LOC,5
+CRDLI_IGDLV,chucuitu,LOC,5
+CRDLI_IGDLV,chuquimancu,PER,5
+CRDLI_IGDLV,collas,LOC,5
+CRDLI_IGDLV,cuquimpu,LOC,5
+CRDLI_IGDLV,cápac,PER,5
+CRDLI_IGDLV,cúntur marca,LOC,5
+CRDLI_IGDLV,dios el sol,MISC,5
+CRDLI_IGDLV,huayna cápac,MISC,5
+CRDLI_IGDLV,imperio del inca,MISC,5
+CRDLI_IGDLV,incas,LOC,5
+CRDLI_IGDLV,incas reyes,MISC,5
+CRDLI_IGDLV,lautaru,PER,5
+CRDLI_IGDLV,lloque yupanqui,PER,5
+CRDLI_IGDLV,manco inca,PER,5
+CRDLI_IGDLV,marqués,PER,5
+CRDLI_IGDLV,musu,LOC,5
+CRDLI_IGDLV,nuestro padre el sol,MISC,5
+CRDLI_IGDLV,pallas,MISC,5
+CRDLI_IGDLV,parmunca,LOC,5
+CRDLI_IGDLV,pasto,LOC,5
+CRDLI_IGDLV,pedro del barco,PER,5
+CRDLI_IGDLV,pirú,LOC,5
+CRDLI_IGDLV,puna,LOC,5
+CRDLI_IGDLV,purumaucas,ORG,5
+CRDLI_IGDLV,salamanca,LOC,5
+CRDLI_IGDLV,san francisco,MISC,5
+CRDLI_IGDLV,santo evangelio,MISC,5
+CRDLI_IGDLV,sinchi roca,PER,5
+CRDLI_IGDLV,trinidad,MISC,5
+CRDLI_IGDLV,tucma,LOC,5
+CRDLI_IGDLV,uillca,LOC,5
+CRDLI_IGDLV,valdivia,LOC,5
+CRDLI_IGDLV,valdivia,PER,5
+CRDLI_IGDLV,yahuarpampa,LOC,5
+CRDLI_IGDLV,yupanqui,MISC,5
+CRDLI_IGDLV,amáncay,LOC,4
+CRDLI_IGDLV,antis,MISC,4
+CRDLI_IGDLV,apurímac,LOC,4
+CRDLI_IGDLV,atahuallpa,LOC,4
+CRDLI_IGDLV,auqui titu,PER,4
+CRDLI_IGDLV,berú,LOC,4
+CRDLI_IGDLV,cacha,LOC,4
+CRDLI_IGDLV,callahuaya,LOC,4
+CRDLI_IGDLV,callauaya,LOC,4
+CRDLI_IGDLV,caranque,LOC,4
+CRDLI_IGDLV,carmenca,LOC,4
+CRDLI_IGDLV,charca,LOC,4
+CRDLI_IGDLV,chincha,PER,4
+CRDLI_IGDLV,chita,LOC,4
+CRDLI_IGDLV,chuquisaca,LOC,4
+CRDLI_IGDLV,colla,MISC,4
+CRDLI_IGDLV,colón,PER,4
+CRDLI_IGDLV,coya,MISC,4
+CRDLI_IGDLV,cozco,MISC,4
+CRDLI_IGDLV,cápac ayllu,MISC,4
+CRDLI_IGDLV,don francisco,PER,4
+CRDLI_IGDLV,don francisco de toledo,PER,4
+CRDLI_IGDLV,don melchior carlos inca,PER,4
+CRDLI_IGDLV,emperadores,PER,4
+CRDLI_IGDLV,europa,LOC,4
+CRDLI_IGDLV,gaspar de sotelo,PER,4
+CRDLI_IGDLV,hacedor,MISC,4
+CRDLI_IGDLV,hernando pizarro,PER,4
+CRDLI_IGDLV,huacachaca,LOC,4
+CRDLI_IGDLV,huacapuncu,LOC,4
+CRDLI_IGDLV,huamachucu,PER,4
+CRDLI_IGDLV,huamanca,LOC,4
+CRDLI_IGDLV,huanacauri,LOC,4
+CRDLI_IGDLV,huarcu,LOC,4
+CRDLI_IGDLV,huarina,LOC,4
+CRDLI_IGDLV,huayru,MISC,4
+CRDLI_IGDLV,imperial,LOC,4
+CRDLI_IGDLV,inca sinchi roca,PER,4
+CRDLI_IGDLV,inca yupanqui,MISC,4
+CRDLI_IGDLV,ingas,MISC,4
+CRDLI_IGDLV,italia,LOC,4
+CRDLI_IGDLV,juan de pancorvo,PER,4
+CRDLI_IGDLV,juan rodríguez de villalobos,PER,4
+CRDLI_IGDLV,mar del sur,LOC,4
+CRDLI_IGDLV,marqués don francisco pizarro,PER,4
+CRDLI_IGDLV,maulli,LOC,4
+CRDLI_IGDLV,maulli,MISC,4
+CRDLI_IGDLV,musus,ORG,4
+CRDLI_IGDLV,muyupampa,LOC,4
+CRDLI_IGDLV,nombre de dios,LOC,4
+CRDLI_IGDLV,osorno,LOC,4
+CRDLI_IGDLV,pachacútec,MISC,4
+CRDLI_IGDLV,padre maestro,PER,4
+CRDLI_IGDLV,padre maestro blas valera,PER,4
+CRDLI_IGDLV,paucartampu,MISC,4
+CRDLI_IGDLV,pedro de cieza,MISC,4
+CRDLI_IGDLV,pedro lópez de cazalla,PER,4
+CRDLI_IGDLV,plaza mayor,LOC,4
+CRDLI_IGDLV,potocchi,LOC,4
+CRDLI_IGDLV,potocsi,LOC,4
+CRDLI_IGDLV,pumapchupan,LOC,4
+CRDLI_IGDLV,pumpu,LOC,4
+CRDLI_IGDLV,quechuas,LOC,4
+CRDLI_IGDLV,quechuas,ORG,4
+CRDLI_IGDLV,reina,MISC,4
+CRDLI_IGDLV,reino,LOC,4
+CRDLI_IGDLV,rey,ORG,4
+CRDLI_IGDLV,rey chuquimancu,PER,4
+CRDLI_IGDLV,rey de quitu,PER,4
+CRDLI_IGDLV,roma,LOC,4
+CRDLI_IGDLV,rímac,MISC,4
+CRDLI_IGDLV,rímac,PER,4
+CRDLI_IGDLV,santa compañía de jesús,ORG,4
+CRDLI_IGDLV,tarma,LOC,4
+CRDLI_IGDLV,templo del,LOC,4
+CRDLI_IGDLV,uramarca,LOC,4
+CRDLI_IGDLV,visorrey,PER,4
+CRDLI_IGDLV,yauyu,LOC,4
+CRDLI_IGDLV,ñusta,MISC,4
+CRDLI_IGDLV,amáncay,MISC,3
+CRDLI_IGDLV,andalucía,LOC,3
+CRDLI_IGDLV,andes,LOC,3
+CRDLI_IGDLV,anti,LOC,3
+CRDLI_IGDLV,antonio altamirano,PER,3
+CRDLI_IGDLV,apachecta,MISC,3
+CRDLI_IGDLV,apachitas,MISC,3
+CRDLI_IGDLV,augustos,PER,3
+CRDLI_IGDLV,aymara,LOC,3
+CRDLI_IGDLV,bacab,PER,3
+CRDLI_IGDLV,barranca,LOC,3
+CRDLI_IGDLV,bartolomé de terrazas,PER,3
+CRDLI_IGDLV,cabildo,ORG,3
+CRDLI_IGDLV,cabo de pasau,LOC,3
+CRDLI_IGDLV,cañaris,ORG,3
+CRDLI_IGDLV,cañaris,PER,3
+CRDLI_IGDLV,chachapuyas,LOC,3
+CRDLI_IGDLV,chachapuyas,PER,3
+CRDLI_IGDLV,chanca,MISC,3
+CRDLI_IGDLV,chicha,LOC,3
+CRDLI_IGDLV,chincha cámac,MISC,3
+CRDLI_IGDLV,chipana,PER,3
+CRDLI_IGDLV,chirihuana,LOC,3
+CRDLI_IGDLV,chirihuanas,LOC,3
+CRDLI_IGDLV,chucurpu,LOC,3
+CRDLI_IGDLV,chuncara,LOC,3
+CRDLI_IGDLV,ciudad de la plata,LOC,3
+CRDLI_IGDLV,compañía de jesús,ORG,3
+CRDLI_IGDLV,coracora,LOC,3
+CRDLI_IGDLV,cotanera,LOC,3
+CRDLI_IGDLV,cotapampa,LOC,3
+CRDLI_IGDLV,coya mama ocllo huaco,PER,3
+CRDLI_IGDLV,cristo nuestro señor,PER,3
+CRDLI_IGDLV,cristóbal colón,PER,3
+CRDLI_IGDLV,del,LOC,3
+CRDLI_IGDLV,demarcación,MISC,3
+CRDLI_IGDLV,desaguadero,MISC,3
+CRDLI_IGDLV,diego alemán,PER,3
+CRDLI_IGDLV,diego de alcobaza,PER,3
+CRDLI_IGDLV,diego maldonado,PER,3
+CRDLI_IGDLV,dios el sol,PER,3
+CRDLI_IGDLV,dios nuestro señor,MISC,3
+CRDLI_IGDLV,don alonso de alvarado,PER,3
+CRDLI_IGDLV,don antonio de ribera,PER,3
+CRDLI_IGDLV,estrecho de magallanes,LOC,3
+CRDLI_IGDLV,fe católica,MISC,3
+CRDLI_IGDLV,flandes,LOC,3
+CRDLI_IGDLV,francisco moreno,PER,3
+CRDLI_IGDLV,fray diego martín,PER,3
+CRDLI_IGDLV,guáscar inga,PER,3
+CRDLI_IGDLV,hacari,LOC,3
+CRDLI_IGDLV,hanan cozco,LOC,3
+CRDLI_IGDLV,hancohuallu,LOC,3
+CRDLI_IGDLV,hancohuallu,ORG,3
+CRDLI_IGDLV,hatunpacassa,LOC,3
+CRDLI_IGDLV,haucaypata,LOC,3
+CRDLI_IGDLV,historia general de las indias,MISC,3
+CRDLI_IGDLV,huacchacúyac,MISC,3
+CRDLI_IGDLV,huacrachucu,LOC,3
+CRDLI_IGDLV,huacrachucus,ORG,3
+CRDLI_IGDLV,huallmi,LOC,3
+CRDLI_IGDLV,huanca,LOC,3
+CRDLI_IGDLV,huancapampa,LOC,3
+CRDLI_IGDLV,huancauillca,LOC,3
+CRDLI_IGDLV,huasca,MISC,3
+CRDLI_IGDLV,huaychu,LOC,3
+CRDLI_IGDLV,hurin cozco,LOC,3
+CRDLI_IGDLV,huáscar,MISC,3
+CRDLI_IGDLV,ica,LOC,3
+CRDLI_IGDLV,iglesia catedral,LOC,3
+CRDLI_IGDLV,illapa,MISC,3
+CRDLI_IGDLV,inca atahuallpa,PER,3
+CRDLI_IGDLV,inca manco cápac,MISC,3
+CRDLI_IGDLV,inca mayta cápac,PER,3
+CRDLI_IGDLV,incas reyes,PER,3
+CRDLI_IGDLV,júpiter,MISC,3
+CRDLI_IGDLV,la florida,LOC,3
+CRDLI_IGDLV,laguna de paria,LOC,3
+CRDLI_IGDLV,lima,LOC,3
+CRDLI_IGDLV,llauantu,LOC,3
+CRDLI_IGDLV,mamacocha,MISC,3
+CRDLI_IGDLV,mamacunas,MISC,3
+CRDLI_IGDLV,mar,MISC,3
+CRDLI_IGDLV,marañón,MISC,3
+CRDLI_IGDLV,musus,MISC,3
+CRDLI_IGDLV,musus,PER,3
+CRDLI_IGDLV,noé,MISC,3
+CRDLI_IGDLV,nuestra señora de las mercedes,LOC,3
+CRDLI_IGDLV,nuestro padre,MISC,3
+CRDLI_IGDLV,nueva españa,LOC,3
+CRDLI_IGDLV,ocllo,PER,3
+CRDLI_IGDLV,orellana,PER,3
+CRDLI_IGDLV,p. acosta,PER,3
+CRDLI_IGDLV,pacha,MISC,3
+CRDLI_IGDLV,pachacútec inca,PER,3
+CRDLI_IGDLV,pantoja,PER,3
+CRDLI_IGDLV,parahuay,MISC,3
+CRDLI_IGDLV,parihuana cocha,LOC,3
+CRDLI_IGDLV,pascua,MISC,3
+CRDLI_IGDLV,passau,LOC,3
+CRDLI_IGDLV,pastu,LOC,3
+CRDLI_IGDLV,paternidad,MISC,3
+CRDLI_IGDLV,paucartampu,LOC,3
+CRDLI_IGDLV,presidente gasca,PER,3
+CRDLI_IGDLV,reina mama ocllo huaco,PER,3
+CRDLI_IGDLV,rey don felipe segundo,PER,3
+CRDLI_IGDLV,rey manco cápac,PER,3
+CRDLI_IGDLV,rey túpac inca yupanqui,PER,3
+CRDLI_IGDLV,reyes católicos,PER,3
+CRDLI_IGDLV,rimactampu,LOC,3
+CRDLI_IGDLV,río de la plata,MISC,3
+CRDLI_IGDLV,río de orellana,MISC,3
+CRDLI_IGDLV,sacsahuaman,LOC,3
+CRDLI_IGDLV,santa,LOC,3
+CRDLI_IGDLV,santa elena,LOC,3
+CRDLI_IGDLV,santa marta,LOC,3
+CRDLI_IGDLV,serrana,LOC,3
+CRDLI_IGDLV,solo señor,MISC,3
+CRDLI_IGDLV,su alteza,MISC,3
+CRDLI_IGDLV,tauantinsuyu,LOC,3
+CRDLI_IGDLV,tierra firme,LOC,3
+CRDLI_IGDLV,toledo,LOC,3
+CRDLI_IGDLV,tomás vázquez,PER,3
+CRDLI_IGDLV,trinidad,LOC,3
+CRDLI_IGDLV,utunsulla,ORG,3
+CRDLI_IGDLV,valladolid,LOC,3
+CRDLI_IGDLV,vasco núñez de balboa,PER,3
+CRDLI_IGDLV,viracocha inca,MISC,3
+CRDLI_IGDLV,yanahuara,LOC,3
+CRDLI_IGDLV,yucatán,LOC,3
+CRDLI_IGDLV,abraham,MISC,2
+CRDLI_IGDLV,abraham,PER,2
+CRDLI_IGDLV,acatanca,MISC,2
+CRDLI_IGDLV,acllahuaci,LOC,2
+CRDLI_IGDLV,alemania,LOC,2
+CRDLI_IGDLV,allca,LOC,2
+CRDLI_IGDLV,alonso de mesa,PER,2
+CRDLI_IGDLV,alonso sánchez,PER,2
+CRDLI_IGDLV,alonso sánchez de huelva,PER,2
+CRDLI_IGDLV,amaru,MISC,2
+CRDLI_IGDLV,ampara,LOC,2
+CRDLI_IGDLV,angol,LOC,2
+CRDLI_IGDLV,antonio de quiñones,PER,2
+CRDLI_IGDLV,antonio solar,PER,2
+CRDLI_IGDLV,apu mayta,PER,2
+CRDLI_IGDLV,apucara,LOC,2
+CRDLI_IGDLV,araucos,ORG,2
+CRDLI_IGDLV,arica,LOC,2
+CRDLI_IGDLV,aritmética,MISC,2
+CRDLI_IGDLV,asia,LOC,2
+CRDLI_IGDLV,asáncaru,LOC,2
+CRDLI_IGDLV,atabáliba,PER,2
+CRDLI_IGDLV,atahuallpa,MISC,2
+CRDLI_IGDLV,atiquipa,LOC,2
+CRDLI_IGDLV,auqui,PER,2
+CRDLI_IGDLV,auqui amaru túpac inca,PER,2
+CRDLI_IGDLV,ayauiri,LOC,2
+CRDLI_IGDLV,ayauiri,PER,2
+CRDLI_IGDLV,ayaviri,LOC,2
+CRDLI_IGDLV,babilonia,LOC,2
+CRDLI_IGDLV,berú,MISC,2
+CRDLI_IGDLV,blasco núñez vela,PER,2
+CRDLI_IGDLV,cabrillas,MISC,2
+CRDLI_IGDLV,cac-yauiri,LOC,2
+CRDLI_IGDLV,callamarca,LOC,2
+CRDLI_IGDLV,calle de san agustín,LOC,2
+CRDLI_IGDLV,calle del sol,LOC,2
+CRDLI_IGDLV,camata,LOC,2
+CRDLI_IGDLV,capira,LOC,2
+CRDLI_IGDLV,caracara,LOC,2
+CRDLI_IGDLV,caranca,LOC,2
+CRDLI_IGDLV,caranques,PER,2
+CRDLI_IGDLV,casa,LOC,2
+CRDLI_IGDLV,casa del,LOC,2
+CRDLI_IGDLV,cassamarca,PER,2
+CRDLI_IGDLV,cañares,LOC,2
+CRDLI_IGDLV,chachapuyas,MISC,2
+CRDLI_IGDLV,chachapuyas,ORG,2
+CRDLI_IGDLV,challcuchima,PER,2
+CRDLI_IGDLV,chanca,ORG,2
+CRDLI_IGDLV,chancillería de los reyes,ORG,2
+CRDLI_IGDLV,changas,ORG,2
+CRDLI_IGDLV,chaqui,LOC,2
+CRDLI_IGDLV,chaquillchaca,LOC,2
+CRDLI_IGDLV,chiapa,LOC,2
+CRDLI_IGDLV,chillca,LOC,2
+CRDLI_IGDLV,chinchapuc-yu,LOC,2
+CRDLI_IGDLV,chunchu,LOC,2
+CRDLI_IGDLV,chunchus,MISC,2
+CRDLI_IGDLV,chupas,LOC,2
+CRDLI_IGDLV,chuquiapu,LOC,2
+CRDLI_IGDLV,chuquinca,LOC,2
+CRDLI_IGDLV,citua,MISC,2
+CRDLI_IGDLV,colla,PER,2
+CRDLI_IGDLV,compañía,ORG,2
+CRDLI_IGDLV,copayapu,ORG,2
+CRDLI_IGDLV,cordillera nevada,LOC,2
+CRDLI_IGDLV,coricancha,LOC,2
+CRDLI_IGDLV,coya cuxi uárcay,PER,2
+CRDLI_IGDLV,coyas,PER,2
+CRDLI_IGDLV,cozco,PER,2
+CRDLI_IGDLV,credo,MISC,2
+CRDLI_IGDLV,cuchuna,LOC,2
+CRDLI_IGDLV,cunuñunun,MISC,2
+CRDLI_IGDLV,curampa,LOC,2
+CRDLI_IGDLV,cussipata,LOC,2
+CRDLI_IGDLV,cápac yupanqui,MISC,2
+CRDLI_IGDLV,diego centeno,PER,2
+CRDLI_IGDLV,diego fernández,PER,2
+CRDLI_IGDLV,diego ortiz de guzmán,PER,2
+CRDLI_IGDLV,dios nuestro señor,PER,2
+CRDLI_IGDLV,dios viracocha,MISC,2
+CRDLI_IGDLV,don alonso de ercilla,PER,2
+CRDLI_IGDLV,don alonso de mesa,PER,2
+CRDLI_IGDLV,don garcía,PER,2
+CRDLI_IGDLV,don garcía de mendoza,PER,2
+CRDLI_IGDLV,don pedro de alvarado,PER,2
+CRDLI_IGDLV,don sebastián de castilla,PER,2
+CRDLI_IGDLV,díos,MISC,2
+CRDLI_IGDLV,egipto,LOC,2
+CRDLI_IGDLV,emperador,MISC,2
+CRDLI_IGDLV,emperador carlos quinto,PER,2
+CRDLI_IGDLV,espíritu santo,MISC,2
+CRDLI_IGDLV,estruac,PER,2
+CRDLI_IGDLV,extremadura,LOC,2
+CRDLI_IGDLV,filosofía,MISC,2
+CRDLI_IGDLV,francia,LOC,2
+CRDLI_IGDLV,francisco de villacastín,PER,2
+CRDLI_IGDLV,francisco de villafuerte,PER,2
+CRDLI_IGDLV,garci sánchez de figueroa,PER,2
+CRDLI_IGDLV,garci vázquez,PER,2
+CRDLI_IGDLV,garcía de melo,PER,2
+CRDLI_IGDLV,geografía,MISC,2
+CRDLI_IGDLV,geometría,MISC,2
+CRDLI_IGDLV,gobernador,MISC,2
+CRDLI_IGDLV,gorgona,LOC,2
+CRDLI_IGDLV,guainacapa,PER,2
+CRDLI_IGDLV,guasca,PER,2
+CRDLI_IGDLV,guayna cápac,PER,2
+CRDLI_IGDLV,gómara,LOC,2
+CRDLI_IGDLV,gómara,MISC,2
+CRDLI_IGDLV,hatunrucana,LOC,2
+CRDLI_IGDLV,hernando de soto,PER,2
+CRDLI_IGDLV,hernán bravo de laguna,PER,2
+CRDLI_IGDLV,historia,MISC,2
+CRDLI_IGDLV,historia del perú,MISC,2
+CRDLI_IGDLV,huamachucu,LOC,2
+CRDLI_IGDLV,huaman,LOC,2
+CRDLI_IGDLV,huamanpallpa,LOC,2
+CRDLI_IGDLV,huancauillca,MISC,2
+CRDLI_IGDLV,huancauillca,ORG,2
+CRDLI_IGDLV,huancauillcas,MISC,2
+CRDLI_IGDLV,huaquirca,LOC,2
+CRDLI_IGDLV,huayllas,LOC,2
+CRDLI_IGDLV,huayllas,MISC,2
+CRDLI_IGDLV,huelva,LOC,2
+CRDLI_IGDLV,hércules,PER,2
+CRDLI_IGDLV,icona,PER,2
+CRDLI_IGDLV,iglesia mayor,LOC,2
+CRDLI_IGDLV,illapántac,MISC,2
+CRDLI_IGDLV,inca general,PER,2
+CRDLI_IGDLV,inca huáscar,PER,2
+CRDLI_IGDLV,inca páhuac mayta,PER,2
+CRDLI_IGDLV,inca túpac amaru,PER,2
+CRDLI_IGDLV,inca túpac yupanqui,PER,2
+CRDLI_IGDLV,incas reyes,ORG,2
+CRDLI_IGDLV,india oriental,LOC,2
+CRDLI_IGDLV,indias,MISC,2
+CRDLI_IGDLV,inga,PER,2
+CRDLI_IGDLV,ingas,PER,2
+CRDLI_IGDLV,inti,MISC,2
+CRDLI_IGDLV,inti cusi huallpa,MISC,2
+CRDLI_IGDLV,intip churin,MISC,2
+CRDLI_IGDLV,isla de la madera,LOC,2
+CRDLI_IGDLV,jesús,PER,2
+CRDLI_IGDLV,juan balsa,PER,2
+CRDLI_IGDLV,julio césar,PER,2
+CRDLI_IGDLV,libro,MISC,2
+CRDLI_IGDLV,licurgo,PER,2
+CRDLI_IGDLV,llaricassa,LOC,2
+CRDLI_IGDLV,llipi,LOC,2
+CRDLI_IGDLV,lope martín,PER,2
+CRDLI_IGDLV,madre luna,MISC,2
+CRDLI_IGDLV,madrid,LOC,2
+CRDLI_IGDLV,maestro simón,PER,2
+CRDLI_IGDLV,malla,LOC,2
+CRDLI_IGDLV,mama cora,PER,2
+CRDLI_IGDLV,mama quilla,MISC,2
+CRDLI_IGDLV,mamacuna,MISC,2
+CRDLI_IGDLV,mamacuna,PER,2
+CRDLI_IGDLV,mamánchic,MISC,2
+CRDLI_IGDLV,manco,MISC,2
+CRDLI_IGDLV,manco cápac inca,PER,2
+CRDLI_IGDLV,mar,LOC,2
+CRDLI_IGDLV,mar del norte,LOC,2
+CRDLI_IGDLV,marqués de cañete,PER,2
+CRDLI_IGDLV,marte,MISC,2
+CRDLI_IGDLV,martín de arbieto,LOC,2
+CRDLI_IGDLV,mayta cápac,MISC,2
+CRDLI_IGDLV,mojos,LOC,2
+CRDLI_IGDLV,musus,LOC,2
+CRDLI_IGDLV,navidad,MISC,2
+CRDLI_IGDLV,nombre de dios,MISC,2
+CRDLI_IGDLV,noé,PER,2
+CRDLI_IGDLV,nuestro señor,MISC,2
+CRDLI_IGDLV,nuestro señor,PER,2
+CRDLI_IGDLV,nuevo mundo,LOC,2
+CRDLI_IGDLV,nuevo orbe,LOC,2
+CRDLI_IGDLV,nuevo orbe,MISC,2
+CRDLI_IGDLV,obispo,PER,2
+CRDLI_IGDLV,orcosuyu,LOC,2
+CRDLI_IGDLV,otauallu,LOC,2
+CRDLI_IGDLV,pacasmayu,LOC,2
+CRDLI_IGDLV,pacha cámac,MISC,2
+CRDLI_IGDLV,pachacuti inga yupanqui,PER,2
+CRDLI_IGDLV,padre el sol,PER,2
+CRDLI_IGDLV,padre fray jerónimo román,PER,2
+CRDLI_IGDLV,padre maestro joseph de acosta,PER,2
+CRDLI_IGDLV,pedro arias de ávila,PER,2
+CRDLI_IGDLV,pedro de cieza de león,MISC,2
+CRDLI_IGDLV,pedro de hinojosa,PER,2
+CRDLI_IGDLV,pelua,LOC,2
+CRDLI_IGDLV,peregrina,MISC,2
+CRDLI_IGDLV,pillcupata,LOC,2
+CRDLI_IGDLV,pinahua,PER,2
+CRDLI_IGDLV,pincu,PER,2
+CRDLI_IGDLV,pirua,MISC,2
+CRDLI_IGDLV,pirú,MISC,2
+CRDLI_IGDLV,piti,LOC,2
+CRDLI_IGDLV,pizarro,PER,2
+CRDLI_IGDLV,plaza de nuestra señora,LOC,2
+CRDLI_IGDLV,poques,MISC,2
+CRDLI_IGDLV,potosí,LOC,2
+CRDLI_IGDLV,pumacurcu,LOC,2
+CRDLI_IGDLV,pumatampu,LOC,2
+CRDLI_IGDLV,puquinas,MISC,2
+CRDLI_IGDLV,pías,LOC,2
+CRDLI_IGDLV,pícuy,LOC,2
+CRDLI_IGDLV,quechuas,MISC,2
+CRDLI_IGDLV,quellca,LOC,2
+CRDLI_IGDLV,quespicancha,LOC,2
+CRDLI_IGDLV,quillacenca,LOC,2
+CRDLI_IGDLV,quipaypan,LOC,2
+CRDLI_IGDLV,quito,LOC,2
+CRDLI_IGDLV,quízquiz,PER,2
+CRDLI_IGDLV,raua ocllo,PER,2
+CRDLI_IGDLV,raymipampa,LOC,2
+CRDLI_IGDLV,reinas,MISC,2
+CRDLI_IGDLV,república de las indias occidentales,MISC,2
+CRDLI_IGDLV,rey chimu,PER,2
+CRDLI_IGDLV,rey de españa,PER,2
+CRDLI_IGDLV,rey huayna cápac,PER,2
+CRDLI_IGDLV,rey huáscar,PER,2
+CRDLI_IGDLV,rey huáscar inca,PER,2
+CRDLI_IGDLV,reyes,MISC,2
+CRDLI_IGDLV,rimacpampa,LOC,2
+CRDLI_IGDLV,roca,PER,2
+CRDLI_IGDLV,rodas,LOC,2
+CRDLI_IGDLV,rodrigo de esquivel,PER,2
+CRDLI_IGDLV,sacaca,LOC,2
+CRDLI_IGDLV,san bartolomé,PER,2
+CRDLI_IGDLV,san juan,MISC,2
+CRDLI_IGDLV,santa escritura,MISC,2
+CRDLI_IGDLV,santa madre iglesia romana,ORG,2
+CRDLI_IGDLV,sausa,LOC,2
+CRDLI_IGDLV,serranilla,LOC,2
+CRDLI_IGDLV,serrano,PER,2
+CRDLI_IGDLV,señor,PER,2
+CRDLI_IGDLV,sierra,LOC,2
+CRDLI_IGDLV,su majestad,ORG,2
+CRDLI_IGDLV,sulla,LOC,2
+CRDLI_IGDLV,sullana,LOC,2
+CRDLI_IGDLV,sulli,LOC,2
+CRDLI_IGDLV,suta,LOC,2
+CRDLI_IGDLV,tampu,LOC,2
+CRDLI_IGDLV,tapac-ri,LOC,2
+CRDLI_IGDLV,tapacari,LOC,2
+CRDLI_IGDLV,tarapaca,LOC,2
+CRDLI_IGDLV,tauantinsuyu,MISC,2
+CRDLI_IGDLV,teología,MISC,2
+CRDLI_IGDLV,titicaca,MISC,2
+CRDLI_IGDLV,titu,PER,2
+CRDLI_IGDLV,topa inga,PER,2
+CRDLI_IGDLV,topa inga yupangue,PER,2
+CRDLI_IGDLV,tucumán,LOC,2
+CRDLI_IGDLV,tutura,LOC,2
+CRDLI_IGDLV,tócay,PER,2
+CRDLI_IGDLV,túpac,PER,2
+CRDLI_IGDLV,túpac yupanqui,PER,2
+CRDLI_IGDLV,uillacunca,LOC,2
+CRDLI_IGDLV,uillca,ORG,2
+CRDLI_IGDLV,ullaca,LOC,2
+CRDLI_IGDLV,valle,LOC,2
+CRDLI_IGDLV,valle de ica,LOC,2
+CRDLI_IGDLV,valle de yúcay,LOC,2
+CRDLI_IGDLV,valle pachacámac,LOC,2
+CRDLI_IGDLV,villacastín,PER,2
+CRDLI_IGDLV,villarrica,LOC,2
+CRDLI_IGDLV,villcapampa,LOC,2
+CRDLI_IGDLV,vizcaya,LOC,2
+CRDLI_IGDLV,xauxa,LOC,2
+CRDLI_IGDLV,yunca,MISC,2
+CRDLI_IGDLV,yupanqui,PER,2
+CRDLI_IGDLV,zapa inca,PER,2
+CRDLI_IGDLV,áfrica,LOC,2
+CRDLI_IGDLV,acahuana,PER,1
+CRDLI_IGDLV,acahuana inca,PER,1
+CRDLI_IGDLV,acahuana puncu,MISC,1
+CRDLI_IGDLV,accha,LOC,1
+CRDLI_IGDLV,achanquillo,LOC,1
+CRDLI_IGDLV,acos,LOC,1
+CRDLI_IGDLV,acosta,PER,1
+CRDLI_IGDLV,adelantado,MISC,1
+CRDLI_IGDLV,adelantado don diego de almagro,MISC,1
+CRDLI_IGDLV,advertencias,MISC,1
+CRDLI_IGDLV,africa,LOC,1
+CRDLI_IGDLV,alfonso váez,PER,1
+CRDLI_IGDLV,allpacamasca,MISC,1
+CRDLI_IGDLV,almagro,PER,1
+CRDLI_IGDLV,alonso de hinojosa,PER,1
+CRDLI_IGDLV,alonso de loaysa,PER,1
+CRDLI_IGDLV,alonso de marchena,PER,1
+CRDLI_IGDLV,alonso de mesa,LOC,1
+CRDLI_IGDLV,alonso de soto,PER,1
+CRDLI_IGDLV,alonso de toro,PER,1
+CRDLI_IGDLV,alonso díaz,PER,1
+CRDLI_IGDLV,alonso mazuela,PER,1
+CRDLI_IGDLV,alpes,LOC,1
+CRDLI_IGDLV,amador,PER,1
+CRDLI_IGDLV,ambato,LOC,1
+CRDLI_IGDLV,ancara,LOC,1
+CRDLI_IGDLV,ancasmayu,LOC,1
+CRDLI_IGDLV,ancasmayu,MISC,1
+CRDLI_IGDLV,ancohualla,PER,1
+CRDLI_IGDLV,andaguaylas,LOC,1
+CRDLI_IGDLV,andrés lópez,PER,1
+CRDLI_IGDLV,angasmayo,MISC,1
+CRDLI_IGDLV,antahualla,LOC,1
+CRDLI_IGDLV,antalli,ORG,1
+CRDLI_IGDLV,antequera,LOC,1
+CRDLI_IGDLV,antis,ORG,1
+CRDLI_IGDLV,antoco,PER,1
+CRDLI_IGDLV,antonio de altamirano,PER,1
+CRDLI_IGDLV,antonio lebrija,PER,1
+CRDLI_IGDLV,antón ruiz de guevara,PER,1
+CRDLI_IGDLV,aníbal,PER,1
+CRDLI_IGDLV,apachecpa,MISC,1
+CRDLI_IGDLV,aparición del señor,MISC,1
+CRDLI_IGDLV,apichiqui,MISC,1
+CRDLI_IGDLV,apolo délfico,PER,1
+CRDLI_IGDLV,apu,PER,1
+CRDLI_IGDLV,apu huallpa rimachi,PER,1
+CRDLI_IGDLV,apu mayta,MISC,1
+CRDLI_IGDLV,apártate,MISC,1
+CRDLI_IGDLV,araucana,MISC,1
+CRDLI_IGDLV,araucos,LOC,1
+CRDLI_IGDLV,araucos,MISC,1
+CRDLI_IGDLV,araucu,LOC,1
+CRDLI_IGDLV,araucu,PER,1
+CRDLI_IGDLV,araucus,ORG,1
+CRDLI_IGDLV,arca,MISC,1
+CRDLI_IGDLV,ariosto,PER,1
+CRDLI_IGDLV,aruni,LOC,1
+CRDLI_IGDLV,arzobispo de sevilla,PER,1
+CRDLI_IGDLV,arzobispo don gerónimo de loaysa,PER,1
+CRDLI_IGDLV,asillu,LOC,1
+CRDLI_IGDLV,astaya huayllas,MISC,1
+CRDLI_IGDLV,astu huaraca,PER,1
+CRDLI_IGDLV,asturias,LOC,1
+CRDLI_IGDLV,atabáliba,LOC,1
+CRDLI_IGDLV,atahuallpa inca,PER,1
+CRDLI_IGDLV,atica,LOC,1
+CRDLI_IGDLV,aticu,LOC,1
+CRDLI_IGDLV,auca,MISC,1
+CRDLI_IGDLV,auca,PER,1
+CRDLI_IGDLV,aucacunápac,MISC,1
+CRDLI_IGDLV,augusto,MISC,1
+CRDLI_IGDLV,auqui,MISC,1
+CRDLI_IGDLV,auqui mayta,PER,1
+CRDLI_IGDLV,avisos de chili,MISC,1
+CRDLI_IGDLV,ayahuaca,LOC,1
+CRDLI_IGDLV,ayar,MISC,1
+CRDLI_IGDLV,ayar cachi,MISC,1
+CRDLI_IGDLV,ayar sauca,MISC,1
+CRDLI_IGDLV,ayar uchu,MISC,1
+CRDLI_IGDLV,ayarmaca,MISC,1
+CRDLI_IGDLV,aylli panaca,MISC,1
+CRDLI_IGDLV,aymara,ORG,1
+CRDLI_IGDLV,aymaraes,LOC,1
+CRDLI_IGDLV,aymaras,LOC,1
+CRDLI_IGDLV,añas,PER,1
+CRDLI_IGDLV,bacab,MISC,1
+CRDLI_IGDLV,baco,PER,1
+CRDLI_IGDLV,balboa,PER,1
+CRDLI_IGDLV,barra de san lúcar,LOC,1
+CRDLI_IGDLV,barrio,LOC,1
+CRDLI_IGDLV,barrio carmenca,LOC,1
+CRDLI_IGDLV,barrio cassana,LOC,1
+CRDLI_IGDLV,barrio de,LOC,1
+CRDLI_IGDLV,barrio tococachi,LOC,1
+CRDLI_IGDLV,bartolomé colón,PER,1
+CRDLI_IGDLV,batalla de los incas,MISC,1
+CRDLI_IGDLV,berbería,LOC,1
+CRDLI_IGDLV,bilbao,LOC,1
+CRDLI_IGDLV,blas gómez,PER,1
+CRDLI_IGDLV,bombón,LOC,1
+CRDLI_IGDLV,bredos,MISC,1
+CRDLI_IGDLV,brezos,MISC,1
+CRDLI_IGDLV,burgos,LOC,1
+CRDLI_IGDLV,bustincias,PER,1
+CRDLI_IGDLV,cabeza de palta,MISC,1
+CRDLI_IGDLV,caldefrancos,LOC,1
+CRDLI_IGDLV,cali,LOC,1
+CRDLI_IGDLV,calla cúnchuy,PER,1
+CRDLI_IGDLV,callao,LOC,1
+CRDLI_IGDLV,calle de la cárcel,LOC,1
+CRDLI_IGDLV,callua,LOC,1
+CRDLI_IGDLV,cama,MISC,1
+CRDLI_IGDLV,camana,LOC,1
+CRDLI_IGDLV,camasunqui,MISC,1
+CRDLI_IGDLV,cana,LOC,1
+CRDLI_IGDLV,canaria,LOC,1
+CRDLI_IGDLV,canas,ORG,1
+CRDLI_IGDLV,cancalla,LOC,1
+CRDLI_IGDLV,canchi,MISC,1
+CRDLI_IGDLV,cancillería,LOC,1
+CRDLI_IGDLV,cantutpata,LOC,1
+CRDLI_IGDLV,capitán general mayta,PER,1
+CRDLI_IGDLV,caracatu,LOC,1
+CRDLI_IGDLV,caracollo,LOC,1
+CRDLI_IGDLV,caranques,LOC,1
+CRDLI_IGDLV,carauilli,LOC,1
+CRDLI_IGDLV,cari,LOC,1
+CRDLI_IGDLV,cartagena de españa,LOC,1
+CRDLI_IGDLV,carvajal,PER,1
+CRDLI_IGDLV,casa,MISC,1
+CRDLI_IGDLV,casa collcampata,LOC,1
+CRDLI_IGDLV,casa de,LOC,1
+CRDLI_IGDLV,casa del demonio,LOC,1
+CRDLI_IGDLV,casayunca,LOC,1
+CRDLI_IGDLV,cascayunca,LOC,1
+CRDLI_IGDLV,cassa,LOC,1
+CRDLI_IGDLV,castilla de oro,LOC,1
+CRDLI_IGDLV,castilla urpi,MISC,1
+CRDLI_IGDLV,castillo,MISC,1
+CRDLI_IGDLV,cauiña,LOC,1
+CRDLI_IGDLV,cauiña,MISC,1
+CRDLI_IGDLV,cauqui,PER,1
+CRDLI_IGDLV,cauquicura,LOC,1
+CRDLI_IGDLV,caxamalca,LOC,1
+CRDLI_IGDLV,cayampi,LOC,1
+CRDLI_IGDLV,cayaucachi,LOC,1
+CRDLI_IGDLV,caylla llapi,MISC,1
+CRDLI_IGDLV,cañac-huay,LOC,1
+CRDLI_IGDLV,ceres,PER,1
+CRDLI_IGDLV,cerro de potocsi,LOC,1
+CRDLI_IGDLV,cerro potocchi,LOC,1
+CRDLI_IGDLV,chachapoyas,LOC,1
+CRDLI_IGDLV,chacma,LOC,1
+CRDLI_IGDLV,chalcuchiman,PER,1
+CRDLI_IGDLV,challapampa,LOC,1
+CRDLI_IGDLV,challcumarca,LOC,1
+CRDLI_IGDLV,chalán,LOC,1
+CRDLI_IGDLV,chamuru,LOC,1
+CRDLI_IGDLV,chancay,LOC,1
+CRDLI_IGDLV,chanchan,LOC,1
+CRDLI_IGDLV,changas,PER,1
+CRDLI_IGDLV,chaparro,MISC,1
+CRDLI_IGDLV,charcas,MISC,1
+CRDLI_IGDLV,chasca,MISC,1
+CRDLI_IGDLV,chauca rimachi,PER,1
+CRDLI_IGDLV,chayanta,MISC,1
+CRDLI_IGDLV,chili,ORG,1
+CRDLI_IGDLV,chillqui,LOC,1
+CRDLI_IGDLV,chillqui,ORG,1
+CRDLI_IGDLV,chima panaca,MISC,1
+CRDLI_IGDLV,chimpa,LOC,1
+CRDLI_IGDLV,chimpu,PER,1
+CRDLI_IGDLV,china,LOC,1
+CRDLI_IGDLV,chincha cámac,PER,1
+CRDLI_IGDLV,chinchas,PER,1
+CRDLI_IGDLV,chipana,LOC,1
+CRDLI_IGDLV,chirihuana,MISC,1
+CRDLI_IGDLV,chirihuanas,ORG,1
+CRDLI_IGDLV,chirihuanas,PER,1
+CRDLI_IGDLV,chiripia,MISC,1
+CRDLI_IGDLV,chiripia,PER,1
+CRDLI_IGDLV,chirirqui,LOC,1
+CRDLI_IGDLV,chucchu,MISC,1
+CRDLI_IGDLV,chulli,LOC,1
+CRDLI_IGDLV,chumana,ORG,1
+CRDLI_IGDLV,chumpiuillca,LOC,1
+CRDLI_IGDLV,chunca camayu,MISC,1
+CRDLI_IGDLV,chunchu,ORG,1
+CRDLI_IGDLV,chunchus,ORG,1
+CRDLI_IGDLV,chuncuri,LOC,1
+CRDLI_IGDLV,chuquiuitu,LOC,1
+CRDLI_IGDLV,chura,MISC,1
+CRDLI_IGDLV,churasunqui,MISC,1
+CRDLI_IGDLV,chíntuy,ORG,1
+CRDLI_IGDLV,chírmac cassa,LOC,1
+CRDLI_IGDLV,chúcam,PER,1
+CRDLI_IGDLV,cielo,MISC,1
+CRDLI_IGDLV,cieza de león,LOC,1
+CRDLI_IGDLV,cintu,LOC,1
+CRDLI_IGDLV,cipita,LOC,1
+CRDLI_IGDLV,cittua,MISC,1
+CRDLI_IGDLV,citua,LOC,1
+CRDLI_IGDLV,citua raymi,MISC,1
+CRDLI_IGDLV,ciudad de,LOC,1
+CRDLI_IGDLV,ciudad de plata,LOC,1
+CRDLI_IGDLV,ciudad del cozco,LOC,1
+CRDLI_IGDLV,cochacasa,LOC,1
+CRDLI_IGDLV,cochacassa,LOC,1
+CRDLI_IGDLV,cofachiqui,LOC,1
+CRDLI_IGDLV,colegio de la compañía,ORG,1
+CRDLI_IGDLV,colegio de la santa compañía de jesús,ORG,1
+CRDLI_IGDLV,colla la grande,LOC,1
+CRDLI_IGDLV,colla ñusta,LOC,1
+CRDLI_IGDLV,collahua,LOC,1
+CRDLI_IGDLV,collasuyu,MISC,1
+CRDLI_IGDLV,collasuyu,PER,1
+CRDLI_IGDLV,collisuyu,LOC,1
+CRDLI_IGDLV,collonche,ORG,1
+CRDLI_IGDLV,collque,LOC,1
+CRDLI_IGDLV,comentarios reales de los incas inca,MISC,1
+CRDLI_IGDLV,concejo,ORG,1
+CRDLI_IGDLV,concepción,LOC,1
+CRDLI_IGDLV,condado de niebla,LOC,1
+CRDLI_IGDLV,conde de nieva,PER,1
+CRDLI_IGDLV,consejo supremo,ORG,1
+CRDLI_IGDLV,consejos,ORG,1
+CRDLI_IGDLV,contador,MISC,1
+CRDLI_IGDLV,contador general agustín de zárate,MISC,1
+CRDLI_IGDLV,contador general agustín de zárate,PER,1
+CRDLI_IGDLV,contratación de sevilla,MISC,1
+CRDLI_IGDLV,convento de santa clara,ORG,1
+CRDLI_IGDLV,convento de santo domingo,LOC,1
+CRDLI_IGDLV,convento del,LOC,1
+CRDLI_IGDLV,convento del divino augustino,LOC,1
+CRDLI_IGDLV,copacabana,LOC,1
+CRDLI_IGDLV,corona real,ORG,1
+CRDLI_IGDLV,coropuna,LOC,1
+CRDLI_IGDLV,corregidor,MISC,1
+CRDLI_IGDLV,corregidor,PER,1
+CRDLI_IGDLV,corte,ORG,1
+CRDLI_IGDLV,cotahuaci,LOC,1
+CRDLI_IGDLV,cotanera,ORG,1
+CRDLI_IGDLV,cotanera,PER,1
+CRDLI_IGDLV,cotapampa,ORG,1
+CRDLI_IGDLV,cotapampa,PER,1
+CRDLI_IGDLV,cotoche,LOC,1
+CRDLI_IGDLV,coya anahuarque,PER,1
+CRDLI_IGDLV,coya chimpu ocllo,PER,1
+CRDLI_IGDLV,coya doña beatriz,LOC,1
+CRDLI_IGDLV,coya mama chicya,PER,1
+CRDLI_IGDLV,coya mama curiyllpay,PER,1
+CRDLI_IGDLV,coya mama ocllo huaco,MISC,1
+CRDLI_IGDLV,coya mama runtu,MISC,1
+CRDLI_IGDLV,coya reina,PER,1
+CRDLI_IGDLV,cozco,ORG,1
+CRDLI_IGDLV,cozco de los quechuas,LOC,1
+CRDLI_IGDLV,cozco garcilaso de la vega,PER,1
+CRDLI_IGDLV,cozcos,PER,1
+CRDLI_IGDLV,cristo,PER,1
+CRDLI_IGDLV,cristo nuestro señor,MISC,1
+CRDLI_IGDLV,cristóbal,PER,1
+CRDLI_IGDLV,cristóbal de ayala,PER,1
+CRDLI_IGDLV,crónica del perú,MISC,1
+CRDLI_IGDLV,cuca,LOC,1
+CRDLI_IGDLV,cuesta de pías,LOC,1
+CRDLI_IGDLV,cunchucu,LOC,1
+CRDLI_IGDLV,cunti,LOC,1
+CRDLI_IGDLV,curahuasi,LOC,1
+CRDLI_IGDLV,cusi,MISC,1
+CRDLI_IGDLV,cusi huallpa,PER,1
+CRDLI_IGDLV,cusi huarque,PER,1
+CRDLI_IGDLV,cusquieraymi,MISC,1
+CRDLI_IGDLV,cuzapa,LOC,1
+CRDLI_IGDLV,cuzumela,LOC,1
+CRDLI_IGDLV,cuéllar,PER,1
+CRDLI_IGDLV,cáceres,LOC,1
+CRDLI_IGDLV,cádiz,LOC,1
+CRDLI_IGDLV,cámac,MISC,1
+CRDLI_IGDLV,cápac mayu,MISC,1
+CRDLI_IGDLV,cápac raymi,MISC,1
+CRDLI_IGDLV,cápac runa,MISC,1
+CRDLI_IGDLV,cápac titu,MISC,1
+CRDLI_IGDLV,cápac yupanqui,LOC,1
+CRDLI_IGDLV,césar augusto,MISC,1
+CRDLI_IGDLV,césares,PER,1
+CRDLI_IGDLV,damián de la vandera,PER,1
+CRDLI_IGDLV,darién,LOC,1
+CRDLI_IGDLV,de cieza,PER,1
+CRDLI_IGDLV,de dios,LOC,1
+CRDLI_IGDLV,de jesús,PER,1
+CRDLI_IGDLV,de la,PER,1
+CRDLI_IGDLV,de la gama,PER,1
+CRDLI_IGDLV,de la rebelión de los araucos,MISC,1
+CRDLI_IGDLV,de los incas,MISC,1
+CRDLI_IGDLV,de los reyes,LOC,1
+CRDLI_IGDLV,de maulli,LOC,1
+CRDLI_IGDLV,de noé,LOC,1
+CRDLI_IGDLV,de pobres,MISC,1
+CRDLI_IGDLV,de] cuéllar,PER,1
+CRDLI_IGDLV,del perú,MISC,1
+CRDLI_IGDLV,del sur,LOC,1
+CRDLI_IGDLV,demarcación del perú,MISC,1
+CRDLI_IGDLV,desaguadero,LOC,1
+CRDLI_IGDLV,deucalión,PER,1
+CRDLI_IGDLV,diana,PER,1
+CRDLI_IGDLV,diego de chaves,PER,1
+CRDLI_IGDLV,diego de los ríos,PER,1
+CRDLI_IGDLV,diego de nicuesa,PER,1
+CRDLI_IGDLV,diego de rojas,PER,1
+CRDLI_IGDLV,diego de silva,LOC,1
+CRDLI_IGDLV,diego de silva,PER,1
+CRDLI_IGDLV,diego de trujillo,PER,1
+CRDLI_IGDLV,diego gonzález,PER,1
+CRDLI_IGDLV,dios espíritu santo,MISC,1
+CRDLI_IGDLV,dios padre,MISC,1
+CRDLI_IGDLV,dios ticci viracocha,MISC,1
+CRDLI_IGDLV,dios viracocha,PER,1
+CRDLI_IGDLV,dioses,MISC,1
+CRDLI_IGDLV,divina majestad,MISC,1
+CRDLI_IGDLV,divina majestad,ORG,1
+CRDLI_IGDLV,divino augustino,LOC,1
+CRDLI_IGDLV,divino san francisco,LOC,1
+CRDLI_IGDLV,domingo,PER,1
+CRDLI_IGDLV,don antonio de mendoza,PER,1
+CRDLI_IGDLV,don antonio pereira,PER,1
+CRDLI_IGDLV,don carlos,PER,1
+CRDLI_IGDLV,don carlos inca,PER,1
+CRDLI_IGDLV,don cristóbal paullu,PER,1
+CRDLI_IGDLV,don diego de almagro el viejo,PER,1
+CRDLI_IGDLV,don diego de témez,PER,1
+CRDLI_IGDLV,don diego sayritúpac,PER,1
+CRDLI_IGDLV,don felipe,PER,1
+CRDLI_IGDLV,don felipe segundo,PER,1
+CRDLI_IGDLV,don fernando,PER,1
+CRDLI_IGDLV,don fernando huallpa túpac inca yupanqui,PER,1
+CRDLI_IGDLV,don francisco atahuallpa,PER,1
+CRDLI_IGDLV,don francisco túpac inca yupanqui,PER,1
+CRDLI_IGDLV,don fray juan solano,PER,1
+CRDLI_IGDLV,don gómez,LOC,1
+CRDLI_IGDLV,don gómez de tordoya,PER,1
+CRDLI_IGDLV,don jorge robledo,PER,1
+CRDLI_IGDLV,don juan pechuta,PER,1
+CRDLI_IGDLV,don martín de contreras,PER,1
+CRDLI_IGDLV,don martín de guzmán,PER,1
+CRDLI_IGDLV,don pedro luis de cabrera,PER,1
+CRDLI_IGDLV,don pedro portocarrero,PER,1
+CRDLI_IGDLV,don pedro puertocarrero,PER,1
+CRDLI_IGDLV,dormirás chaupituta media noche samúsac yo vendré,MISC,1
+CRDLI_IGDLV,doña angelina,PER,1
+CRDLI_IGDLV,doña beatriz,MISC,1
+CRDLI_IGDLV,doña beatriz coya,PER,1
+CRDLI_IGDLV,doña catalina de retes,PER,1
+CRDLI_IGDLV,doña francisca pizarro,PER,1
+CRDLI_IGDLV,doña inés huayllas ñusta,PER,1
+CRDLI_IGDLV,doña isabel,MISC,1
+CRDLI_IGDLV,doña isabel,PER,1
+CRDLI_IGDLV,doña leonor coya,PER,1
+CRDLI_IGDLV,díjoles,PER,1
+CRDLI_IGDLV,el reino del perú,MISC,1
+CRDLI_IGDLV,el rico,PER,1
+CRDLI_IGDLV,el sol,PER,1
+CRDLI_IGDLV,emperador carlos quinto máximo,PER,1
+CRDLI_IGDLV,emperador de las indias,PER,1
+CRDLI_IGDLV,emperatriz,MISC,1
+CRDLI_IGDLV,emperatriz,PER,1
+CRDLI_IGDLV,enrique garcés,PER,1
+CRDLI_IGDLV,eopuco,PER,1
+CRDLI_IGDLV,escritura,MISC,1
+CRDLI_IGDLV,escríbelos,MISC,1
+CRDLI_IGDLV,esperanza,MISC,1
+CRDLI_IGDLV,espinar de segovia,LOC,1
+CRDLI_IGDLV,este,MISC,1
+CRDLI_IGDLV,estruac,MISC,1
+CRDLI_IGDLV,eterna majestad,MISC,1
+CRDLI_IGDLV,"extendens c&lum, sicut pellem",MISC,1
+CRDLI_IGDLV,factor,MISC,1
+CRDLI_IGDLV,feliciano de silva,PER,1
+CRDLI_IGDLV,felipe,PER,1
+CRDLI_IGDLV,felipe inca,PER,1
+CRDLI_IGDLV,felipillo,PER,1
+CRDLI_IGDLV,filosofía natural y moral del nuevo orbe,MISC,1
+CRDLI_IGDLV,francisco altamirano,PER,1
+CRDLI_IGDLV,francisco de barrientes,PER,1
+CRDLI_IGDLV,francisco de caravantes,PER,1
+CRDLI_IGDLV,francisco de frías,PER,1
+CRDLI_IGDLV,francisco de orellana,PER,1
+CRDLI_IGDLV,francisco de oñate,PER,1
+CRDLI_IGDLV,francisco de rieros,PER,1
+CRDLI_IGDLV,francisco del campo,PER,1
+CRDLI_IGDLV,francisco delgado,PER,1
+CRDLI_IGDLV,francisco drac,MISC,1
+CRDLI_IGDLV,francisco drac,PER,1
+CRDLI_IGDLV,francisco hernández,PER,1
+CRDLI_IGDLV,francisco mejía,PER,1
+CRDLI_IGDLV,frate cipolla,PER,1
+CRDLI_IGDLV,fray antonio de san miguel,PER,1
+CRDLI_IGDLV,fray juan gallegos,PER,1
+CRDLI_IGDLV,fulano de coca,MISC,1
+CRDLI_IGDLV,fulminatque,MISC,1
+CRDLI_IGDLV,gabriel carrera,PER,1
+CRDLI_IGDLV,garcilaso,PER,1
+CRDLI_IGDLV,garcía,PER,1
+CRDLI_IGDLV,gaspar de alcocer,PER,1
+CRDLI_IGDLV,gaspar jara,PER,1
+CRDLI_IGDLV,general historia de las indias,MISC,1
+CRDLI_IGDLV,generalísimo,PER,1
+CRDLI_IGDLV,gobernador de nicaragua francisco de contreras,PER,1
+CRDLI_IGDLV,gobernador valdivia,PER,1
+CRDLI_IGDLV,gomera,LOC,1
+CRDLI_IGDLV,gonzalo bernal,PER,1
+CRDLI_IGDLV,gonzalo pizarra,PER,1
+CRDLI_IGDLV,gonzalo pizarro,MISC,1
+CRDLI_IGDLV,gonzalo silvestre,PER,1
+CRDLI_IGDLV,gran chimu,PER,1
+CRDLI_IGDLV,gran ciudad del cozco,MISC,1
+CRDLI_IGDLV,gran titu,PER,1
+CRDLI_IGDLV,granada,LOC,1
+CRDLI_IGDLV,grecia,LOC,1
+CRDLI_IGDLV,guaca,LOC,1
+CRDLI_IGDLV,guadalquivir,MISC,1
+CRDLI_IGDLV,guadarrama,LOC,1
+CRDLI_IGDLV,guaina capa,LOC,1
+CRDLI_IGDLV,guainacava,MISC,1
+CRDLI_IGDLV,guanatianico,LOC,1
+CRDLI_IGDLV,guancas,LOC,1
+CRDLI_IGDLV,guatemala,LOC,1
+CRDLI_IGDLV,guayaquile,LOC,1
+CRDLI_IGDLV,guinea,LOC,1
+CRDLI_IGDLV,guánuco,LOC,1
+CRDLI_IGDLV,guáscar inga,MISC,1
+CRDLI_IGDLV,génesis,MISC,1
+CRDLI_IGDLV,hahuanina ayllu,MISC,1
+CRDLI_IGDLV,hanan ayllu,MISC,1
+CRDLI_IGDLV,hanan cozco,PER,1
+CRDLI_IGDLV,hanan pacha,MISC,1
+CRDLI_IGDLV,hanan suyu,MISC,1
+CRDLI_IGDLV,hanan. cozco,LOC,1
+CRDLI_IGDLV,hancohuanu,LOC,1
+CRDLI_IGDLV,hatun apu,MISC,1
+CRDLI_IGDLV,hatun potocsi,MISC,1
+CRDLI_IGDLV,hatun rucana,LOC,1
+CRDLI_IGDLV,hatuncaci,MISC,1
+CRDLI_IGDLV,hatuncancha,LOC,1
+CRDLI_IGDLV,hatuncolla,LOC,1
+CRDLI_IGDLV,hatunpuna,LOC,1
+CRDLI_IGDLV,hatún apu,MISC,1
+CRDLI_IGDLV,hauisca,LOC,1
+CRDLI_IGDLV,hauisca,MISC,1
+CRDLI_IGDLV,hernando bachicao,PER,1
+CRDLI_IGDLV,hernán bravo,PER,1
+CRDLI_IGDLV,hierónimo costillas,PER,1
+CRDLI_IGDLV,hijo,MISC,1
+CRDLI_IGDLV,hillaui,LOC,1
+CRDLI_IGDLV,historia de la riqueza de aquellos,MISC,1
+CRDLI_IGDLV,historia de las indias,MISC,1
+CRDLI_IGDLV,historia natural de,MISC,1
+CRDLI_IGDLV,huaca,LOC,1
+CRDLI_IGDLV,huaca,MISC,1
+CRDLI_IGDLV,huacanqui,MISC,1
+CRDLI_IGDLV,huacchacuyac,MISC,1
+CRDLI_IGDLV,huacchacúyac,PER,1
+CRDLI_IGDLV,huachacúyac,MISC,1
+CRDLI_IGDLV,huacrachucu,MISC,1
+CRDLI_IGDLV,huallaripa,LOC,1
+CRDLI_IGDLV,huallpa,PER,1
+CRDLI_IGDLV,huallpa rimachi inca,PER,1
+CRDLI_IGDLV,huallpa sol de alegría,MISC,1
+CRDLI_IGDLV,huallpa túpac inca yupanqui,PER,1
+CRDLI_IGDLV,huamachucu,MISC,1
+CRDLI_IGDLV,huamanpallpa,PER,1
+CRDLI_IGDLV,huanapu,LOC,1
+CRDLI_IGDLV,huanca,MISC,1
+CRDLI_IGDLV,huanca,PER,1
+CRDLI_IGDLV,huanca ñusta,LOC,1
+CRDLI_IGDLV,huancani,LOC,1
+CRDLI_IGDLV,huancas,MISC,1
+CRDLI_IGDLV,huancas,ORG,1
+CRDLI_IGDLV,huancohuallu,ORG,1
+CRDLI_IGDLV,huaracu,LOC,1
+CRDLI_IGDLV,huaras,LOC,1
+CRDLI_IGDLV,huayaquil,LOC,1
+CRDLI_IGDLV,huaychu,PER,1
+CRDLI_IGDLV,huayna cápac,ORG,1
+CRDLI_IGDLV,huayna cápac inca,PER,1
+CRDLI_IGDLV,huayna cápac inca yupanqui,PER,1
+CRDLI_IGDLV,huayna potocchi,LOC,1
+CRDLI_IGDLV,huaytara,LOC,1
+CRDLI_IGDLV,huelva,PER,1
+CRDLI_IGDLV,hurim cozco,LOC,1
+CRDLI_IGDLV,hurin ayllu,MISC,1
+CRDLI_IGDLV,hurin cozco,PER,1
+CRDLI_IGDLV,hurin pacassa,LOC,1
+CRDLI_IGDLV,hurin pacha,MISC,1
+CRDLI_IGDLV,hurin suyu,MISC,1
+CRDLI_IGDLV,huáruc,LOC,1
+CRDLI_IGDLV,huáruc,ORG,1
+CRDLI_IGDLV,huáscar,LOC,1
+CRDLI_IGDLV,huáscar inca yupanqui,PER,1
+CRDLI_IGDLV,icono,PER,1
+CRDLI_IGDLV,iglesia,ORG,1
+CRDLI_IGDLV,iglesia catedral del cozco,LOC,1
+CRDLI_IGDLV,iglesia catedral del cozco,ORG,1
+CRDLI_IGDLV,illén suárez de carvajal,PER,1
+CRDLI_IGDLV,imperio de,LOC,1
+CRDLI_IGDLV,imperio de los incas,ORG,1
+CRDLI_IGDLV,imperio de los incas del cozco,MISC,1
+CRDLI_IGDLV,imperio de los reyes incas,MISC,1
+CRDLI_IGDLV,imperio de méxico,MISC,1
+CRDLI_IGDLV,imperio del cozco,LOC,1
+CRDLI_IGDLV,imperio del perú,MISC,1
+CRDLI_IGDLV,inca apu,PER,1
+CRDLI_IGDLV,inca auqui titu,PER,1
+CRDLI_IGDLV,inca cápac yupanqui,MISC,1
+CRDLI_IGDLV,inca llora sangre,MISC,1
+CRDLI_IGDLV,inca manca cápac,PER,1
+CRDLI_IGDLV,inca manco cápa,PER,1
+CRDLI_IGDLV,inca maricanchi,PER,1
+CRDLI_IGDLV,inca mayta,PER,1
+CRDLI_IGDLV,inca mayta cápac,MISC,1
+CRDLI_IGDLV,inca pachacútec,MISC,1
+CRDLI_IGDLV,inca panaca,MISC,1
+CRDLI_IGDLV,inca paullu,PER,1
+CRDLI_IGDLV,inca rey,MISC,1
+CRDLI_IGDLV,inca roca,MISC,1
+CRDLI_IGDLV,inca sayri túpac,MISC,1
+CRDLI_IGDLV,inca viracocha,MISC,1
+CRDLI_IGDLV,inca viracocha,ORG,1
+CRDLI_IGDLV,incap runam,MISC,1
+CRDLI_IGDLV,indias occidentales,LOC,1
+CRDLI_IGDLV,infanta,MISC,1
+CRDLI_IGDLV,infante de castilla,PER,1
+CRDLI_IGDLV,inga,MISC,1
+CRDLI_IGDLV,inga yupangue,PER,1
+CRDLI_IGDLV,inga yupanqui,PER,1
+CRDLI_IGDLV,inquisidor general valdés de salas,PER,1
+CRDLI_IGDLV,interdumque,MISC,1
+CRDLI_IGDLV,inti cusi huallpa,PER,1
+CRDLI_IGDLV,intip raymi,MISC,1
+CRDLI_IGDLV,intipampa,LOC,1
+CRDLI_IGDLV,ipiales,LOC,1
+CRDLI_IGDLV,isabel,PER,1
+CRDLI_IGDLV,ischen,MISC,1
+CRDLI_IGDLV,ischén,PER,1
+CRDLI_IGDLV,israel,LOC,1
+CRDLI_IGDLV,jerez de badajoz,LOC,1
+CRDLI_IGDLV,jerónimo de prado,PER,1
+CRDLI_IGDLV,jesucristo,MISC,1
+CRDLI_IGDLV,juan,PER,1
+CRDLI_IGDLV,juan alonso palomino,PER,1
+CRDLI_IGDLV,juan bocacio,PER,1
+CRDLI_IGDLV,juan botero benes,PER,1
+CRDLI_IGDLV,juan de alcobaza,PER,1
+CRDLI_IGDLV,juan de berrio,PER,1
+CRDLI_IGDLV,juan de betanzos,PER,1
+CRDLI_IGDLV,juan de cellorico,PER,1
+CRDLI_IGDLV,juan de cillorico,PER,1
+CRDLI_IGDLV,juan de cuéllar,PER,1
+CRDLI_IGDLV,juan de figueroa,PER,1
+CRDLI_IGDLV,juan de reinaga,PER,1
+CRDLI_IGDLV,juan de saavedra,PER,1
+CRDLI_IGDLV,juan de salas,PER,1
+CRDLI_IGDLV,juan de santa cruz,PER,1
+CRDLI_IGDLV,juan de solís,PER,1
+CRDLI_IGDLV,juan julio de hojeda,PER,1
+CRDLI_IGDLV,juan sierra de leguizamo,PER,1
+CRDLI_IGDLV,juan álvarez,PER,1
+CRDLI_IGDLV,juega el sol antes que amanezca,MISC,1
+CRDLI_IGDLV,juno,MISC,1
+CRDLI_IGDLV,jácomo de trezo,PER,1
+CRDLI_IGDLV,júpiter,PER,1
+CRDLI_IGDLV,la canela,MISC,1
+CRDLI_IGDLV,la cárcel,LOC,1
+CRDLI_IGDLV,la de san agustín,LOC,1
+CRDLI_IGDLV,la gasca,PER,1
+CRDLI_IGDLV,la habana,LOC,1
+CRDLI_IGDLV,la hacha,LOC,1
+CRDLI_IGDLV,la hacienda del inca y tributo,MISC,1
+CRDLI_IGDLV,la paz,LOC,1
+CRDLI_IGDLV,la yerbabuena,LOC,1
+CRDLI_IGDLV,lanasca,MISC,1
+CRDLI_IGDLV,las perlas,LOC,1
+CRDLI_IGDLV,las salinas,LOC,1
+CRDLI_IGDLV,leyes,MISC,1
+CRDLI_IGDLV,león,LOC,1
+CRDLI_IGDLV,licenciado,MISC,1
+CRDLI_IGDLV,licenciado castro,PER,1
+CRDLI_IGDLV,licenciado de la gama,PER,1
+CRDLI_IGDLV,licenciado polo,PER,1
+CRDLI_IGDLV,llacsapallanca,LOC,1
+CRDLI_IGDLV,llerena,LOC,1
+CRDLI_IGDLV,lloque,MISC,1
+CRDLI_IGDLV,lloque yupanqui,MISC,1
+CRDLI_IGDLV,los chancas,MISC,1
+CRDLI_IGDLV,loyola,PER,1
+CRDLI_IGDLV,luis osorio,PER,1
+CRDLI_IGDLV,luna,PER,1
+CRDLI_IGDLV,lunaguana,MISC,1
+CRDLI_IGDLV,láctea,MISC,1
+CRDLI_IGDLV,m. reverendo,PER,1
+CRDLI_IGDLV,maccha,LOC,1
+CRDLI_IGDLV,machaca,LOC,1
+CRDLI_IGDLV,madre,MISC,1
+CRDLI_IGDLV,madre mar,MISC,1
+CRDLI_IGDLV,maestro acosta,PER,1
+CRDLI_IGDLV,maestro blas valera,PER,1
+CRDLI_IGDLV,maestro simón lópez,PER,1
+CRDLI_IGDLV,magdalena,MISC,1
+CRDLI_IGDLV,majestad católica,ORG,1
+CRDLI_IGDLV,majestad imperial,ORG,1
+CRDLI_IGDLV,maldonado,PER,1
+CRDLI_IGDLV,mallama,LOC,1
+CRDLI_IGDLV,mallorca,LOC,1
+CRDLI_IGDLV,mama caua,PER,1
+CRDLI_IGDLV,mama cuca,PER,1
+CRDLI_IGDLV,mama mícay,PER,1
+CRDLI_IGDLV,mama ocllo,MISC,1
+CRDLI_IGDLV,mama ocllo huaco,PER,1
+CRDLI_IGDLV,mama runtu,MISC,1
+CRDLI_IGDLV,mama runtu,PER,1
+CRDLI_IGDLV,mama uárcay,PER,1
+CRDLI_IGDLV,mamánchic,PER,1
+CRDLI_IGDLV,mancebo rico,PER,1
+CRDLI_IGDLV,mancio serra de leguizamo,PER,1
+CRDLI_IGDLV,mancio serra de leguízamo,PER,1
+CRDLI_IGDLV,mancio sierra,PER,1
+CRDLI_IGDLV,manco cápac,LOC,1
+CRDLI_IGDLV,manuel,PER,1
+CRDLI_IGDLV,mar de el sur,LOC,1
+CRDLI_IGDLV,mar del sur,MISC,1
+CRDLI_IGDLV,mar dulce,LOC,1
+CRDLI_IGDLV,mar dulce,MISC,1
+CRDLI_IGDLV,mar océano,MISC,1
+CRDLI_IGDLV,marca,LOC,1
+CRDLI_IGDLV,marcahuaci,LOC,1
+CRDLI_IGDLV,marcauillca,LOC,1
+CRDLI_IGDLV,martín de ampuero,PER,1
+CRDLI_IGDLV,martín de meneses,PER,1
+CRDLI_IGDLV,martín de olmos,PER,1
+CRDLI_IGDLV,martín mustincia,PER,1
+CRDLI_IGDLV,martín zuazo,PER,1
+CRDLI_IGDLV,maría de escobar,PER,1
+CRDLI_IGDLV,masca,LOC,1
+CRDLI_IGDLV,matiuma,MISC,1
+CRDLI_IGDLV,maule,MISC,1
+CRDLI_IGDLV,mayta,PER,1
+CRDLI_IGDLV,mayta inca,MISC,1
+CRDLI_IGDLV,mayu,LOC,1
+CRDLI_IGDLV,mayu,MISC,1
+CRDLI_IGDLV,mayu,ORG,1
+CRDLI_IGDLV,medina del campo,LOC,1
+CRDLI_IGDLV,miguel sánchez,PER,1
+CRDLI_IGDLV,miguel vásquez de padilla,PER,1
+CRDLI_IGDLV,mira,LOC,1
+CRDLI_IGDLV,misqui,LOC,1
+CRDLI_IGDLV,mitachanácuy,MISC,1
+CRDLI_IGDLV,moca,LOC,1
+CRDLI_IGDLV,mohina,LOC,1
+CRDLI_IGDLV,monardes,PER,1
+CRDLI_IGDLV,monasterio de santo domingo,LOC,1
+CRDLI_IGDLV,montilla,LOC,1
+CRDLI_IGDLV,moquehua,LOC,1
+CRDLI_IGDLV,motín de los chachapuyas,MISC,1
+CRDLI_IGDLV,mozo rico,MISC,1
+CRDLI_IGDLV,mucansa,LOC,1
+CRDLI_IGDLV,muina,LOC,1
+CRDLI_IGDLV,mujeres,LOC,1
+CRDLI_IGDLV,munaycenca,LOC,1
+CRDLI_IGDLV,mundi,MISC,1
+CRDLI_IGDLV,mundo,MISC,1
+CRDLI_IGDLV,mundo alto,LOC,1
+CRDLI_IGDLV,mundo nuevo,MISC,1
+CRDLI_IGDLV,mundo universo,MISC,1
+CRDLI_IGDLV,mundo viejo,MISC,1
+CRDLI_IGDLV,murumuru,LOC,1
+CRDLI_IGDLV,mutupi,LOC,1
+CRDLI_IGDLV,muyna,ORG,1
+CRDLI_IGDLV,muyumuyu,LOC,1
+CRDLI_IGDLV,móyoc marca,LOC,1
+CRDLI_IGDLV,música,MISC,1
+CRDLI_IGDLV,naranjo,MISC,1
+CRDLI_IGDLV,nimpha,MISC,1
+CRDLI_IGDLV,ninpha,MISC,1
+CRDLI_IGDLV,niño jesús,MISC,1
+CRDLI_IGDLV,nombre,MISC,1
+CRDLI_IGDLV,nuestra madre,MISC,1
+CRDLI_IGDLV,nuestra señora,MISC,1
+CRDLI_IGDLV,nuestra señora de guadalupe,MISC,1
+CRDLI_IGDLV,nuestra señora la virgen maría,MISC,1
+CRDLI_IGDLV,nuestro,MISC,1
+CRDLI_IGDLV,nuestro redentor,MISC,1
+CRDLI_IGDLV,nueva castilla,LOC,1
+CRDLI_IGDLV,nueva castilla,MISC,1
+CRDLI_IGDLV,nueva toledo,LOC,1
+CRDLI_IGDLV,nuevo mundo dio,MISC,1
+CRDLI_IGDLV,nuevo reino,MISC,1
+CRDLI_IGDLV,nuevo reino de granada,LOC,1
+CRDLI_IGDLV,numa pompilio,PER,1
+CRDLI_IGDLV,obispo,MISC,1
+CRDLI_IGDLV,obispo de,MISC,1
+CRDLI_IGDLV,obispo de chiapa,PER,1
+CRDLI_IGDLV,olvidado,MISC,1
+CRDLI_IGDLV,ometochtli,PER,1
+CRDLI_IGDLV,orcos,LOC,1
+CRDLI_IGDLV,oreja de abad,MISC,1
+CRDLI_IGDLV,orejones,MISC,1
+CRDLI_IGDLV,orellana,MISC,1
+CRDLI_IGDLV,oro,LOC,1
+CRDLI_IGDLV,otaviano césar,PER,1
+CRDLI_IGDLV,ozama,MISC,1
+CRDLI_IGDLV,p. joseph de acosta,PER,1
+CRDLI_IGDLV,pacassa,LOC,1
+CRDLI_IGDLV,pachacuti inga yupangui,PER,1
+CRDLI_IGDLV,pachacútec inca yupanqui,MISC,1
+CRDLI_IGDLV,pacharúrac,MISC,1
+CRDLI_IGDLV,pachayacháchic,MISC,1
+CRDLI_IGDLV,pacárec tampu,LOC,1
+CRDLI_IGDLV,padre,MISC,1
+CRDLI_IGDLV,padre alcobaza,PER,1
+CRDLI_IGDLV,padre diego de alcobaza,PER,1
+CRDLI_IGDLV,padre fray gerónimo román,PER,1
+CRDLI_IGDLV,padre fray vicente de valverde,PER,1
+CRDLI_IGDLV,padre maestro francisco de castro,PER,1
+CRDLI_IGDLV,padre maestro pedro maldonado de saavedra,PER,1
+CRDLI_IGDLV,padre pedro sánchez,PER,1
+CRDLI_IGDLV,padre valera,PER,1
+CRDLI_IGDLV,padres,ORG,1
+CRDLI_IGDLV,padres de la compañía,ORG,1
+CRDLI_IGDLV,padres de la compañía de jesús,ORG,1
+CRDLI_IGDLV,padres de la santa compañía de jesús,ORG,1
+CRDLI_IGDLV,palas,PER,1
+CRDLI_IGDLV,palencia,LOC,1
+CRDLI_IGDLV,palta,LOC,1
+CRDLI_IGDLV,palta uma,MISC,1
+CRDLI_IGDLV,paltas,LOC,1
+CRDLI_IGDLV,pampahuaci,MISC,1
+CRDLI_IGDLV,papamarca,LOC,1
+CRDLI_IGDLV,paparlen,LOC,1
+CRDLI_IGDLV,papri,LOC,1
+CRDLI_IGDLV,parco,LOC,1
+CRDLI_IGDLV,parcu,LOC,1
+CRDLI_IGDLV,paria,LOC,1
+CRDLI_IGDLV,parina cocha,LOC,1
+CRDLI_IGDLV,pasau,LOC,1
+CRDLI_IGDLV,paso de guayna capa,LOC,1
+CRDLI_IGDLV,paucarcolla,LOC,1
+CRDLI_IGDLV,paulo,PER,1
+CRDLI_IGDLV,paulo inga,PER,1
+CRDLI_IGDLV,paz,MISC,1
+CRDLI_IGDLV,pecllansimiqui,MISC,1
+CRDLI_IGDLV,pedrarias,PER,1
+CRDLI_IGDLV,pedro,MISC,1
+CRDLI_IGDLV,pedro,PER,1
+CRDLI_IGDLV,pedro alonso carrasco,PER,1
+CRDLI_IGDLV,pedro alonso de carrasco,PER,1
+CRDLI_IGDLV,pedro de candía,PER,1
+CRDLI_IGDLV,pedro de los ríos,PER,1
+CRDLI_IGDLV,pedro de orué,PER,1
+CRDLI_IGDLV,pedro fernández de velasco,PER,1
+CRDLI_IGDLV,pedro luis de cabrera,PER,1
+CRDLI_IGDLV,pedro mártir,PER,1
+CRDLI_IGDLV,peru,LOC,1
+CRDLI_IGDLV,perú,PER,1
+CRDLI_IGDLV,pica,LOC,1
+CRDLI_IGDLV,pichu,LOC,1
+CRDLI_IGDLV,pichunsi,MISC,1
+CRDLI_IGDLV,picta,LOC,1
+CRDLI_IGDLV,pilato,PER,1
+CRDLI_IGDLV,pillcu huaco,PER,1
+CRDLI_IGDLV,pillcumayu,MISC,1
+CRDLI_IGDLV,pincu,LOC,1
+CRDLI_IGDLV,pinzones,PER,1
+CRDLI_IGDLV,pirra,PER,1
+CRDLI_IGDLV,pisco,LOC,1
+CRDLI_IGDLV,piscopampa,LOC,1
+CRDLI_IGDLV,pizarra,PER,1
+CRDLI_IGDLV,plata,MISC,1
+CRDLI_IGDLV,platón,PER,1
+CRDLI_IGDLV,plaza,LOC,1
+CRDLI_IGDLV,plaza cusipata,LOC,1
+CRDLI_IGDLV,plaza de san francisco,LOC,1
+CRDLI_IGDLV,plaza del sol,LOC,1
+CRDLI_IGDLV,plaza mayor del cozco,LOC,1
+CRDLI_IGDLV,plaza rimacpampa,LOC,1
+CRDLI_IGDLV,pocoata,LOC,1
+CRDLI_IGDLV,pocra,LOC,1
+CRDLI_IGDLV,polo,PER,1
+CRDLI_IGDLV,polo ondegardo,PER,1
+CRDLI_IGDLV,potocchi,MISC,1
+CRDLI_IGDLV,potocchi el mozo,LOC,1
+CRDLI_IGDLV,potocsí,LOC,1
+CRDLI_IGDLV,principe,PER,1
+CRDLI_IGDLV,principe inca roca,PER,1
+CRDLI_IGDLV,procurador general del perú,MISC,1
+CRDLI_IGDLV,promaucaes,LOC,1
+CRDLI_IGDLV,príapo,PER,1
+CRDLI_IGDLV,príncipe,ORG,1
+CRDLI_IGDLV,príncipe de españa,PER,1
+CRDLI_IGDLV,príncipe huayna cápac,PER,1
+CRDLI_IGDLV,príncipe huáscar inca,PER,1
+CRDLI_IGDLV,príncipe inca roca,PER,1
+CRDLI_IGDLV,príncipe inca viracocha,PER,1
+CRDLI_IGDLV,príncipe yáhuar huácac,PER,1
+CRDLI_IGDLV,puca marca,LOC,1
+CRDLI_IGDLV,pucara de umasuyu,LOC,1
+CRDLI_IGDLV,pucará de umasuyu,LOC,1
+CRDLI_IGDLV,puchiu,LOC,1
+CRDLI_IGDLV,pucuna,LOC,1
+CRDLI_IGDLV,pueblo nuevo,LOC,1
+CRDLI_IGDLV,puente de,LOC,1
+CRDLI_IGDLV,puma,MISC,1
+CRDLI_IGDLV,pumallacta,LOC,1
+CRDLI_IGDLV,pumata,LOC,1
+CRDLI_IGDLV,punta de santa elena,LOC,1
+CRDLI_IGDLV,puquina,MISC,1
+CRDLI_IGDLV,purem,LOC,1
+CRDLI_IGDLV,purumauca,LOC,1
+CRDLI_IGDLV,puyñuy,PER,1
+CRDLI_IGDLV,puñunqui,PER,1
+CRDLI_IGDLV,páhuac mayta,PER,1
+CRDLI_IGDLV,páhuac mayta inca,PER,1
+CRDLI_IGDLV,páucar marca,LOC,1
+CRDLI_IGDLV,píos,PER,1
+CRDLI_IGDLV,píti,LOC,1
+CRDLI_IGDLV,quechua,MISC,1
+CRDLI_IGDLV,quechua,ORG,1
+CRDLI_IGDLV,quepaypa,LOC,1
+CRDLI_IGDLV,quequesana,LOC,1
+CRDLI_IGDLV,quesna,LOC,1
+CRDLI_IGDLV,quezalcóahtl,PER,1
+CRDLI_IGDLV,quilla,MISC,1
+CRDLI_IGDLV,quillacu,MISC,1
+CRDLI_IGDLV,quillacu,ORG,1
+CRDLI_IGDLV,quillipata,LOC,1
+CRDLI_IGDLV,quilliscacha,PER,1
+CRDLI_IGDLV,quipucamayus,LOC,1
+CRDLI_IGDLV,quitu,MISC,1
+CRDLI_IGDLV,quitu,PER,1
+CRDLI_IGDLV,quitu ñusta,LOC,1
+CRDLI_IGDLV,quiñualla,MISC,1
+CRDLI_IGDLV,quéhuar,LOC,1
+CRDLI_IGDLV,quéhuar túpac,PER,1
+CRDLI_IGDLV,rauraua panaca,MISC,1
+CRDLI_IGDLV,raymi del sol,MISC,1
+CRDLI_IGDLV,real profeta,MISC,1
+CRDLI_IGDLV,reina mama runtu,PER,1
+CRDLI_IGDLV,reinas,PER,1
+CRDLI_IGDLV,reino de chili,LOC,1
+CRDLI_IGDLV,relaciones,MISC,1
+CRDLI_IGDLV,retórica,MISC,1
+CRDLI_IGDLV,rey católico,PER,1
+CRDLI_IGDLV,rey de chincha,PER,1
+CRDLI_IGDLV,rey de los incas,PER,1
+CRDLI_IGDLV,rey inca,PER,1
+CRDLI_IGDLV,rey pachacútec,PER,1
+CRDLI_IGDLV,reyes,LOC,1
+CRDLI_IGDLV,reyes católicos don fernando,PER,1
+CRDLI_IGDLV,reyes de castilla,PER,1
+CRDLI_IGDLV,reyes de españa,PER,1
+CRDLI_IGDLV,reyes incas,ORG,1
+CRDLI_IGDLV,reyes ingas,PER,1
+CRDLI_IGDLV,rico,PER,1
+CRDLI_IGDLV,rimactampu,MISC,1
+CRDLI_IGDLV,ritisuyu,LOC,1
+CRDLI_IGDLV,rodrigo de pineda,PER,1
+CRDLI_IGDLV,rodrigo pantoja,PER,1
+CRDLI_IGDLV,roma,ORG,1
+CRDLI_IGDLV,rucanas,LOC,1
+CRDLI_IGDLV,rucma,LOC,1
+CRDLI_IGDLV,rumiñaui,PER,1
+CRDLI_IGDLV,runahuánac,PER,1
+CRDLI_IGDLV,rupa,MISC,1
+CRDLI_IGDLV,rurucachi,LOC,1
+CRDLI_IGDLV,ríndese chuquimancu,PER,1
+CRDLI_IGDLV,río,MISC,1
+CRDLI_IGDLV,río apurímac,LOC,1
+CRDLI_IGDLV,río apurímac,MISC,1
+CRDLI_IGDLV,río de,MISC,1
+CRDLI_IGDLV,río de las amazonas,MISC,1
+CRDLI_IGDLV,río grande,MISC,1
+CRDLI_IGDLV,río marañón,MISC,1
+CRDLI_IGDLV,río maulli,LOC,1
+CRDLI_IGDLV,río orellana,MISC,1
+CRDLI_IGDLV,sacsahuáman,LOC,1
+CRDLI_IGDLV,salinas,LOC,1
+CRDLI_IGDLV,salomón,PER,1
+CRDLI_IGDLV,san agustín,LOC,1
+CRDLI_IGDLV,san francisco,LOC,1
+CRDLI_IGDLV,san francisco,ORG,1
+CRDLI_IGDLV,san francisco,PER,1
+CRDLI_IGDLV,san juan del condado de niebla,LOC,1
+CRDLI_IGDLV,san lúcar de barrameda,LOC,1
+CRDLI_IGDLV,san pablo,LOC,1
+CRDLI_IGDLV,san pedro de cardeña,LOC,1
+CRDLI_IGDLV,sancauan,LOC,1
+CRDLI_IGDLV,sancho de rojas,PER,1
+CRDLI_IGDLV,sanctísima trinidad,MISC,1
+CRDLI_IGDLV,sanctísima virgen maría,MISC,1
+CRDLI_IGDLV,santa ana,MISC,1
+CRDLI_IGDLV,santa clara,LOC,1
+CRDLI_IGDLV,santa cruz,LOC,1
+CRDLI_IGDLV,santa fe católica,MISC,1
+CRDLI_IGDLV,santa fe católica,ORG,1
+CRDLI_IGDLV,santa historia,MISC,1
+CRDLI_IGDLV,santa iglesia catedral de córdoba,LOC,1
+CRDLI_IGDLV,santa iglesia del cozco,ORG,1
+CRDLI_IGDLV,santa religión,MISC,1
+CRDLI_IGDLV,santiago,LOC,1
+CRDLI_IGDLV,santiago de chili,LOC,1
+CRDLI_IGDLV,santiago de chili,PER,1
+CRDLI_IGDLV,santo antonino,PER,1
+CRDLI_IGDLV,santo domingo,MISC,1
+CRDLI_IGDLV,santos,MISC,1
+CRDLI_IGDLV,santísima trinidad,MISC,1
+CRDLI_IGDLV,saramissu,LOC,1
+CRDLI_IGDLV,satanás,PER,1
+CRDLI_IGDLV,saua,MISC,1
+CRDLI_IGDLV,saussa,LOC,1
+CRDLI_IGDLV,sayanca,LOC,1
+CRDLI_IGDLV,saycusca,MISC,1
+CRDLI_IGDLV,sebastián de belalcázar,PER,1
+CRDLI_IGDLV,sebastián de cazalla,PER,1
+CRDLI_IGDLV,segovia,LOC,1
+CRDLI_IGDLV,señor,ORG,1
+CRDLI_IGDLV,señor de cuatro valles,MISC,1
+CRDLI_IGDLV,señor dios nuestro,MISC,1
+CRDLI_IGDLV,señor nuestro,MISC,1
+CRDLI_IGDLV,señor san francisco,LOC,1
+CRDLI_IGDLV,señor san lázaro,PER,1
+CRDLI_IGDLV,señor todopoderoso,PER,1
+CRDLI_IGDLV,señora palla,MISC,1
+CRDLI_IGDLV,señores,PER,1
+CRDLI_IGDLV,sierra de allca,LOC,1
+CRDLI_IGDLV,sinchi,PER,1
+CRDLI_IGDLV,sinchiruca,PER,1
+CRDLI_IGDLV,sipisipi,LOC,1
+CRDLI_IGDLV,sol nuestro padre,MISC,1
+CRDLI_IGDLV,sol nuestro padre,PER,1
+CRDLI_IGDLV,solo señor,PER,1
+CRDLI_IGDLV,solón,PER,1
+CRDLI_IGDLV,su alteza,PER,1
+CRDLI_IGDLV,su eterna majestad,MISC,1
+CRDLI_IGDLV,su excelencia,ORG,1
+CRDLI_IGDLV,su majestad,LOC,1
+CRDLI_IGDLV,su majestad católica,ORG,1
+CRDLI_IGDLV,sucahuaya,LOC,1
+CRDLI_IGDLV,sudeste,MISC,1
+CRDLI_IGDLV,sumo dios,MISC,1
+CRDLI_IGDLV,sumo dios,PER,1
+CRDLI_IGDLV,sumo sacerdote del sol,PER,1
+CRDLI_IGDLV,sumos pontífices,PER,1
+CRDLI_IGDLV,supremo consejo,ORG,1
+CRDLI_IGDLV,supremo señor,PER,1
+CRDLI_IGDLV,sura,LOC,1
+CRDLI_IGDLV,suramarca,LOC,1
+CRDLI_IGDLV,surihualla,LOC,1
+CRDLI_IGDLV,sutcunca,LOC,1
+CRDLI_IGDLV,sácllac marca,LOC,1
+CRDLI_IGDLV,tacama,LOC,1
+CRDLI_IGDLV,tacmara,LOC,1
+CRDLI_IGDLV,tahuantinsuyo,MISC,1
+CRDLI_IGDLV,tahuantinsuyu,LOC,1
+CRDLI_IGDLV,tahuantinsuyu,MISC,1
+CRDLI_IGDLV,tambo,LOC,1
+CRDLI_IGDLV,tampu,MISC,1
+CRDLI_IGDLV,tangatanga,MISC,1
+CRDLI_IGDLV,tarapacá,LOC,1
+CRDLI_IGDLV,taurisma,LOC,1
+CRDLI_IGDLV,tavantinsuyu,LOC,1
+CRDLI_IGDLV,templo de,LOC,1
+CRDLI_IGDLV,templo de titicaca,LOC,1
+CRDLI_IGDLV,tercera,MISC,1
+CRDLI_IGDLV,tiaguanaco,LOC,1
+CRDLI_IGDLV,tiaguanaco,MISC,1
+CRDLI_IGDLV,ticatica,LOC,1
+CRDLI_IGDLV,ticci viracocha,PER,1
+CRDLI_IGDLV,tici viracocha,MISC,1
+CRDLI_IGDLV,ticzampi,LOC,1
+CRDLI_IGDLV,tincuracu,LOC,1
+CRDLI_IGDLV,titu,MISC,1
+CRDLI_IGDLV,titu auqui,PER,1
+CRDLI_IGDLV,titu inca rimachi,PER,1
+CRDLI_IGDLV,titu manco cápac,MISC,1
+CRDLI_IGDLV,tiucassa,LOC,1
+CRDLI_IGDLV,tiupuncu,LOC,1
+CRDLI_IGDLV,tlazoltéutl,PER,1
+CRDLI_IGDLV,tláloc,MISC,1
+CRDLI_IGDLV,tococachi,LOC,1
+CRDLI_IGDLV,tomebamba,LOC,1
+CRDLI_IGDLV,tonat,MISC,1
+CRDLI_IGDLV,tono,LOC,1
+CRDLI_IGDLV,topa inca,PER,1
+CRDLI_IGDLV,topainga yupangue,PER,1
+CRDLI_IGDLV,toralláyquim,MISC,1
+CRDLI_IGDLV,trópico de capricornio,MISC,1
+CRDLI_IGDLV,tucmi,LOC,1
+CRDLI_IGDLV,tumi pampa,MISC,1
+CRDLI_IGDLV,tumi pampa,PER,1
+CRDLI_IGDLV,tumibamba,LOC,1
+CRDLI_IGDLV,tunu,LOC,1
+CRDLI_IGDLV,tupa inca,PER,1
+CRDLI_IGDLV,turco,MISC,1
+CRDLI_IGDLV,téutl,MISC,1
+CRDLI_IGDLV,tíahuanacu,LOC,1
+CRDLI_IGDLV,títicaca,MISC,1
+CRDLI_IGDLV,tópac inca yupanqui,PER,1
+CRDLI_IGDLV,túmay huaraca,PER,1
+CRDLI_IGDLV,túmbez,LOC,1
+CRDLI_IGDLV,túmpiz,PER,1
+CRDLI_IGDLV,túpac amaru,PER,1
+CRDLI_IGDLV,túpac inca,MISC,1
+CRDLI_IGDLV,túpac inca,PER,1
+CRDLI_IGDLV,túpac yaya,MISC,1
+CRDLI_IGDLV,ubeda,LOC,1
+CRDLI_IGDLV,ucu pacha,MISC,1
+CRDLI_IGDLV,ucuña,LOC,1
+CRDLI_IGDLV,uicaquirau,MISC,1
+CRDLI_IGDLV,uillacori,LOC,1
+CRDLI_IGDLV,uillca,MISC,1
+CRDLI_IGDLV,uillcanuta,LOC,1
+CRDLI_IGDLV,uillcanuta,MISC,1
+CRDLI_IGDLV,uillcapampa,LOC,1
+CRDLI_IGDLV,uillilli,LOC,1
+CRDLI_IGDLV,uitcilopuchtli,PER,1
+CRDLI_IGDLV,umasuyus,ORG,1
+CRDLI_IGDLV,umu,MISC,1
+CRDLI_IGDLV,unuyquita,MISC,1
+CRDLI_IGDLV,uraba,LOC,1
+CRDLI_IGDLV,urabá,LOC,1
+CRDLI_IGDLV,uramarca,ORG,1
+CRDLI_IGDLV,urcollasu,LOC,1
+CRDLI_IGDLV,urcos,LOC,1
+CRDLI_IGDLV,urcos,MISC,1
+CRDLI_IGDLV,uriquillas,MISC,1
+CRDLI_IGDLV,urnam,MISC,1
+CRDLI_IGDLV,urus,MISC,1
+CRDLI_IGDLV,usca mayta,MISC,1
+CRDLI_IGDLV,utumsulla,LOC,1
+CRDLI_IGDLV,utunsulla,LOC,1
+CRDLI_IGDLV,uuiña,LOC,1
+CRDLI_IGDLV,uíllac,MISC,1
+CRDLI_IGDLV,uíllac umu,MISC,1
+CRDLI_IGDLV,valencia,LOC,1
+CRDLI_IGDLV,vallano,PER,1
+CRDLI_IGDLV,valle de,LOC,1
+CRDLI_IGDLV,valle de cuzapa,LOC,1
+CRDLI_IGDLV,valle de la yerbabuena,LOC,1
+CRDLI_IGDLV,valle de pisco,LOC,1
+CRDLI_IGDLV,valle de túmpiz,LOC,1
+CRDLI_IGDLV,valle del huarcu,LOC,1
+CRDLI_IGDLV,valle hacari,LOC,1
+CRDLI_IGDLV,valle huarcu,LOC,1
+CRDLI_IGDLV,valle yúcay,LOC,1
+CRDLI_IGDLV,varrón,PER,1
+CRDLI_IGDLV,vasco de guevara,PER,1
+CRDLI_IGDLV,venus,PER,1
+CRDLI_IGDLV,venus chasca,MISC,1
+CRDLI_IGDLV,vera paz,LOC,1
+CRDLI_IGDLV,vesta,LOC,1
+CRDLI_IGDLV,vicente yáñez pinzón,PER,1
+CRDLI_IGDLV,victoria,LOC,1
+CRDLI_IGDLV,victoria,MISC,1
+CRDLI_IGDLV,vilaoma,PER,1
+CRDLI_IGDLV,vilcas,LOC,1
+CRDLI_IGDLV,villa de la plata,LOC,1
+CRDLI_IGDLV,villa de plata,LOC,1
+CRDLI_IGDLV,villalobos,PER,1
+CRDLI_IGDLV,villarroel,PER,1
+CRDLI_IGDLV,villcanuta,LOC,1
+CRDLI_IGDLV,viracocha pachayacháchic,MISC,1
+CRDLI_IGDLV,viracocha puncu,MISC,1
+CRDLI_IGDLV,virgen,MISC,1
+CRDLI_IGDLV,virgen maría,PER,1
+CRDLI_IGDLV,visorrey don andrés hurtado de mendoza,PER,1
+CRDLI_IGDLV,vocabulario,MISC,1
+CRDLI_IGDLV,xaquixaguana,LOC,1
+CRDLI_IGDLV,xayre topa,PER,1
+CRDLI_IGDLV,xayre topa inga,PER,1
+CRDLI_IGDLV,yacha huaci,LOC,1
+CRDLI_IGDLV,yahuar huácac,PER,1
+CRDLI_IGDLV,yahuarcocha,MISC,1
+CRDLI_IGDLV,yahuarpampa,MISC,1
+CRDLI_IGDLV,yahuarpampa,PER,1
+CRDLI_IGDLV,yauyu,MISC,1
+CRDLI_IGDLV,yauyus,ORG,1
+CRDLI_IGDLV,yerba sancta,MISC,1
+CRDLI_IGDLV,yucay,MISC,1
+CRDLI_IGDLV,yunca,LOC,1
+CRDLI_IGDLV,yunca ñusta,LOC,1
+CRDLI_IGDLV,yuncas,MISC,1
+CRDLI_IGDLV,yácuall,ORG,1
+CRDLI_IGDLV,yáhuar huácac,MISC,1
+CRDLI_IGDLV,yáhuar pampa,LOC,1
+CRDLI_IGDLV,yúcay,MISC,1
+CRDLI_IGDLV,yúcay,PER,1
+CRDLI_IGDLV,zamora,LOC,1
+CRDLI_IGDLV,zancu,LOC,1
+CRDLI_IGDLV,zancu,ORG,1
+CRDLI_IGDLV,zapa inca viracocha,PER,1
+CRDLI_IGDLV,zapana,PER,1
+CRDLI_IGDLV,zaña,LOC,1
+CRDLI_IGDLV,zoczo panaca,MISC,1
+CRDLI_IGDLV,zonas,MISC,1
+CRDLI_IGDLV,zupaipa huacin,LOC,1
+CRDLI_IGDLV,zúpay,MISC,1
+CRDLI_IGDLV,zúñiga,PER,1
+CRDLI_IGDLV,ídolo,LOC,1

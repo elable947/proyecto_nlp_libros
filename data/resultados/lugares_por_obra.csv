@@ -1,0 +1,1014 @@
+﻿obra,entidad_norm,frecuencia,score_promedio,bloques_distintos
+CELC_MVLL,lima,107,0.9998,77
+CELC_MVLL,arequipa,58,0.9982,31
+CELC_MVLL,perú,49,0.9997,39
+CELC_MVLL,pucallpa,49,0.9909,27
+CELC_MVLL,san marcos,46,0.9704,26
+CELC_MVLL,chincha,37,0.9994,20
+CELC_MVLL,san miguel,27,0.993,25
+CELC_MVLL,miraflores,26,0.9998,25
+CELC_MVLL,ancón,24,0.983,11
+CELC_MVLL,ica,23,0.9996,17
+CELC_MVLL,plaza,20,0.9438,13
+CELC_MVLL,palacio,18,0.999,11
+CELC_MVLL,plaza de armas,18,0.9999,18
+CELC_MVLL,colmena,16,0.9612,16
+CELC_MVLL,tingo maría,16,0.9999,10
+CELC_MVLL,cajamarca,15,0.9889,9
+CELC_MVLL,la crónica,15,0.9842,15
+CELC_MVLL,mirones,14,0.9793,11
+CELC_MVLL,plaza san martín,14,0.9999,13
+CELC_MVLL,méxico,13,0.9999,9
+CELC_MVLL,barranco,11,0.9989,11
+CELC_MVLL,rímac,11,0.9975,11
+CELC_MVLL,trujillo,11,0.9999,6
+CELC_MVLL,la catedral,10,0.9436,7
+CELC_MVLL,casita de san miguel,9,0.9784,8
+CELC_MVLL,chaclacayo,9,0.9927,7
+CELC_MVLL,limoncillo,9,0.9964,7
+CELC_MVLL,mercado,9,0.9337,5
+CELC_MVLL,parque universitario,9,0.9999,7
+CELC_MVLL,bar,8,0.8223,5
+CELC_MVLL,cuzco,8,0.985,6
+CELC_MVLL,surquillo,8,0.9998,5
+CELC_MVLL,bolivia,7,0.9999,7
+CELC_MVLL,cahuide,7,0.9885,5
+CELC_MVLL,chorrillos,7,0.998,6
+CELC_MVLL,jesús maría,7,0.9446,6
+CELC_MVLL,malecón,7,0.9997,6
+CELC_MVLL,zavalita,7,0.9504,5
+CELC_MVLL,avenida brasil,6,0.9998,6
+CELC_MVLL,chiclayo,6,0.9999,4
+CELC_MVLL,odría,6,0.8788,6
+CELC_MVLL,agua dulce,5,0.9999,3
+CELC_MVLL,avenida arequipa,5,0.9994,5
+CELC_MVLL,avenida argentina,5,0.9999,5
+CELC_MVLL,callao,5,0.9995,5
+CELC_MVLL,calle comercio,5,0.9985,5
+CELC_MVLL,españa,5,1.0,2
+CELC_MVLL,grocio prado,5,0.9912,5
+CELC_MVLL,la maison de santé,5,0.9502,5
+CELC_MVLL,larco,5,0.9975,4
+CELC_MVLL,monmartre,5,0.7167,5
+CELC_MVLL,paseo colón,5,0.9998,4
+CELC_MVLL,petit thouars,5,0.9997,5
+CELC_MVLL,portal,5,0.9528,4
+CELC_MVLL,puente del ejército,5,0.9999,4
+CELC_MVLL,regatas,5,0.9133,3
+CELC_MVLL,santiago,5,0.9853,5
+CELC_MVLL,teatro municipal,5,0.949,4
+CELC_MVLL,tumbes,5,0.9999,4
+CELC_MVLL,universidad,5,0.8168,4
+CELC_MVLL,yarinacocha,5,0.9998,4
+CELC_MVLL,alfonso ugarte,4,0.98,4
+CELC_MVLL,avenida tacna,4,0.9997,4
+CELC_MVLL,bar zela,4,0.9997,3
+CELC_MVLL,buenos aires,4,0.9999,3
+CELC_MVLL,camaná,4,0.9999,3
+CELC_MVLL,europa,4,1.0,2
+CELC_MVLL,guatemala,4,0.9989,2
+CELC_MVLL,hospital,4,0.9043,3
+CELC_MVLL,huacachina,4,0.9998,4
+CELC_MVLL,huánuco,4,0.9999,4
+CELC_MVLL,la laguna,4,0.9319,2
+CELC_MVLL,luna park,4,0.988,1
+CELC_MVLL,magdalena,4,0.9999,4
+CELC_MVLL,maternidad,4,0.8128,2
+CELC_MVLL,municipal,4,0.8412,1
+CELC_MVLL,plaza bolognesi,4,0.9998,4
+CELC_MVLL,plaza dos de mayo,4,0.9999,4
+CELC_MVLL,plaza italia,4,0.9999,3
+CELC_MVLL,porta,4,0.9988,4
+CELC_MVLL,porvenir,4,0.8876,1
+CELC_MVLL,puno,4,0.9999,2
+CELC_MVLL,quinta,4,0.9943,3
+CELC_MVLL,rueda chicago,4,0.9995,3
+CELC_MVLL,san martín,4,0.9998,3
+CELC_MVLL,tingo,4,0.9994,3
+CELC_MVLL,trinidad,4,0.9958,2
+CELC_MVLL,acho,3,0.966,1
+CELC_MVLL,azángaro,3,0.9636,3
+CELC_MVLL,barrios altos,3,0.9998,3
+CELC_MVLL,bertoloto,3,0.822,3
+CELC_MVLL,brasil,3,0.9994,3
+CELC_MVLL,calle chiclayo,3,0.9998,3
+CELC_MVLL,cayo,3,0.9963,2
+CELC_MVLL,chacra colorada,3,0.9997,3
+CELC_MVLL,china,3,0.7722,3
+CELC_MVLL,club,3,0.9355,3
+CELC_MVLL,cream rica,3,0.9542,2
+CELC_MVLL,el palermo,3,0.941,3
+CELC_MVLL,estadio,3,0.9879,3
+CELC_MVLL,estados unidos,3,0.9877,3
+CELC_MVLL,herradura,3,0.965,2
+CELC_MVLL,hospital militar,3,0.9998,3
+CELC_MVLL,huacho,3,0.9995,2
+CELC_MVLL,jirón de la unión,3,0.9999,3
+CELC_MVLL,moscú,3,0.9999,3
+CELC_MVLL,negro negro,3,0.7869,3
+CELC_MVLL,nueva york,3,1.0,3
+CELC_MVLL,pacasmayo,3,0.9996,3
+CELC_MVLL,padre jerónimo,3,0.9999,3
+CELC_MVLL,palacio de justicia,3,0.9884,3
+CELC_MVLL,paracas,3,1.0,2
+CELC_MVLL,pasamayo,3,0.9998,1
+CELC_MVLL,san juan de dios,3,0.9998,3
+CELC_MVLL,santa beatriz,3,0.9998,3
+CELC_MVLL,tacna,3,0.9995,3
+CELC_MVLL,terrazas,3,0.9025,3
+CELC_MVLL,vitarte,3,0.9662,3
+CELC_MVLL,amalia,2,0.9255,2
+CELC_MVLL,arenales,2,0.9995,2
+CELC_MVLL,argentina,2,0.9998,2
+CELC_MVLL,avenida bolivia,2,0.9999,2
+CELC_MVLL,avenida españa,2,0.9999,2
+CELC_MVLL,avenida pardo,2,0.999,2
+CELC_MVLL,bagua,2,0.9997,2
+CELC_MVLL,bajo el puente,2,0.9999,2
+CELC_MVLL,benavides,2,0.9968,2
+CELC_MVLL,bransa,2,0.738,2
+CELC_MVLL,breña,2,0.984,2
+CELC_MVLL,casa wiese,2,0.9999,2
+CELC_MVLL,celendín,2,0.9999,1
+CELC_MVLL,chosica,2,0.9966,2
+CELC_MVLL,club cajamarca,2,0.9987,2
+CELC_MVLL,clínica americana,2,0.995,2
+CELC_MVLL,clínica delgado,2,0.9872,2
+CELC_MVLL,colina,2,0.9828,2
+CELC_MVLL,coliseo,2,0.9965,2
+CELC_MVLL,colombia,2,0.9988,1
+CELC_MVLL,costanera,2,0.9058,2
+CELC_MVLL,ecuador,2,1.0,2
+CELC_MVLL,el pingüino,2,0.6929,1
+CELC_MVLL,embassy,2,0.9299,2
+CELC_MVLL,espina,2,0.9998,2
+CELC_MVLL,francia,2,0.9989,2
+CELC_MVLL,francisco pizarro,2,0.9999,2
+CELC_MVLL,general garzón,2,0.9998,2
+CELC_MVLL,habana,2,0.9999,2
+CELC_MVLL,haití,2,0.7576,2
+CELC_MVLL,hospital de policía,2,0.9957,2
+CELC_MVLL,hospital san josé,2,0.9998,2
+CELC_MVLL,hotel mogollón,2,0.999,2
+CELC_MVLL,huancayo,2,0.9998,2
+CELC_MVLL,iglesia,2,0.8779,2
+CELC_MVLL,ivonne,2,0.9498,2
+CELC_MVLL,juliaca,2,0.9999,2
+CELC_MVLL,la herradura,2,1.0,2
+CELC_MVLL,los huérfanos,2,0.9532,2
+CELC_MVLL,magdalena vieja,2,0.9999,2
+CELC_MVLL,maury,2,0.9935,1
+CELC_MVLL,mi patria,2,0.9907,2
+CELC_MVLL,molina,2,0.9999,1
+CELC_MVLL,montecarlo,2,0.9999,2
+CELC_MVLL,moquegua,2,1.0,2
+CELC_MVLL,morgue,2,0.7992,2
+CELC_MVLL,negro-negro,2,0.9056,2
+CELC_MVLL,norte,2,0.9997,2
+CELC_MVLL,olave,2,0.6321,1
+CELC_MVLL,parque de la exposición,2,0.9999,2
+CELC_MVLL,parque necochea,2,0.9999,2
+CELC_MVLL,parís,2,0.9999,1
+CELC_MVLL,paseo de la república,2,0.9999,2
+CELC_MVLL,pekín,2,1.0,2
+CELC_MVLL,perla,2,0.9989,2
+CELC_MVLL,punta,2,0.9898,2
+CELC_MVLL,quebrada,2,0.9989,2
+CELC_MVLL,quinta de los duendes,2,0.9945,2
+CELC_MVLL,república,2,0.9823,2
+CELC_MVLL,roma,2,0.974,2
+CELC_MVLL,san isidro,2,0.9999,2
+CELC_MVLL,unión,2,0.8297,2
+CELC_MVLL,victoria,2,0.7315,2
+CELC_MVLL,wilson,2,0.9998,2
+CELC_MVLL,zela,2,0.9991,2
+CELC_MVLL,abancay,1,0.9993,1
+CELC_MVLL,aduana,1,0.923,1
+CELC_MVLL,alameda ricardo palma,1,0.9998,1
+CELC_MVLL,alemania,1,0.9999,1
+CELC_MVLL,arispe,1,0.9956,1
+CELC_MVLL,ataúdes limbou”,1,0.757,1
+CELC_MVLL,avenida 28 de julio,1,0.9908,1
+CELC_MVLL,avenida abancay,1,0.9997,1
+CELC_MVLL,avenida angamos,1,0.6246,1
+CELC_MVLL,avenida arenales,1,0.9999,1
+CELC_MVLL,avenida iquitos,1,0.9998,1
+CELC_MVLL,avenida larco,1,0.9952,1
+CELC_MVLL,ayacucho,1,0.9991,1
+CELC_MVLL,azul,1,0.3872,1
+CELC_MVLL,babilonia,1,0.9999,1
+CELC_MVLL,balconcillo,1,0.9997,1
+CELC_MVLL,bar del hotel bolívar,1,0.9999,1
+CELC_MVLL,bar zelap,1,0.9999,1
+CELC_MVLL,barrio sur,1,0.9977,1
+CELC_MVLL,batuque,1,0.9992,1
+CELC_MVLL,bermúdez,1,0.9268,1
+CELC_MVLL,biblioteca de san marcos,1,0.9998,1
+CELC_MVLL,biblioteca nacional,1,0.6117,1
+CELC_MVLL,bolognesi,1,0.9999,1
+CELC_MVLL,budapest,1,0.9999,1
+CELC_MVLL,cabaña,1,0.6846,1
+CELC_MVLL,calle,1,0.5993,1
+CELC_MVLL,calle capón,1,0.9998,1
+CELC_MVLL,calle de padre jerónimo,1,0.9998,1
+CELC_MVLL,calle pando,1,0.9998,1
+CELC_MVLL,calle porta,1,0.9997,1
+CELC_MVLL,calle shell,1,0.9977,1
+CELC_MVLL,callejón de mirones,1,0.9982,1
+CELC_MVLL,campo de marte,1,0.9999,1
+CELC_MVLL,carlitos,1,0.8026,1
+CELC_MVLL,casa nelson,1,0.9998,1
+CELC_MVLL,catedral,1,0.9986,1
+CELC_MVLL,católica,1,0.9536,1
+CELC_MVLL,cayo bermúdez,1,0.831,1
+CELC_MVLL,cayo mierda,1,0.999,1
+CELC_MVLL,cerro de pasco,1,0.9999,1
+CELC_MVLL,chancay,1,0.9997,1
+CELC_MVLL,chiclacayo,1,0.9997,1
+CELC_MVLL,chimbote,1,0.9999,1
+CELC_MVLL,chinchano,1,0.6751,1
+CELC_MVLL,chispas,1,0.5465,1
+CELC_MVLL,cielito lindo,1,0.9998,1
+CELC_MVLL,cine beverly,1,0.9931,1
+CELC_MVLL,cine miraflores,1,0.999,1
+CELC_MVLL,cine roxy,1,0.9977,1
+CELC_MVLL,cine san martín,1,0.9993,1
+CELC_MVLL,circo cairoli,1,0.9726,1
+CELC_MVLL,clínica,1,0.9983,1
+CELC_MVLL,colegio de las canonesas,1,0.9999,1
+CELC_MVLL,colegio josé pardo,1,0.9998,1
+CELC_MVLL,colegio raimondi,1,0.9998,1
+CELC_MVLL,colegio salesiano,1,0.9925,1
+CELC_MVLL,colinita,1,0.9537,1
+CELC_MVLL,comisaría,1,0.734,1
+CELC_MVLL,cream rica de larco,1,0.9998,1
+CELC_MVLL,cuartito de ludovico,1,0.9997,1
+CELC_MVLL,cuba,1,0.9999,1
+CELC_MVLL,cusco,1,0.9999,1
+CELC_MVLL,círculo militar,1,0.9997,1
+CELC_MVLL,depósito municipal de perros,1,0.9995,1
+CELC_MVLL,desamparados,1,0.9564,1
+CELC_MVLL,el gallo de oro,1,0.9991,1
+CELC_MVLL,el patio,1,0.9999,1
+CELC_MVLL,el rinconcito cajamarquino,1,0.9977,1
+CELC_MVLL,el triunfo,1,0.9918,1
+CELC_MVLL,embassy”,1,0.9943,1
+CELC_MVLL,ermita de la beata,1,0.9999,1
+CELC_MVLL,escuela de policía,1,0.9999,1
+CELC_MVLL,excélsior,1,0.9966,1
+CELC_MVLL,expreso,1,0.9571,1
+CELC_MVLL,facultad de letras,1,0.9991,1
+CELC_MVLL,fray martín de porres,1,0.9999,1
+CELC_MVLL,grill del bolívar,1,0.9998,1
+CELC_MVLL,hawai,1,0.9746,1
+CELC_MVLL,heladería wong,1,0.9998,1
+CELC_MVLL,hortensia,1,0.9988,1
+CELC_MVLL,hospital loayza,1,0.9999,1
+CELC_MVLL,hospital obrero,1,0.9958,1
+CELC_MVLL,hospital obrero de ica,1,0.9574,1
+CELC_MVLL,hotel bolívar,1,0.9997,1
+CELC_MVLL,hotel crillón,1,0.9999,1
+CELC_MVLL,hotel de turistas,1,0.9999,1
+CELC_MVLL,hotel maury,1,0.9998,1
+CELC_MVLL,huatica,1,0.9962,1
+CELC_MVLL,iquitos,1,1.0,1
+CELC_MVLL,israel,1,0.9997,1
+CELC_MVLL,italia,1,1.0,1
+CELC_MVLL,itipaya,1,0.9909,1
+CELC_MVLL,jardín el paraíso,1,0.9999,1
+CELC_MVLL,javier prado,1,0.9387,1
+CELC_MVLL,jirón puno,1,0.9998,1
+CELC_MVLL,la luz del día,1,0.9995,1
+CELC_MVLL,la paz,1,1.0,1
+CELC_MVLL,la tiendecita blanca,1,0.8782,1
+CELC_MVLL,larco y josé gonzáles,1,0.9096,1
+CELC_MVLL,leuro,1,0.9938,1
+CELC_MVLL,limbo,1,0.9939,1
+CELC_MVLL,londres,1,1.0,1
+CELC_MVLL,los claveles,1,0.9999,1
+CELC_MVLL,lupe,1,0.7114,1
+CELC_MVLL,magdalena nueva,1,1.0,1
+CELC_MVLL,mala,1,0.9985,1
+CELC_MVLL,malecones,1,0.9999,1
+CELC_MVLL,malvina,1,0.9989,1
+CELC_MVLL,marsano,1,0.9998,1
+CELC_MVLL,matías,1,0.8261,1
+CELC_MVLL,ministerio,1,0.9725,1
+CELC_MVLL,muelle,1,0.9828,1
+CELC_MVLL,nacional,1,0.9321,1
+CELC_MVLL,nínive,1,0.9999,1
+CELC_MVLL,ocoña,1,0.9984,1
+CELC_MVLL,olave”,1,0.962,1
+CELC_MVLL,parada,1,0.9412,1
+CELC_MVLL,parque,1,0.9971,1
+CELC_MVLL,parque de la reserva,1,0.9999,1
+CELC_MVLL,parral,1,0.9951,1
+CELC_MVLL,parroquia,1,0.6826,1
+CELC_MVLL,paseo de aguas,1,0.9999,1
+CELC_MVLL,patio,1,0.9995,1
+CELC_MVLL,piura,1,0.9999,1
+CELC_MVLL,plaza de,1,0.7965,1
+CELC_MVLL,plaza de acho,1,0.9999,1
+CELC_MVLL,plaza del porvenir,1,0.9999,1
+CELC_MVLL,prefectura,1,0.4233,1
+CELC_MVLL,pueblo libre,1,0.9999,1
+CELC_MVLL,puente,1,0.8863,1
+CELC_MVLL,puente de piedra,1,0.9999,1
+CELC_MVLL,quiosco de barranco,1,0.9998,1
+CELC_MVLL,restaurant suizo de la herradura,1,0.9998,1
+CELC_MVLL,rialto,1,0.9995,1
+CELC_MVLL,ricardo palma,1,0.9998,1
+CELC_MVLL,rinconcito cajamarquino,1,0.9747,1
+CELC_MVLL,sala de emergencia,1,0.9996,1
+CELC_MVLL,san fernando,1,0.9999,1
+CELC_MVLL,santa maría,1,0.9999,1
+CELC_MVLL,santo cristo,1,0.9999,1
+CELC_MVLL,secretaría,1,0.4753,1
+CELC_MVLL,shell,1,0.5546,1
+CELC_MVLL,siboney,1,0.9959,1
+CELC_MVLL,sombra,1,0.9213,1
+CELC_MVLL,suiza,1,1.0,1
+CELC_MVLL,sur,1,0.9986,1
+CELC_MVLL,surco,1,0.9998,1
+CELC_MVLL,talara,1,0.9997,1
+CELC_MVLL,tambo,1,0.6629,1
+CELC_MVLL,teatro monumental,1,0.9999,1
+CELC_MVLL,teté,1,0.9393,1
+CELC_MVLL,tiabaya,1,0.9999,1
+CELC_MVLL,túmula,1,0.9727,1
+CELC_MVLL,ucayali,1,0.9826,1
+CELC_MVLL,unidad escolar,1,0.9986,1
+CELC_MVLL,"urbanización de ""los claveles”",1,0.9648,1
+CELC_MVLL,urbanización de villacampa,1,0.9998,1
+CELC_MVLL,urbanización las margaritas,1,0.9999,1
+CELC_MVLL,verdún,1,0.9573,1
+CELC_MVLL,vietnam,1,0.9997,1
+CELC_MVLL,yanahuara,1,0.9317,1
+CELC_MVLL,“gambrinus”,1,0.6566,1
+CELC_MVLL,“la catedral,1,0.6883,1
+CRDLI_IGDLV,perú,363,0.9968,188
+CRDLI_IGDLV,cozco,354,0.9915,191
+CRDLI_IGDLV,españa,163,0.9992,90
+CRDLI_IGDLV,chili,54,0.9903,26
+CRDLI_IGDLV,quitu,53,0.9999,32
+CRDLI_IGDLV,antis,31,0.9211,23
+CRDLI_IGDLV,indias,29,0.993,21
+CRDLI_IGDLV,collasuyu,27,0.979,20
+CRDLI_IGDLV,chincha,22,0.972,8
+CRDLI_IGDLV,pachacámac,21,0.994,9
+CRDLI_IGDLV,rímac,20,0.999,12
+CRDLI_IGDLV,chinchasuyu,19,0.9882,17
+CRDLI_IGDLV,ciudad de los reyes,19,0.9905,15
+CRDLI_IGDLV,panamá,18,1.0,11
+CRDLI_IGDLV,sevilla,17,1.0,16
+CRDLI_IGDLV,cuntisuyu,16,0.9798,13
+CRDLI_IGDLV,arequepa,14,0.9977,7
+CRDLI_IGDLV,collao,13,0.926,11
+CRDLI_IGDLV,imperio,13,0.6549,13
+CRDLI_IGDLV,méxico,13,0.9999,10
+CRDLI_IGDLV,santo domingo,12,0.996,9
+CRDLI_IGDLV,templo del sol,12,0.9482,11
+CRDLI_IGDLV,trujillo,12,0.9998,11
+CRDLI_IGDLV,antisuyu,11,0.9955,8
+CRDLI_IGDLV,charcas,11,0.9588,9
+CRDLI_IGDLV,cassamarca,10,0.9849,7
+CRDLI_IGDLV,florida,10,0.9997,10
+CRDLI_IGDLV,puerto viejo,10,0.9999,8
+CRDLI_IGDLV,sol,10,0.7326,7
+CRDLI_IGDLV,túmpiz,10,0.9997,6
+CRDLI_IGDLV,umasuyu,10,0.999,6
+CRDLI_IGDLV,barlovento,9,0.9972,8
+CRDLI_IGDLV,cañaris,9,0.999,7
+CRDLI_IGDLV,chile,9,1.0,7
+CRDLI_IGDLV,contisuyu,9,0.9997,7
+CRDLI_IGDLV,los reyes,9,0.9999,7
+CRDLI_IGDLV,sierra nevada,9,0.9955,9
+CRDLI_IGDLV,titicaca,9,0.9547,7
+CRDLI_IGDLV,tumipampa,9,0.9998,5
+CRDLI_IGDLV,casa del sol,8,0.9645,8
+CRDLI_IGDLV,cassana,8,0.999,4
+CRDLI_IGDLV,chachapuya,8,0.9998,4
+CRDLI_IGDLV,muyna,8,0.9989,7
+CRDLI_IGDLV,rucana,8,0.9986,5
+CRDLI_IGDLV,atacama,7,0.9998,4
+CRDLI_IGDLV,chichas,7,0.9996,5
+CRDLI_IGDLV,cochapampa,7,0.9989,3
+CRDLI_IGDLV,collcampata,7,0.9993,7
+CRDLI_IGDLV,cuzco,7,0.9999,6
+CRDLI_IGDLV,huánucu,7,0.9966,3
+CRDLI_IGDLV,manta,7,0.9063,2
+CRDLI_IGDLV,nanasca,7,0.9997,3
+CRDLI_IGDLV,quechua,7,0.9285,6
+CRDLI_IGDLV,runahuánac,7,0.9823,3
+CRDLI_IGDLV,sacsahuana,7,0.9956,6
+CRDLI_IGDLV,yúcay,7,0.9123,7
+CRDLI_IGDLV,antahuaylla,6,0.9996,4
+CRDLI_IGDLV,cartagena,6,0.9999,4
+CRDLI_IGDLV,cassamarquilla,6,0.9998,3
+CRDLI_IGDLV,castilla,6,0.9947,5
+CRDLI_IGDLV,chancas,6,0.9396,6
+CRDLI_IGDLV,chayanta,6,0.9999,3
+CRDLI_IGDLV,colla,6,0.9591,5
+CRDLI_IGDLV,copayapu,6,0.9998,3
+CRDLI_IGDLV,cuba,6,1.0,5
+CRDLI_IGDLV,córdoba,6,1.0,6
+CRDLI_IGDLV,hatun colla,6,0.9997,4
+CRDLI_IGDLV,huayna cápac,6,0.9174,6
+CRDLI_IGDLV,inca,6,0.6635,5
+CRDLI_IGDLV,pucara,6,0.9474,4
+CRDLI_IGDLV,templo,6,0.6907,6
+CRDLI_IGDLV,tiahuanacu,6,0.9986,4
+CRDLI_IGDLV,amarucancha,5,0.9993,3
+CRDLI_IGDLV,canarias,5,0.9997,2
+CRDLI_IGDLV,cañari,5,0.8568,2
+CRDLI_IGDLV,chanca,5,0.8737,4
+CRDLI_IGDLV,chimu,5,0.9915,4
+CRDLI_IGDLV,chucuitu,5,0.9984,2
+CRDLI_IGDLV,collas,5,0.8692,5
+CRDLI_IGDLV,cuquimpu,5,0.9997,3
+CRDLI_IGDLV,cúntur marca,5,0.9997,1
+CRDLI_IGDLV,incas,5,0.6133,5
+CRDLI_IGDLV,musu,5,0.999,3
+CRDLI_IGDLV,parmunca,5,0.999,3
+CRDLI_IGDLV,pasto,5,0.9999,4
+CRDLI_IGDLV,pirú,5,0.9683,2
+CRDLI_IGDLV,puna,5,0.8731,4
+CRDLI_IGDLV,salamanca,5,1.0,5
+CRDLI_IGDLV,tucma,5,0.9952,4
+CRDLI_IGDLV,uillca,5,0.8715,4
+CRDLI_IGDLV,valdivia,5,0.9997,5
+CRDLI_IGDLV,yahuarpampa,5,0.9037,5
+CRDLI_IGDLV,amáncay,4,0.9973,2
+CRDLI_IGDLV,apurímac,4,0.9837,3
+CRDLI_IGDLV,atahuallpa,4,0.9283,4
+CRDLI_IGDLV,berú,4,0.8067,4
+CRDLI_IGDLV,cacha,4,0.9996,3
+CRDLI_IGDLV,callahuaya,4,0.9982,2
+CRDLI_IGDLV,callauaya,4,0.995,4
+CRDLI_IGDLV,caranque,4,0.9998,4
+CRDLI_IGDLV,carmenca,4,0.9994,4
+CRDLI_IGDLV,charca,4,0.8783,4
+CRDLI_IGDLV,chita,4,0.9988,4
+CRDLI_IGDLV,chuquisaca,4,0.9999,3
+CRDLI_IGDLV,europa,4,1.0,4
+CRDLI_IGDLV,huacachaca,4,0.931,4
+CRDLI_IGDLV,huacapuncu,4,0.8587,3
+CRDLI_IGDLV,huamanca,4,0.9999,4
+CRDLI_IGDLV,huanacauri,4,0.9988,3
+CRDLI_IGDLV,huarcu,4,0.9994,3
+CRDLI_IGDLV,huarina,4,0.9908,4
+CRDLI_IGDLV,imperial,4,0.9984,3
+CRDLI_IGDLV,italia,4,0.9999,4
+CRDLI_IGDLV,mar del sur,4,0.9792,4
+CRDLI_IGDLV,maulli,4,0.5617,4
+CRDLI_IGDLV,muyupampa,4,0.9997,3
+CRDLI_IGDLV,nombre de dios,4,0.9999,2
+CRDLI_IGDLV,osorno,4,1.0,2
+CRDLI_IGDLV,plaza mayor,4,0.9999,2
+CRDLI_IGDLV,potocchi,4,0.9968,4
+CRDLI_IGDLV,potocsi,4,0.9983,3
+CRDLI_IGDLV,pumapchupan,4,0.9992,4
+CRDLI_IGDLV,pumpu,4,0.9997,2
+CRDLI_IGDLV,quechuas,4,0.8183,4
+CRDLI_IGDLV,reino,4,0.8845,4
+CRDLI_IGDLV,roma,4,0.9976,4
+CRDLI_IGDLV,tarma,4,0.9999,2
+CRDLI_IGDLV,templo del,4,0.8045,4
+CRDLI_IGDLV,uramarca,4,0.9211,3
+CRDLI_IGDLV,yauyu,4,0.9996,2
+CRDLI_IGDLV,andalucía,3,1.0,3
+CRDLI_IGDLV,andes,3,0.8817,3
+CRDLI_IGDLV,anti,3,0.9938,2
+CRDLI_IGDLV,aymara,3,0.9999,2
+CRDLI_IGDLV,barranca,3,0.9711,2
+CRDLI_IGDLV,cabo de pasau,3,0.966,3
+CRDLI_IGDLV,chachapuyas,3,0.999,3
+CRDLI_IGDLV,chicha,3,0.9998,2
+CRDLI_IGDLV,chirihuana,3,0.8238,2
+CRDLI_IGDLV,chirihuanas,3,0.9986,2
+CRDLI_IGDLV,chucurpu,3,0.9998,3
+CRDLI_IGDLV,chuncara,3,0.9998,2
+CRDLI_IGDLV,ciudad de la plata,3,0.9999,3
+CRDLI_IGDLV,coracora,3,0.9987,1
+CRDLI_IGDLV,cotanera,3,0.9997,3
+CRDLI_IGDLV,cotapampa,3,0.9998,3
+CRDLI_IGDLV,del,3,0.703,3
+CRDLI_IGDLV,estrecho de magallanes,3,0.9999,3
+CRDLI_IGDLV,flandes,3,1.0,3
+CRDLI_IGDLV,hacari,3,0.9991,2
+CRDLI_IGDLV,hanan cozco,3,0.9997,2
+CRDLI_IGDLV,hancohuallu,3,0.9984,3
+CRDLI_IGDLV,hatunpacassa,3,0.9991,2
+CRDLI_IGDLV,haucaypata,3,0.9855,3
+CRDLI_IGDLV,huacrachucu,3,0.9997,2
+CRDLI_IGDLV,huallmi,3,0.9995,2
+CRDLI_IGDLV,huanca,3,0.9849,3
+CRDLI_IGDLV,huancapampa,3,0.9999,2
+CRDLI_IGDLV,huancauillca,3,0.9999,1
+CRDLI_IGDLV,huaychu,3,0.9686,2
+CRDLI_IGDLV,hurin cozco,3,0.9996,2
+CRDLI_IGDLV,ica,3,0.9144,1
+CRDLI_IGDLV,iglesia catedral,3,0.9989,3
+CRDLI_IGDLV,la florida,3,1.0,3
+CRDLI_IGDLV,laguna de paria,3,0.9746,2
+CRDLI_IGDLV,lima,3,0.9998,2
+CRDLI_IGDLV,llauantu,3,0.9991,1
+CRDLI_IGDLV,nuestra señora de las mercedes,3,0.9999,2
+CRDLI_IGDLV,nueva españa,3,0.9999,3
+CRDLI_IGDLV,parihuana cocha,3,0.9887,1
+CRDLI_IGDLV,passau,3,0.9999,2
+CRDLI_IGDLV,pastu,3,0.9994,2
+CRDLI_IGDLV,paucartampu,3,0.8623,3
+CRDLI_IGDLV,rimactampu,3,0.9956,3
+CRDLI_IGDLV,sacsahuaman,3,0.9917,3
+CRDLI_IGDLV,santa,3,0.9997,2
+CRDLI_IGDLV,santa elena,3,0.9995,2
+CRDLI_IGDLV,santa marta,3,0.9999,3
+CRDLI_IGDLV,serrana,3,0.994,2
+CRDLI_IGDLV,tauantinsuyu,3,0.8352,3
+CRDLI_IGDLV,tierra firme,3,0.9999,2
+CRDLI_IGDLV,toledo,3,0.9994,3
+CRDLI_IGDLV,trinidad,3,0.9438,3
+CRDLI_IGDLV,valladolid,3,1.0,3
+CRDLI_IGDLV,yanahuara,3,0.8121,1
+CRDLI_IGDLV,yucatán,3,0.9991,2
+CRDLI_IGDLV,acllahuaci,2,0.9975,2
+CRDLI_IGDLV,alemania,2,1.0,2
+CRDLI_IGDLV,allca,2,0.9997,1
+CRDLI_IGDLV,ampara,2,0.9997,2
+CRDLI_IGDLV,angol,2,0.9998,2
+CRDLI_IGDLV,apucara,2,0.9997,1
+CRDLI_IGDLV,arica,2,0.9997,2
+CRDLI_IGDLV,asia,2,0.9999,2
+CRDLI_IGDLV,asáncaru,2,0.9998,2
+CRDLI_IGDLV,atiquipa,2,0.9998,2
+CRDLI_IGDLV,ayauiri,2,0.9403,2
+CRDLI_IGDLV,ayaviri,2,0.9964,1
+CRDLI_IGDLV,babilonia,2,0.9999,1
+CRDLI_IGDLV,cac-yauiri,2,0.9991,1
+CRDLI_IGDLV,callamarca,2,0.9999,1
+CRDLI_IGDLV,calle de san agustín,2,0.9999,2
+CRDLI_IGDLV,calle del sol,2,0.9995,2
+CRDLI_IGDLV,camata,2,0.9997,2
+CRDLI_IGDLV,capira,2,0.9992,2
+CRDLI_IGDLV,caracara,2,0.9999,2
+CRDLI_IGDLV,caranca,2,0.9999,2
+CRDLI_IGDLV,casa,2,0.801,2
+CRDLI_IGDLV,casa del,2,0.6758,2
+CRDLI_IGDLV,cañares,2,0.9998,2
+CRDLI_IGDLV,chaqui,2,0.9999,2
+CRDLI_IGDLV,chaquillchaca,2,0.9998,1
+CRDLI_IGDLV,chiapa,2,0.9997,2
+CRDLI_IGDLV,chillca,2,0.9992,2
+CRDLI_IGDLV,chinchapuc-yu,2,0.8027,2
+CRDLI_IGDLV,chunchu,2,0.978,1
+CRDLI_IGDLV,chupas,2,0.9227,2
+CRDLI_IGDLV,chuquiapu,2,0.9986,2
+CRDLI_IGDLV,chuquinca,2,0.9988,2
+CRDLI_IGDLV,cordillera nevada,2,0.9976,2
+CRDLI_IGDLV,coricancha,2,0.785,2
+CRDLI_IGDLV,cuchuna,2,0.9993,1
+CRDLI_IGDLV,curampa,2,0.9998,1
+CRDLI_IGDLV,cussipata,2,0.9959,2
+CRDLI_IGDLV,egipto,2,0.9999,2
+CRDLI_IGDLV,extremadura,2,1.0,2
+CRDLI_IGDLV,francia,2,1.0,2
+CRDLI_IGDLV,gorgona,2,0.9998,2
+CRDLI_IGDLV,gómara,2,1.0,2
+CRDLI_IGDLV,hatunrucana,2,0.9992,2
+CRDLI_IGDLV,huamachucu,2,0.8951,2
+CRDLI_IGDLV,huaman,2,0.9997,2
+CRDLI_IGDLV,huamanpallpa,2,0.9998,1
+CRDLI_IGDLV,huaquirca,2,0.9999,1
+CRDLI_IGDLV,huayllas,2,0.9998,1
+CRDLI_IGDLV,huelva,2,0.9999,2
+CRDLI_IGDLV,iglesia mayor,2,0.9999,1
+CRDLI_IGDLV,india oriental,2,0.9999,2
+CRDLI_IGDLV,isla de la madera,2,0.9986,1
+CRDLI_IGDLV,llaricassa,2,0.9999,2
+CRDLI_IGDLV,llipi,2,0.9999,2
+CRDLI_IGDLV,madrid,2,1.0,2
+CRDLI_IGDLV,malla,2,0.9997,2
+CRDLI_IGDLV,mar,2,0.9473,2
+CRDLI_IGDLV,mar del norte,2,0.9999,2
+CRDLI_IGDLV,martín de arbieto,2,0.9997,1
+CRDLI_IGDLV,mojos,2,0.9996,2
+CRDLI_IGDLV,musus,2,0.7647,2
+CRDLI_IGDLV,nuevo mundo,2,0.8134,2
+CRDLI_IGDLV,nuevo orbe,2,0.824,2
+CRDLI_IGDLV,orcosuyu,2,0.9993,2
+CRDLI_IGDLV,otauallu,2,0.9999,2
+CRDLI_IGDLV,pacasmayu,2,0.9997,1
+CRDLI_IGDLV,pelua,2,0.9993,1
+CRDLI_IGDLV,pillcupata,2,0.9992,1
+CRDLI_IGDLV,piti,2,0.9967,1
+CRDLI_IGDLV,plaza de nuestra señora,2,0.9999,1
+CRDLI_IGDLV,potosí,2,0.9998,2
+CRDLI_IGDLV,pumacurcu,2,0.9989,2
+CRDLI_IGDLV,pumatampu,2,0.9941,1
+CRDLI_IGDLV,pías,2,0.9978,1
+CRDLI_IGDLV,pícuy,2,0.9999,1
+CRDLI_IGDLV,quellca,2,0.9993,2
+CRDLI_IGDLV,quespicancha,2,0.9976,2
+CRDLI_IGDLV,quillacenca,2,0.9995,2
+CRDLI_IGDLV,quipaypan,2,0.9992,1
+CRDLI_IGDLV,quito,2,1.0,1
+CRDLI_IGDLV,raymipampa,2,0.9966,1
+CRDLI_IGDLV,rimacpampa,2,0.9997,1
+CRDLI_IGDLV,rodas,2,0.9956,1
+CRDLI_IGDLV,sacaca,2,0.9999,2
+CRDLI_IGDLV,sausa,2,0.9998,2
+CRDLI_IGDLV,serranilla,2,0.9991,2
+CRDLI_IGDLV,sierra,2,0.8912,1
+CRDLI_IGDLV,sulla,2,0.999,1
+CRDLI_IGDLV,sullana,2,0.9984,1
+CRDLI_IGDLV,sulli,2,0.9974,2
+CRDLI_IGDLV,suta,2,0.9997,1
+CRDLI_IGDLV,tampu,2,0.9995,2
+CRDLI_IGDLV,tapac-ri,2,0.9998,1
+CRDLI_IGDLV,tapacari,2,0.9998,2
+CRDLI_IGDLV,tarapaca,2,1.0,2
+CRDLI_IGDLV,tucumán,2,0.9999,2
+CRDLI_IGDLV,tutura,2,0.9998,2
+CRDLI_IGDLV,uillacunca,2,0.9992,2
+CRDLI_IGDLV,ullaca,2,0.9999,2
+CRDLI_IGDLV,valle,2,0.6558,2
+CRDLI_IGDLV,valle de ica,2,0.9884,1
+CRDLI_IGDLV,valle de yúcay,2,0.8447,2
+CRDLI_IGDLV,valle pachacámac,2,0.7996,2
+CRDLI_IGDLV,villarrica,2,0.9998,2
+CRDLI_IGDLV,villcapampa,2,0.989,1
+CRDLI_IGDLV,vizcaya,2,1.0,2
+CRDLI_IGDLV,xauxa,2,0.9991,2
+CRDLI_IGDLV,áfrica,2,1.0,2
+CRDLI_IGDLV,accha,1,0.9997,1
+CRDLI_IGDLV,achanquillo,1,0.9972,1
+CRDLI_IGDLV,acos,1,0.9997,1
+CRDLI_IGDLV,africa,1,1.0,1
+CRDLI_IGDLV,alonso de mesa,1,0.9997,1
+CRDLI_IGDLV,alpes,1,0.9729,1
+CRDLI_IGDLV,ambato,1,0.9998,1
+CRDLI_IGDLV,ancara,1,0.9999,1
+CRDLI_IGDLV,ancasmayu,1,0.965,1
+CRDLI_IGDLV,andaguaylas,1,0.999,1
+CRDLI_IGDLV,antahualla,1,0.9997,1
+CRDLI_IGDLV,antequera,1,1.0,1
+CRDLI_IGDLV,araucos,1,0.9963,1
+CRDLI_IGDLV,araucu,1,0.9995,1
+CRDLI_IGDLV,aruni,1,0.9998,1
+CRDLI_IGDLV,asillu,1,0.9997,1
+CRDLI_IGDLV,asturias,1,1.0,1
+CRDLI_IGDLV,atabáliba,1,0.9997,1
+CRDLI_IGDLV,atica,1,0.9999,1
+CRDLI_IGDLV,aticu,1,0.9997,1
+CRDLI_IGDLV,ayahuaca,1,0.9996,1
+CRDLI_IGDLV,aymaraes,1,0.7083,1
+CRDLI_IGDLV,aymaras,1,0.9993,1
+CRDLI_IGDLV,barra de san lúcar,1,0.9869,1
+CRDLI_IGDLV,barrio,1,0.6158,1
+CRDLI_IGDLV,barrio carmenca,1,0.849,1
+CRDLI_IGDLV,barrio cassana,1,0.999,1
+CRDLI_IGDLV,barrio de,1,0.5914,1
+CRDLI_IGDLV,barrio tococachi,1,0.9691,1
+CRDLI_IGDLV,berbería,1,0.9999,1
+CRDLI_IGDLV,bilbao,1,1.0,1
+CRDLI_IGDLV,bombón,1,0.9999,1
+CRDLI_IGDLV,burgos,1,1.0,1
+CRDLI_IGDLV,caldefrancos,1,0.9999,1
+CRDLI_IGDLV,cali,1,1.0,1
+CRDLI_IGDLV,callao,1,0.9999,1
+CRDLI_IGDLV,calle de la cárcel,1,0.9998,1
+CRDLI_IGDLV,callua,1,0.9997,1
+CRDLI_IGDLV,camana,1,0.9992,1
+CRDLI_IGDLV,cana,1,0.9999,1
+CRDLI_IGDLV,canaria,1,0.9999,1
+CRDLI_IGDLV,cancalla,1,0.9999,1
+CRDLI_IGDLV,cancillería,1,0.5135,1
+CRDLI_IGDLV,cantutpata,1,0.9989,1
+CRDLI_IGDLV,caracatu,1,0.981,1
+CRDLI_IGDLV,caracollo,1,0.9999,1
+CRDLI_IGDLV,caranques,1,0.9996,1
+CRDLI_IGDLV,carauilli,1,0.9997,1
+CRDLI_IGDLV,cari,1,0.9991,1
+CRDLI_IGDLV,cartagena de españa,1,0.9622,1
+CRDLI_IGDLV,casa collcampata,1,0.9987,1
+CRDLI_IGDLV,casa de,1,0.6991,1
+CRDLI_IGDLV,casa del demonio,1,0.9991,1
+CRDLI_IGDLV,casayunca,1,0.9999,1
+CRDLI_IGDLV,cascayunca,1,0.9999,1
+CRDLI_IGDLV,cassa,1,0.9994,1
+CRDLI_IGDLV,castilla de oro,1,0.9999,1
+CRDLI_IGDLV,cauiña,1,0.9771,1
+CRDLI_IGDLV,cauquicura,1,0.9999,1
+CRDLI_IGDLV,caxamalca,1,0.9999,1
+CRDLI_IGDLV,cayampi,1,0.9999,1
+CRDLI_IGDLV,cayaucachi,1,0.9995,1
+CRDLI_IGDLV,cañac-huay,1,0.9763,1
+CRDLI_IGDLV,cerro de potocsi,1,0.9974,1
+CRDLI_IGDLV,cerro potocchi,1,0.8761,1
+CRDLI_IGDLV,chachapoyas,1,0.9998,1
+CRDLI_IGDLV,chacma,1,0.9994,1
+CRDLI_IGDLV,challapampa,1,0.9989,1
+CRDLI_IGDLV,challcumarca,1,0.9997,1
+CRDLI_IGDLV,chalán,1,0.9999,1
+CRDLI_IGDLV,chamuru,1,0.9998,1
+CRDLI_IGDLV,chancay,1,0.9999,1
+CRDLI_IGDLV,chanchan,1,0.9999,1
+CRDLI_IGDLV,chillqui,1,0.9877,1
+CRDLI_IGDLV,chimpa,1,0.9944,1
+CRDLI_IGDLV,china,1,0.9999,1
+CRDLI_IGDLV,chipana,1,0.9999,1
+CRDLI_IGDLV,chirirqui,1,0.9995,1
+CRDLI_IGDLV,chulli,1,0.5818,1
+CRDLI_IGDLV,chumpiuillca,1,0.9995,1
+CRDLI_IGDLV,chuncuri,1,0.9999,1
+CRDLI_IGDLV,chuquiuitu,1,0.9944,1
+CRDLI_IGDLV,chírmac cassa,1,0.9998,1
+CRDLI_IGDLV,cieza de león,1,0.9999,1
+CRDLI_IGDLV,cintu,1,0.9983,1
+CRDLI_IGDLV,cipita,1,0.904,1
+CRDLI_IGDLV,citua,1,0.9969,1
+CRDLI_IGDLV,ciudad de,1,0.9944,1
+CRDLI_IGDLV,ciudad de plata,1,0.9999,1
+CRDLI_IGDLV,ciudad del cozco,1,0.9999,1
+CRDLI_IGDLV,cochacasa,1,0.9997,1
+CRDLI_IGDLV,cochacassa,1,0.9999,1
+CRDLI_IGDLV,cofachiqui,1,0.9999,1
+CRDLI_IGDLV,colla la grande,1,0.9999,1
+CRDLI_IGDLV,colla ñusta,1,0.9994,1
+CRDLI_IGDLV,collahua,1,0.9945,1
+CRDLI_IGDLV,collisuyu,1,0.9993,1
+CRDLI_IGDLV,collque,1,0.9994,1
+CRDLI_IGDLV,concepción,1,0.9999,1
+CRDLI_IGDLV,condado de niebla,1,0.9997,1
+CRDLI_IGDLV,convento de santo domingo,1,0.99,1
+CRDLI_IGDLV,convento del,1,0.8118,1
+CRDLI_IGDLV,convento del divino augustino,1,0.9975,1
+CRDLI_IGDLV,copacabana,1,1.0,1
+CRDLI_IGDLV,coropuna,1,0.9992,1
+CRDLI_IGDLV,cotahuaci,1,0.9999,1
+CRDLI_IGDLV,cotoche,1,0.9959,1
+CRDLI_IGDLV,coya doña beatriz,1,0.9273,1
+CRDLI_IGDLV,cozco de los quechuas,1,0.9035,1
+CRDLI_IGDLV,cuca,1,0.8265,1
+CRDLI_IGDLV,cuesta de pías,1,0.9488,1
+CRDLI_IGDLV,cunchucu,1,0.9999,1
+CRDLI_IGDLV,cunti,1,0.9985,1
+CRDLI_IGDLV,curahuasi,1,0.9999,1
+CRDLI_IGDLV,cuzapa,1,0.9951,1
+CRDLI_IGDLV,cuzumela,1,0.9979,1
+CRDLI_IGDLV,cáceres,1,1.0,1
+CRDLI_IGDLV,cádiz,1,1.0,1
+CRDLI_IGDLV,cápac yupanqui,1,0.5362,1
+CRDLI_IGDLV,darién,1,0.9914,1
+CRDLI_IGDLV,de dios,1,0.7091,1
+CRDLI_IGDLV,de los reyes,1,0.7037,1
+CRDLI_IGDLV,de maulli,1,0.563,1
+CRDLI_IGDLV,de noé,1,0.629,1
+CRDLI_IGDLV,del sur,1,0.7047,1
+CRDLI_IGDLV,desaguadero,1,0.9993,1
+CRDLI_IGDLV,diego de silva,1,0.9921,1
+CRDLI_IGDLV,divino augustino,1,0.7283,1
+CRDLI_IGDLV,divino san francisco,1,0.8594,1
+CRDLI_IGDLV,don gómez,1,0.9993,1
+CRDLI_IGDLV,espinar de segovia,1,0.9998,1
+CRDLI_IGDLV,gomera,1,0.9999,1
+CRDLI_IGDLV,granada,1,1.0,1
+CRDLI_IGDLV,grecia,1,0.9999,1
+CRDLI_IGDLV,guaca,1,0.9997,1
+CRDLI_IGDLV,guadarrama,1,0.9998,1
+CRDLI_IGDLV,guaina capa,1,0.9998,1
+CRDLI_IGDLV,guanatianico,1,0.9995,1
+CRDLI_IGDLV,guancas,1,0.9996,1
+CRDLI_IGDLV,guatemala,1,1.0,1
+CRDLI_IGDLV,guayaquile,1,0.8035,1
+CRDLI_IGDLV,guinea,1,1.0,1
+CRDLI_IGDLV,guánuco,1,0.9999,1
+CRDLI_IGDLV,hanan. cozco,1,0.9988,1
+CRDLI_IGDLV,hancohuanu,1,0.9999,1
+CRDLI_IGDLV,hatun rucana,1,0.9969,1
+CRDLI_IGDLV,hatuncancha,1,0.9969,1
+CRDLI_IGDLV,hatuncolla,1,0.9999,1
+CRDLI_IGDLV,hatunpuna,1,0.9963,1
+CRDLI_IGDLV,hauisca,1,0.9997,1
+CRDLI_IGDLV,hillaui,1,0.9532,1
+CRDLI_IGDLV,huaca,1,0.8738,1
+CRDLI_IGDLV,huallaripa,1,0.9994,1
+CRDLI_IGDLV,huanapu,1,0.9998,1
+CRDLI_IGDLV,huanca ñusta,1,0.9997,1
+CRDLI_IGDLV,huancani,1,0.9998,1
+CRDLI_IGDLV,huaracu,1,0.5609,1
+CRDLI_IGDLV,huaras,1,0.9998,1
+CRDLI_IGDLV,huayaquil,1,0.9998,1
+CRDLI_IGDLV,huayna potocchi,1,0.9066,1
+CRDLI_IGDLV,huaytara,1,0.9999,1
+CRDLI_IGDLV,hurim cozco,1,0.9995,1
+CRDLI_IGDLV,hurin pacassa,1,0.9996,1
+CRDLI_IGDLV,huáruc,1,0.9889,1
+CRDLI_IGDLV,huáscar,1,0.9926,1
+CRDLI_IGDLV,iglesia catedral del cozco,1,0.9944,1
+CRDLI_IGDLV,imperio de,1,0.9566,1
+CRDLI_IGDLV,imperio del cozco,1,0.9845,1
+CRDLI_IGDLV,indias occidentales,1,0.9998,1
+CRDLI_IGDLV,intipampa,1,0.9655,1
+CRDLI_IGDLV,ipiales,1,0.9979,1
+CRDLI_IGDLV,israel,1,0.9993,1
+CRDLI_IGDLV,jerez de badajoz,1,0.9999,1
+CRDLI_IGDLV,la cárcel,1,0.771,1
+CRDLI_IGDLV,la de san agustín,1,0.9992,1
+CRDLI_IGDLV,la habana,1,0.9999,1
+CRDLI_IGDLV,la hacha,1,0.9538,1
+CRDLI_IGDLV,la paz,1,0.9999,1
+CRDLI_IGDLV,la yerbabuena,1,0.7789,1
+CRDLI_IGDLV,las perlas,1,0.9215,1
+CRDLI_IGDLV,las salinas,1,0.9756,1
+CRDLI_IGDLV,león,1,0.9948,1
+CRDLI_IGDLV,llacsapallanca,1,0.9998,1
+CRDLI_IGDLV,llerena,1,0.9997,1
+CRDLI_IGDLV,maccha,1,0.9995,1
+CRDLI_IGDLV,machaca,1,0.9999,1
+CRDLI_IGDLV,mallama,1,0.9999,1
+CRDLI_IGDLV,mallorca,1,1.0,1
+CRDLI_IGDLV,manco cápac,1,0.9997,1
+CRDLI_IGDLV,mar de el sur,1,0.9999,1
+CRDLI_IGDLV,mar dulce,1,0.9995,1
+CRDLI_IGDLV,marca,1,0.7627,1
+CRDLI_IGDLV,marcahuaci,1,0.9998,1
+CRDLI_IGDLV,marcauillca,1,0.9998,1
+CRDLI_IGDLV,masca,1,0.9887,1
+CRDLI_IGDLV,mayu,1,0.9985,1
+CRDLI_IGDLV,medina del campo,1,0.9999,1
+CRDLI_IGDLV,mira,1,0.9968,1
+CRDLI_IGDLV,misqui,1,0.9999,1
+CRDLI_IGDLV,moca,1,0.9999,1
+CRDLI_IGDLV,mohina,1,0.9998,1
+CRDLI_IGDLV,monasterio de santo domingo,1,0.991,1
+CRDLI_IGDLV,montilla,1,0.9999,1
+CRDLI_IGDLV,moquehua,1,0.9997,1
+CRDLI_IGDLV,mucansa,1,0.9984,1
+CRDLI_IGDLV,muina,1,0.9962,1
+CRDLI_IGDLV,mujeres,1,0.9288,1
+CRDLI_IGDLV,munaycenca,1,0.9993,1
+CRDLI_IGDLV,mundo alto,1,0.9693,1
+CRDLI_IGDLV,murumuru,1,0.999,1
+CRDLI_IGDLV,mutupi,1,0.999,1
+CRDLI_IGDLV,muyumuyu,1,0.9999,1
+CRDLI_IGDLV,móyoc marca,1,0.9996,1
+CRDLI_IGDLV,nueva castilla,1,0.6505,1
+CRDLI_IGDLV,nueva toledo,1,0.9969,1
+CRDLI_IGDLV,nuevo reino de granada,1,0.9999,1
+CRDLI_IGDLV,orcos,1,0.9873,1
+CRDLI_IGDLV,oro,1,0.5933,1
+CRDLI_IGDLV,pacassa,1,0.9999,1
+CRDLI_IGDLV,pacárec tampu,1,0.9999,1
+CRDLI_IGDLV,palencia,1,1.0,1
+CRDLI_IGDLV,palta,1,0.9997,1
+CRDLI_IGDLV,paltas,1,0.9996,1
+CRDLI_IGDLV,papamarca,1,0.9998,1
+CRDLI_IGDLV,paparlen,1,0.9987,1
+CRDLI_IGDLV,papri,1,0.9907,1
+CRDLI_IGDLV,parco,1,0.9998,1
+CRDLI_IGDLV,parcu,1,0.9998,1
+CRDLI_IGDLV,paria,1,0.9999,1
+CRDLI_IGDLV,parina cocha,1,0.9982,1
+CRDLI_IGDLV,pasau,1,0.9991,1
+CRDLI_IGDLV,paso de guayna capa,1,0.8273,1
+CRDLI_IGDLV,paucarcolla,1,0.9999,1
+CRDLI_IGDLV,peru,1,1.0,1
+CRDLI_IGDLV,pica,1,0.9996,1
+CRDLI_IGDLV,pichu,1,0.9989,1
+CRDLI_IGDLV,picta,1,0.999,1
+CRDLI_IGDLV,pincu,1,0.9306,1
+CRDLI_IGDLV,pisco,1,0.9992,1
+CRDLI_IGDLV,piscopampa,1,0.9999,1
+CRDLI_IGDLV,plaza,1,0.722,1
+CRDLI_IGDLV,plaza cusipata,1,0.9995,1
+CRDLI_IGDLV,plaza de san francisco,1,1.0,1
+CRDLI_IGDLV,plaza del sol,1,0.9675,1
+CRDLI_IGDLV,plaza mayor del cozco,1,0.9724,1
+CRDLI_IGDLV,plaza rimacpampa,1,0.9997,1
+CRDLI_IGDLV,pocoata,1,0.9983,1
+CRDLI_IGDLV,pocra,1,0.9998,1
+CRDLI_IGDLV,potocchi el mozo,1,0.9866,1
+CRDLI_IGDLV,potocsí,1,0.9997,1
+CRDLI_IGDLV,promaucaes,1,0.9995,1
+CRDLI_IGDLV,puca marca,1,0.9998,1
+CRDLI_IGDLV,pucara de umasuyu,1,0.9838,1
+CRDLI_IGDLV,pucará de umasuyu,1,0.998,1
+CRDLI_IGDLV,puchiu,1,0.999,1
+CRDLI_IGDLV,pucuna,1,0.9999,1
+CRDLI_IGDLV,pueblo nuevo,1,0.9999,1
+CRDLI_IGDLV,puente de,1,0.5984,1
+CRDLI_IGDLV,pumallacta,1,0.9999,1
+CRDLI_IGDLV,pumata,1,0.8178,1
+CRDLI_IGDLV,punta de santa elena,1,0.9999,1
+CRDLI_IGDLV,purem,1,0.9997,1
+CRDLI_IGDLV,purumauca,1,0.9999,1
+CRDLI_IGDLV,páucar marca,1,0.9994,1
+CRDLI_IGDLV,píti,1,0.998,1
+CRDLI_IGDLV,quepaypa,1,0.9994,1
+CRDLI_IGDLV,quequesana,1,0.9996,1
+CRDLI_IGDLV,quesna,1,0.9999,1
+CRDLI_IGDLV,quillipata,1,0.9995,1
+CRDLI_IGDLV,quipucamayus,1,0.9648,1
+CRDLI_IGDLV,quitu ñusta,1,0.9995,1
+CRDLI_IGDLV,quéhuar,1,0.9842,1
+CRDLI_IGDLV,reino de chili,1,0.7513,1
+CRDLI_IGDLV,reyes,1,0.6479,1
+CRDLI_IGDLV,ritisuyu,1,0.9974,1
+CRDLI_IGDLV,rucanas,1,0.9994,1
+CRDLI_IGDLV,rucma,1,0.9992,1
+CRDLI_IGDLV,rurucachi,1,0.9998,1
+CRDLI_IGDLV,río apurímac,1,0.8939,1
+CRDLI_IGDLV,río maulli,1,0.8638,1
+CRDLI_IGDLV,sacsahuáman,1,0.9967,1
+CRDLI_IGDLV,salinas,1,0.4899,1
+CRDLI_IGDLV,san agustín,1,0.9993,1
+CRDLI_IGDLV,san francisco,1,0.9999,1
+CRDLI_IGDLV,san juan del condado de niebla,1,0.9998,1
+CRDLI_IGDLV,san lúcar de barrameda,1,0.9995,1
+CRDLI_IGDLV,san pablo,1,0.9997,1
+CRDLI_IGDLV,san pedro de cardeña,1,0.9728,1
+CRDLI_IGDLV,sancauan,1,0.9998,1
+CRDLI_IGDLV,santa clara,1,0.9848,1
+CRDLI_IGDLV,santa cruz,1,0.9997,1
+CRDLI_IGDLV,santa iglesia catedral de córdoba,1,0.9982,1
+CRDLI_IGDLV,santiago,1,1.0,1
+CRDLI_IGDLV,santiago de chili,1,0.9629,1
+CRDLI_IGDLV,saramissu,1,0.9999,1
+CRDLI_IGDLV,saussa,1,0.9998,1
+CRDLI_IGDLV,sayanca,1,0.9994,1
+CRDLI_IGDLV,segovia,1,1.0,1
+CRDLI_IGDLV,señor san francisco,1,0.8329,1
+CRDLI_IGDLV,sierra de allca,1,0.9919,1
+CRDLI_IGDLV,sipisipi,1,0.9998,1
+CRDLI_IGDLV,su majestad,1,0.9766,1
+CRDLI_IGDLV,sucahuaya,1,0.9915,1
+CRDLI_IGDLV,sura,1,0.9999,1
+CRDLI_IGDLV,suramarca,1,0.9996,1
+CRDLI_IGDLV,surihualla,1,0.9946,1
+CRDLI_IGDLV,sutcunca,1,0.7148,1
+CRDLI_IGDLV,sácllac marca,1,0.9994,1
+CRDLI_IGDLV,tacama,1,0.9993,1
+CRDLI_IGDLV,tacmara,1,0.5261,1
+CRDLI_IGDLV,tahuantinsuyu,1,0.5692,1
+CRDLI_IGDLV,tambo,1,0.9999,1
+CRDLI_IGDLV,tarapacá,1,1.0,1
+CRDLI_IGDLV,taurisma,1,0.9999,1
+CRDLI_IGDLV,tavantinsuyu,1,0.9993,1
+CRDLI_IGDLV,templo de,1,0.742,1
+CRDLI_IGDLV,templo de titicaca,1,0.9109,1
+CRDLI_IGDLV,tiaguanaco,1,1.0,1
+CRDLI_IGDLV,ticatica,1,0.9689,1
+CRDLI_IGDLV,ticzampi,1,0.9999,1
+CRDLI_IGDLV,tincuracu,1,0.9999,1
+CRDLI_IGDLV,tiucassa,1,0.9999,1
+CRDLI_IGDLV,tiupuncu,1,0.5331,1
+CRDLI_IGDLV,tococachi,1,0.9995,1
+CRDLI_IGDLV,tomebamba,1,0.9999,1
+CRDLI_IGDLV,tono,1,0.9996,1
+CRDLI_IGDLV,tucmi,1,0.9994,1
+CRDLI_IGDLV,tumibamba,1,0.9993,1
+CRDLI_IGDLV,tunu,1,0.9996,1
+CRDLI_IGDLV,tíahuanacu,1,0.9998,1
+CRDLI_IGDLV,túmbez,1,0.9996,1
+CRDLI_IGDLV,ubeda,1,1.0,1
+CRDLI_IGDLV,ucuña,1,0.9995,1
+CRDLI_IGDLV,uillacori,1,0.9999,1
+CRDLI_IGDLV,uillcanuta,1,0.9997,1
+CRDLI_IGDLV,uillcapampa,1,0.997,1
+CRDLI_IGDLV,uillilli,1,0.9968,1
+CRDLI_IGDLV,uraba,1,0.9995,1
+CRDLI_IGDLV,urabá,1,1.0,1
+CRDLI_IGDLV,urcollasu,1,0.9999,1
+CRDLI_IGDLV,urcos,1,0.9932,1
+CRDLI_IGDLV,utumsulla,1,0.9996,1
+CRDLI_IGDLV,utunsulla,1,0.9914,1
+CRDLI_IGDLV,uuiña,1,0.9987,1
+CRDLI_IGDLV,valencia,1,1.0,1
+CRDLI_IGDLV,valle de,1,0.8444,1
+CRDLI_IGDLV,valle de cuzapa,1,0.9202,1
+CRDLI_IGDLV,valle de la yerbabuena,1,0.9999,1
+CRDLI_IGDLV,valle de pisco,1,0.9613,1
+CRDLI_IGDLV,valle de túmpiz,1,0.8328,1
+CRDLI_IGDLV,valle del huarcu,1,0.971,1
+CRDLI_IGDLV,valle hacari,1,0.7863,1
+CRDLI_IGDLV,valle huarcu,1,0.9425,1
+CRDLI_IGDLV,valle yúcay,1,0.9144,1
+CRDLI_IGDLV,vera paz,1,0.9999,1
+CRDLI_IGDLV,vesta,1,0.9921,1
+CRDLI_IGDLV,victoria,1,0.6842,1
+CRDLI_IGDLV,vilcas,1,0.9998,1
+CRDLI_IGDLV,villa de la plata,1,1.0,1
+CRDLI_IGDLV,villa de plata,1,0.9999,1
+CRDLI_IGDLV,villcanuta,1,0.9998,1
+CRDLI_IGDLV,xaquixaguana,1,0.9996,1
+CRDLI_IGDLV,yacha huaci,1,0.9943,1
+CRDLI_IGDLV,yunca,1,0.8739,1
+CRDLI_IGDLV,yunca ñusta,1,0.9993,1
+CRDLI_IGDLV,yáhuar pampa,1,0.9953,1
+CRDLI_IGDLV,zamora,1,1.0,1
+CRDLI_IGDLV,zancu,1,0.9974,1
+CRDLI_IGDLV,zaña,1,0.9994,1
+CRDLI_IGDLV,zupaipa huacin,1,0.9939,1
+CRDLI_IGDLV,ídolo,1,0.9845,1
